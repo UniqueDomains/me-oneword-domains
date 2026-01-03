@@ -1,5 +1,5 @@
 id,Domain,Status,Attractiveness,Demand,Length,Registrar,Created,Expires
-3ada1614-fd1b-42ca-ba29-d6adcb2c27e6,aaa.me,resell,70,35,3,"GoDaddy.com, LLC",04/08/2008 10:07,04/08/2026 10:07
+3ada1614-fd1b-42ca-ba29-d6adcb2c27e6,aaa.me,resell,70,34,3,"GoDaddy.com, LLC",04/08/2008 10:07,04/08/2026 10:07
 902c9667-c697-4ecb-81e9-762f742a59ee,aak.me,resell,68,32,3,Dynadot Inc,20/02/2020 11:26,20/02/2026 11:26
 4e4dd560-49a0-4b7b-bb14-cc6e777545f2,AandE.me,available,50,80,7,,,
 fe11a31f-3c16-49e5-912f-24e39a9e0c4c,aargh.me,available,56,76,5,,,
@@ -639,6 +639,7 @@ f4ef730c-2b3e-4353-9991-31376ff9ef50,acrobaticgymnastics.me,available,62,8,20,,,
 16a44010-d0a9-4b54-8ed0-da4c7e303de8,acrobats.me,available,46,72,8,,,
 fb7ad01c-4189-44ed-a6b5-68412bf08c33,acrogenic.me,available,46,1,9,,,
 ac15af67-9c62-4ce0-a3c5-99045459d4c6,acrogenous.me,available,46,1,10,,,
+93c44968-8df2-4e42-8c30-b504401a75db,acronym.me,resell,94,11,7,Dynadot Inc,28/04/2015 04:57,28/04/2026 04:57
 81175b64-e1c7-4ef7-b520-57ae68ab3f29,acronymic.me,available,46,1,9,,,
 d91b04e6-2430-4066-90d7-48f4b3a95788,acronymous.me,available,46,2,10,,,
 62f4f87e-cb21-40c5-9e3d-1cef7e9e213d,acronyms.me,available,52,20,8,,,
@@ -646,7 +647,7 @@ d91b04e6-2430-4066-90d7-48f4b3a95788,acronymous.me,available,46,2,10,,,
 2a8c9194-b493-4315-aadb-938984295de8,acrophobic.me,available,64,1,10,,,
 aedd3f5b-6e9d-4763-84bc-f7ae3cf9f4af,acrophonic.me,available,52,72,10,,,
 9d6e4239-a26d-41b3-a1bf-608d3284a56a,acroscopic.me,available,46,1,10,,,
-de713818-9dc6-4f68-9225-20c396507f99,across.me,premium,90,13,6,,,
+de713818-9dc6-4f68-9225-20c396507f99,across.me,premium,90,12,6,,,
 acca7229-3b97-45ef-92e5-682e5bc85e80,acrosstheboard.me,available,72,3,16,,,
 33dcda06-173e-4ac0-8a3b-94222c909291,acrosstheditch.me,available,46,72,16,,,
 da7ecba8-d2d2-4092-a027-898554bedaa5,acrosstheline.me,available,62,80,15,,,
@@ -816,7 +817,7 @@ cddd9959-160b-4407-927e-265432df3797,addible.me,available,58,3,7,,,
 e4319043-e9c3-4d8e-899b-1dc0792797d3,addicted.me,resell,72,9,8,Mesh Digital Limited,17/07/2008 22:04,17/07/2026 22:04
 d8b199b7-1316-455d-a8b4-222b2b5f8376,addictively.me,available,42,72,11,,,
 90f544df-48db-4535-8e96-b95d104b3535,additament.me,available,52,72,10,,,
-10eaa2b8-380b-4025-ab39-d581a74105ae,addition.me,resell,70,10,8,"Name.com, Inc.",23/01/2017 07:06,23/01/2026 07:06
+10eaa2b8-380b-4025-ab39-d581a74105ae,addition.me,resell,70,9,8,"Name.com, Inc.",23/01/2017 07:06,23/01/2026 07:06
 0e5cdf39-69fb-476c-b3cd-0f496316a8b0,additionally.me,available,44,68,12,,,
 dd4fb08a-5518-46cd-999d-fb6eb141daa8,additionary.me,available,52,72,11,,,
 1bc7fa6c-cf52-4000-8f2f-4d268b6fede9,additionsign.me,available,56,72,13,,,
@@ -1002,7 +1003,7 @@ e7adfbeb-83b7-4bbb-8510-98294095cd37,advantageousness.me,available,64,72,16,,,
 206df894-83e9-46d5-b31d-0f8ff576443f,adventism.me,available,54,76,9,,,
 7e0d896a-7746-48ae-88ec-8e017f80364c,Adventists.me,available,40,24,10,,,
 1a5ee45d-0731-4869-b722-517cf62f780d,adventive.me,available,68,3,9,,,
-4fde1ddb-7188-4c60-802f-97b3671668fe,adventure.me,resell,94,36,9,"GoDaddy.com, LLC",29/04/2008 17:58,29/04/2026 17:58
+4fde1ddb-7188-4c60-802f-97b3671668fe,adventure.me,resell,94,35,9,"GoDaddy.com, LLC",29/04/2008 17:58,29/04/2026 17:58
 c6044445-91ed-49d4-a93f-a7b2d107525b,adventured.me,available,42,20,10,,,
 6b2143e8-39a3-4ad3-8fe2-f8e3c33a0d14,adventureeducation.me,available,66,72,19,,,
 82d71047-aca4-4bb3-9562-600b6d64c61e,adventuregame.me,available,62,80,14,,,
@@ -1043,6 +1044,7 @@ ee958083-3675-4870-8da3-a49fe33c9a19,advisable.me,available,62,3,9,,,
 77fc66a5-d7dd-4809-8736-d67289a292a1,advisoryopinion.me,available,56,72,16,,,
 bd983e9c-d307-4056-8006-8e3c3417a3ec,advocacyplanning.me,available,54,8,17,,,
 84f77bd7-01d4-4f4f-81fa-5b97672969c8,advocacyresearch.me,available,54,16,17,,,
+e95d4860-dd4a-4bf9-b40f-6e0ce3232259,advocate.me,resell,90,15,8,Dynadot Inc,14/08/2012 02:35,14/08/2027 02:35
 fd1edc4e-5da6-454d-b5d8-19b12527e3f7,advocated.me,available,50,76,9,,,
 7e5c2405-bd21-4cf8-b3cb-fa00b8f52939,advocategeneral.me,available,54,72,16,,,
 0b29c972-ea39-4508-8fd3-8718b27abfff,advocates.me,resell,40,44,9,Dynadot Inc,01/06/2021 06:25,01/06/2026 06:25
@@ -1110,7 +1112,7 @@ d36f5b3a-cb48-4f28-9685-45289487645f,affective.me,available,56,5,9,,,
 a5260e7c-b16d-43e2-9ae2-8eaba7e1d99c,affiance.me,available,85,76,8,,,
 b539857b-f4ed-4efa-9936-22d53b8c0878,afficionado.me,available,66,20,11,,,
 f890e930-becd-4d3c-ab9d-e95a1f455e58,afficionados.me,available,48,8,12,,,
-56928896-484c-4ec6-8aae-887f51a7fe63,affiliate.me,resell,94,26,9,"Wild West Domains, LLC",29/04/2008 17:58,29/04/2026 17:58
+56928896-484c-4ec6-8aae-887f51a7fe63,affiliate.me,resell,94,25,9,"Wild West Domains, LLC",29/04/2008 17:58,29/04/2026 17:58
 98aae82f-21f7-4614-b9e7-bb29603436f6,affiliated.me,available,60,10,10,,,
 bf4a5b12-6800-4399-80a8-ade03bd52773,affiliatenetwork.me,available,56,84,17,,,
 d355aaca-1365-4b90-9c56-6e20626344a3,affinal.me,available,50,2,7,,,
@@ -1451,7 +1453,7 @@ f0c35cb8-fd6e-41b9-9a05-d745792c3fa3,alabaman.me,available,76,76,8,,,
 1b30945e-eb95-4b69-8e9b-fe7446215835,alarmed.me,available,52,3,7,,,
 2f155d3b-7c13-4f00-9d29-da262bc4203d,alarmsystem.me,resell,66,80,12,"Chengdu West Dimension Digital Technology Co., Ltd.",14/11/2024 19:17,14/11/2025 19:17
 2806d8f5-5cc5-4141-8821-e84378b35f63,alarumclock.me,available,54,72,12,,,
-f730d66e-d2ea-4588-957f-17f6a31f4e0e,alaska.me,resell,76,24,6,"GoDaddy.com, LLC",08/08/2008 23:52,08/08/2026 23:52
+f730d66e-d2ea-4588-957f-17f6a31f4e0e,alaska.me,resell,76,23,6,"GoDaddy.com, LLC",08/08/2008 23:52,08/08/2026 23:52
 1ad02be8-d37f-4c4b-9536-4c16b30125ec,alaskacod.me,available,58,72,10,,,
 09f54d51-1ab2-4074-a1b9-2f2179c1e4a4,alaskan.me,resell,76,9,7,"GoDaddy.com, LLC",19/07/2008 06:43,19/07/2026 06:43
 ee6fb3de-b8af-42e0-8550-73ba6494582f,AlaskaRange.me,available,46,76,12,,,
@@ -1554,7 +1556,7 @@ aa4926ff-0cbb-4091-a20b-10ec3346d4b4,aliphatic.me,available,64,1,9,,,
 49b8d879-0dcf-4d4b-9ca0-628665fd3e42,Alisha.me,resell,62,80,6,"NameCheap, Inc.",22/06/2018 04:00,22/06/2026 04:00
 cf083026-5b4f-401e-9fba-042891a77b7b,Alishan.me,available,56,80,7,,,
 7cdb19d3-42bf-4877-a209-c2fb2e4b8b95,Alister.me,resell,54,80,8,"Spaceship, Inc.",01/12/2024 03:56,01/12/2025 03:56
-3ff8e641-8960-4749-928f-12b2f77b9ed3,alittle.me,available,62,8,8,,,
+3ff8e641-8960-4749-928f-12b2f77b9ed3,alittle.me,available,62,7,8,,,
 21193263-0b1b-4f1a-9dd7-609dd4510c67,alittlebit.me,available,64,2,12,,,
 ddd90846-88bd-40a1-aec3-b728903c97d0,alittlematter.me,available,46,72,15,,,
 b809387d-ffc7-45c3-b31f-49939eb3a6d5,Aliyha.me,available,56,72,6,,,
@@ -1653,7 +1655,7 @@ ef6b3df7-67e7-480e-bc8c-7b063f47f4af,alleviated.me,available,66,1,10,,,
 491140e6-e889-4bfe-a06f-fd4709cbffe9,Allex.me,resell,56,76,5,"Chengdu West Dimension Digital Technology Co., Ltd.",14/11/2024 19:28,14/11/2025 19:28
 60c3d995-d4aa-417b-9125-12cc25989ed0,allexpense.me,available,50,72,11,,,
 7fe4a4db-1dbe-48d8-910d-555ae041c98b,allexpensespaid.me,available,60,72,17,,,
-948cabe8-5684-4690-93bb-4cde03dd8958,alley.me,resell,58,8,5,"Sav.com, LLC - 29",24/10/2025 15:15,24/10/2026 15:15
+948cabe8-5684-4690-93bb-4cde03dd8958,alley.me,resell,58,9,5,"Sav.com, LLC - 29",24/10/2025 15:15,24/10/2026 15:15
 64322495-e033-44f1-804e-948e9154d695,alleyes.me,available,66,76,8,,,
 df70e750-66aa-4fdf-8fbd-d95f5b178880,alleyesandears.me,available,52,72,17,,,
 545aca24-8d90-42b3-b3b9-fdfa2170193e,alleyway.me,available,58,3,8,,,
@@ -2531,6 +2533,7 @@ d925af9f-ac23-4c59-90d5-712d0a561471,annelid.me,available,63,2,7,,,
 6a083fe2-8f61-4e92-8404-fb5c176a7286,annelidan.me,available,59,1,9,,,
 6125e8e6-e04b-4dcc-a967-4aec6a2d0a86,annelidous.me,available,50,72,10,,,
 e606c89b-0456-4560-a460-37c173d27453,Annella.me,available,56,72,7,,,
+a8d0bb24-42e0-4a1a-bf03-87f2eaa8e4f9,annex.me,resell,60,11,5,"Spaceship, Inc.",18/12/2016 03:23,18/12/2026 03:23
 3e1fe709-fda1-48c1-bd66-5ce1dcfcd534,annexal.me,available,60,2,7,,,
 f830ab35-6342-4e09-8b67-e335f29c3c95,annexation.me,available,54,72,10,,,
 31f3476e-5f3c-4e10-971e-b5861ec42c21,anniversary.me,resell,74,9,11,"GoDaddy.com, LLC",11/10/2010 03:21,11/10/2026 03:21
@@ -2745,6 +2748,7 @@ d814668f-563f-4d23-90f3-bebed39bbedd,anylonger.me,available,54,72,10,,,
 ae685d89-33a1-4031-b82f-74136387b409,anyone.me,available,54,13,6,,,
 0ae2665e-38d4-4f6e-8525-dcc8d79a4891,anyplace.me,resell,50,76,8,"Chengdu West Dimension Digital Technology Co., Ltd.",14/11/2024 19:44,14/11/2025 19:44
 fbb72116-67a8-4c3f-9816-a6004fd5ce43,anytime.me,resell,100,27,7,Dynadot Inc,17/07/2008 17:54,17/07/2026 17:54
+d31c2766-82bf-4afb-aede-0ee964eb73af,anyway.me,available,70,13,6,,,
 52e94305-dbe0-45a8-a198-813b937fe335,anzio.me,available,48,76,5,,,
 87a3b209-7e4d-4aff-b11b-5aedf21e242c,AON.me,resell,56,84,3,Dynadot Inc,24/11/2015 02:35,24/11/2025 02:35
 66d43200-3a9c-4753-98a4-7fb4cceb9ed2,aoristic.me,available,46,1,8,,,
@@ -3030,7 +3034,7 @@ c41bc4c3-b752-4641-89db-2a7da2d8cb98,arcwelder.me,available,56,72,9,,,
 91236a43-c679-4e8d-88ba-52fa3efe58a5,ardently.me,available,54,88,8,,,
 f75fff06-4954-48ac-b5cc-947507824fe2,arduous.me,available,60,3,7,,,
 fa43c60b-2615-4d2d-913a-c048c2fc0ed5,arduously.me,available,44,72,9,,,
-94ffed34-b4ba-48a3-ae9e-ee4f0a0a402c,are.me,available,88,30,3,,,
+94ffed34-b4ba-48a3-ae9e-ee4f0a0a402c,are.me,available,88,29,3,,,
 90436405-2e82-472c-af9a-2300eac29573,area.me,resell,78,24,4,"GoDaddy.com, LLC",09/07/2008 17:01,09/07/2026 17:01
 c4616977-f9eb-4f5b-a3c2-57887314b5e7,areacontrolcenter.me,available,60,72,19,,,
 1d0ba0ba-1a39-4a88-bc48-9577b96106f5,areacontrolcentre.me,available,60,72,19,,,
@@ -3433,7 +3437,7 @@ e48fe86c-86cb-4253-981a-3926debd1b8c,asoldasMethuselah.me,available,54,72,20,,,
 a83f2f15-a668-4ab7-ab5b-1e0b3ca74568,asopposedto.me,available,50,1,13,,,
 640cdc24-6698-4f07-b411-81deb4b85ce8,asparagus.me,resell,70,88,9,Dynadot Inc,03/08/2022 07:46,03/08/2026 07:46
 68d29a64-4aa9-4fb8-91e2-5c789a3d85fd,aspartame.me,available,62,80,9,,,
-ff3dd137-524f-4ba3-a52f-0c946ee03cf1,aspect.me,resell,92,20,6,Dynadot Inc,22/12/2012 02:35,22/12/2026 02:35
+ff3dd137-524f-4ba3-a52f-0c946ee03cf1,aspect.me,resell,92,19,6,Dynadot Inc,22/12/2012 02:35,22/12/2026 02:35
 fcf41256-ba93-4ca4-86a0-c0ac7a118d8c,aspectual.me,available,44,1,9,,,
 e50687e4-a7a3-4890-a4ce-d2df8a95c62f,aspen.me,resell,58,84,5,Dynadot Inc,12/08/2008 18:59,12/08/2025 18:59
 4816781c-300b-4dc1-9b37-82f9668c7ff0,aspertheusual.me,available,44,72,16,,,
@@ -3614,6 +3618,7 @@ f8a059a4-1658-491e-87bb-2a511f40f2a6,astutely.me,available,56,80,8,,,
 ff26604b-e56f-45f5-8e65-3ee6eb9b14bf,astylar.me,available,49,1,7,,,
 9911ca1d-78be-437f-9f24-809d5e039110,asunder.me,available,48,2,7,,,
 3149276a-ae51-4d89-bd23-1f17092b3c35,asusual.me,available,54,72,8,,,
+66c309c3-9046-49c2-94ee-2742ebbde129,aswell.me,available,72,4,7,,,
 4886ab56-a7b2-4bd7-b027-477750ac589f,aswespeak.me,available,54,76,11,,,
 b2f0b470-dfa8-4337-8bc3-e799af222462,aswhat.me,available,56,1,7,,,
 754a3da6-9f4c-4db7-a53c-54dadbec1b12,aswiseasanowl.me,available,48,72,17,,,
@@ -3677,6 +3682,7 @@ eb43ff22-5387-4620-a964-a14fe5346af4,Athlone.me,available,56,76,7,,,
 bd062f8b-e2ab-42bf-8d20-262ae4d695fb,Athole.me,available,56,72,6,,,
 4b423998-6b6e-4827-b40e-300daff2bfd8,Atholl.me,available,56,76,6,,,
 8cdc2b77-680d-4e27-bfc3-d488eff16e24,Atholville.me,available,52,72,10,,,
+cc2ccd01-1cb6-4a8e-a031-30c47e09f0bf,athome.me,available,86,19,7,,,
 821a33b7-be2d-43b5-88c7-41ec0b595063,athousand.me,available,56,1,10,,,
 33915572-a43d-47bf-9604-d18cd46d4c46,athwart.me,available,50,72,7,,,
 8b002090-5d40-4caa-8610-7cb6bab9c5b8,Atikamekw.me,available,68,72,9,,,
@@ -3722,7 +3728,7 @@ ec0e89ae-02f0-46ac-a446-f605725bf89a,atonce.me,available,52,80,7,,,
 5a386d38-39d6-4fc4-ae78-a274a51dd9bb,atonic.me,available,58,2,6,,,
 89dc94b4-0ad6-4597-acbe-b7c07575d4d4,atop.me,resell,62,7,4,Dynadot Inc,19/04/2016 21:27,19/04/2026 21:27
 c74690be-9035-49dd-9ecd-a10cfc26dbdc,atoxic.me,available,38,1,6,,,
-5e3b4ee8-c3c7-4ef2-8c3d-94d955812d9c,atp.me,resell,66,19,3,Dynadot Inc,24/08/2022 14:30,24/08/2026 14:30
+5e3b4ee8-c3c7-4ef2-8c3d-94d955812d9c,atp.me,resell,66,18,3,Dynadot Inc,24/08/2022 14:30,24/08/2026 14:30
 be2f9888-3f7a-4150-bd25-394de8d19173,atpresent.me,available,61,2,10,,,
 4de5d0da-827a-4074-b3d4-e3a4435f41bd,atrandom.me,available,54,72,9,,,
 163d25e5-b96b-4c22-95fb-22711e2fb8db,atreat.me,available,58,16,7,,,
@@ -3746,7 +3752,7 @@ a8593275-c059-45bc-a1aa-073fa3571018,atstake.me,available,58,3,8,,,
 6dbdc456-eb31-4bc9-8ca4-79a263f1e5f7,attachable.me,available,48,1,10,,,
 96c339cc-6c04-4411-9977-574e03c4b0b0,attachmentparenting.me,available,64,72,20,,,
 37fb71d9-232f-4259-8f97-9b85dc431f80,attachmenttherapy.me,available,56,72,18,,,
-37e6b459-ead4-47a7-9a02-03d7d8471b1e,attack.me,available,122,14,6,,,
+37e6b459-ead4-47a7-9a02-03d7d8471b1e,attack.me,available,122,13,6,,,
 c5b7baf1-aed7-4515-bd8f-b923481f1d86,attackingmidfielder.me,available,56,72,20,,,
 de345a80-aac9-4024-b145-71093c55f370,attackingzone.me,available,60,72,14,,,
 f6ee30d1-c3c9-43f9-973d-0216e64fc661,Attadale.me,available,50,72,8,,,
@@ -3773,7 +3779,7 @@ e95acc1b-3563-4513-b48d-d1a038cc1a5b,attendees.me,available,36,32,9,,,
 074d204e-2a3e-4c70-9e76-e8cc58a71b99,attender.me,resell,38,3,8,"Chengdu West Dimension Digital Technology Co., Ltd.",14/11/2024 20:15,14/11/2025 20:15
 0b3f0e3b-395c-41c8-a156-253eddf16b2e,attends.me,resell,54,36,7,"Chengdu West Dimension Digital Technology Co., Ltd.",14/11/2024 18:54,14/11/2025 18:54
 546b3373-cc6a-4c47-aa32-cb703357a684,attendto.me,available,66,72,9,,,
-7f050788-a3d7-41b0-86ac-90ea2090605a,attention.me,resell,90,22,9,Dynadot Inc,19/07/2008 16:18,19/07/2026 16:18
+7f050788-a3d7-41b0-86ac-90ea2090605a,attention.me,resell,90,21,9,Dynadot Inc,19/07/2008 16:18,19/07/2026 16:18
 236a38dc-2385-44be-a911-956b49048e39,attentional.me,available,52,72,11,,,
 b6fb3626-3dc8-4399-a2bf-955e415929a5,attentiongetter.me,available,60,76,16,,,
 8c400c0b-b2b6-465d-87e0-7ba5aa03bbc1,attentiongrabbing.me,available,52,72,18,,,
@@ -3835,7 +3841,7 @@ b2c9ead8-82fd-4b08-8bdf-026121b5775f,Attouda.me,available,54,72,7,,,
 fe00ecf5-8187-4971-9bc7-ce4416cf9cf6,attourney.me,available,56,72,9,,,
 e1b57774-7f6f-4aeb-980e-f4a6be2fb9cf,attract.me,resell,82,12,7,"GoDaddy.com, LLC",17/08/2008 08:29,17/08/2026 08:29
 e3dc504f-73ed-4bb3-8a51-9cad20e337e8,attractattention.me,available,72,72,17,,,
-7a619193-2c52-474b-b14a-9cf67adbb23e,attraction.me,premium,76,11,10,,,
+7a619193-2c52-474b-b14a-9cf67adbb23e,attraction.me,premium,76,97,10,,,
 9f69e55a-c298-4692-8fb5-1479976f2123,attractions.me,resell,52,48,11,Dynadot Inc,11/10/2023 17:00,11/10/2025 17:00
 1054d2ce-ea30-405c-be35-f5f5408677fc,attractively.me,available,52,72,12,,,
 ca581d1e-377f-4604-b104-ff75b541a9b8,attractmode.me,available,60,72,12,,,
@@ -5018,7 +5024,7 @@ caa83e8f-fc61-4afb-a0ff-42755c573763,baseunits.me,available,40,12,10,,,
 7acf2bd8-3f81-441e-9991-6f09bf0aab1d,basewide.me,available,48,72,8,,,
 3362b0a7-5be9-4461-a961-deb10b45ca47,basewise.me,available,42,72,8,,,
 2f914471-e10b-409f-a311-53a5566f5132,basewoman.me,available,52,72,9,,,
-a65752bf-ee60-4ab8-9a1c-a33cb941d62d,bash.me,available,88,21,4,,,
+a65752bf-ee60-4ab8-9a1c-a33cb941d62d,bash.me,available,88,20,4,,,
 9a32717b-e165-4549-8b3f-9e4d1bcc3642,bashawism.me,available,50,4,9,,,
 def2e197-c3e8-47dd-a03b-f12eae4bf50f,bashaws.me,available,36,12,7,,,
 28d4372e-e3ba-44fb-b4ca-b21fd42ac1f5,bashawship.me,available,50,4,10,,,
@@ -5591,7 +5597,7 @@ a9009a09-aa73-4a24-ad07-e583fce53540,Belizean.me,available,76,72,8,,,
 f51c7105-6f8f-4247-a8eb-be75a830dad4,BelizeCity.me,available,52,72,11,,,
 0ebb22b6-b556-4b32-b21d-5a316420cee4,BelizeRiver.me,available,52,72,12,,,
 70e1dad6-1799-49a9-879c-a88427799a3f,Belizian.me,available,74,72,8,,,
-337342ae-dc9b-4c5b-875b-79c3a8a712ba,bell.me,resell,84,24,4,"NameSilo, LLC",31/07/2008 02:38,31/07/2027 02:38
+337342ae-dc9b-4c5b-875b-79c3a8a712ba,bell.me,resell,84,23,4,"NameSilo, LLC",31/07/2008 02:38,31/07/2027 02:38
 e5709c73-760c-4b19-9c61-46bad08fc35d,bellbottom.me,available,34,1,10,,,
 9c84682e-55bf-4398-8155-c8010729a961,bellboys.me,available,50,24,8,,,
 8bdfbe70-a41c-46fa-b42b-2274279dc348,bellcast.me,available,38,72,8,,,
@@ -5770,6 +5776,7 @@ c6891517-9ef4-4725-aea1-90a77b9b9916,bewildered.me,available,44,4,10,,,
 c9af8a51-579d-43b5-b74f-f030aff379bc,bewildering.me,available,68,72,11,,,
 976a8b24-cb6d-429c-a3a3-745f6bfcb057,bewithit.me,available,74,72,10,,,
 79e1ce66-4fa8-499c-aa02-7836d5179fe4,Beyblade.me,resell,78,80,8,"Chengdu West Dimension Digital Technology Co., Ltd.",14/11/2024 18:28,14/11/2025 18:28
+bc56bbb3-88a9-45ee-bc55-f7fa34c49048,beyond.me,available,87,40,6,,,
 4a65f689-dd88-4e19-8ebf-206be666a58b,beyonddoubt.me,available,40,72,12,,,
 177ec9d9-66c3-4368-83ae-92a72cf23d91,beyondquestion.me,available,40,20,15,,,
 238e9f20-9a5d-4b25-8cf6-c929939dc0cc,beyondreproach.me,available,40,8,15,,,
@@ -6382,7 +6389,7 @@ e6ff00fd-f0e1-4726-9c65-a4007224db12,blistering.me,available,63,4,10,,,
 81c79761-ebfd-4f3b-89b1-877eedec6888,blisteringly.me,available,44,72,12,,,
 57493ad5-db7b-46ed-9c9e-bf00d04d78ac,blithely.me,available,57,72,8,,,
 a084410b-bc0b-4326-ae07-2887fe6d4651,blob.me,resell,60,22,4,Dynadot Inc,10/03/2015 02:35,10/03/2026 02:35
-f7170328-d55f-4bd7-a843-be81e3bcf844,block.me,resell,68,34,5,"GoDaddy.com, LLC",13/09/2008 16:57,13/09/2026 16:57
+f7170328-d55f-4bd7-a843-be81e3bcf844,block.me,resell,68,98,5,"GoDaddy.com, LLC",13/09/2008 16:57,13/09/2026 16:57
 30e8f2ae-fcde-4058-a0f6-b36a41668056,blockaded.me,available,37,1,9,,,
 2d642ce0-d80a-468e-89a0-80a836f38517,blockbook.me,available,56,76,10,,,
 fe7418bc-a119-4f79-bde0-aa31bc104bd8,blockbusterish.me,available,60,72,14,,,
@@ -7784,7 +7791,7 @@ e16ea469-e254-4ad6-b5f9-c3c7dbd1c0b1,broadchurch.me,available,52,76,12,,,
 c149eedf-1f83-4265-bea7-38fc6824abe6,broadhint.me,available,60,72,10,,,
 134b8d7c-a322-4bde-8420-d7a05c4b7211,broadjump.me,available,60,72,10,,,
 0d0e137a-c874-463a-af9d-cb25ee8419aa,broadloom.me,available,68,72,9,,,
-ee2df791-73b4-49dd-821d-49e98d24def2,broadly.me,available,65,4,7,,,
+ee2df791-73b4-49dd-821d-49e98d24def2,broadly.me,available,65,3,7,,,
 74c381e3-6638-4baf-8fd6-b9c555fb5528,broadmindedly.me,available,54,72,14,,,
 813d45a6-f97e-4de2-b669-fa78e6fa3668,broadmindedness.me,available,60,72,16,,,
 ffdb1526-8684-489c-8845-780ab9b3c7f8,broadscale.me,available,48,76,10,,,
@@ -8226,7 +8233,7 @@ f4c26065-c3c4-46fb-8c47-9925a9a3e992,burglaralarm.me,available,66,72,13,,,
 1c1a85fe-4d17-454c-a83b-54e4aed1d11d,burka.me,available,58,72,5,,,
 61e25db5-7b31-4636-a4f5-f845794ebe84,burly.me,available,50,6,5,,,
 388d9765-0f7f-4c11-9b0f-bea82618c79f,burmese.me,available,88,72,7,,,
-d0bf14ce-bb3e-4e76-8efa-a4136c825e0b,burn.me,available,76,22,4,,,
+d0bf14ce-bb3e-4e76-8efa-a4136c825e0b,burn.me,available,76,21,4,,,
 83c8e8c4-212b-4206-a02a-b5711acbadf8,burned.me,available,60,5,6,,,
 32266187-65b2-47dc-96bd-c2124c9446bb,burnished.me,available,52,76,9,,,
 2389fc9f-09da-4a86-b30a-52003839868a,burnishing.me,available,56,76,10,,,
@@ -9992,10 +9999,3 @@ e5dbec26-5717-40ae-9825-8b7320a61db6,channelizations.me,available,34,4,15,,,
 6935aa85-a38e-43ff-bdf0-423d094aa253,channelsurf.me,available,54,24,12,,,
 41a070c3-cdde-4a72-87a6-2abdd82f44b6,ChannelTunnel.me,available,44,8,14,,,
 2df41d04-f559-49b8-af00-ef373133ea2e,channukah.me,available,68,1,9,,,
-7e9e719f-bbbb-476f-ac78-57eeaf60fbbd,channukkah.me,available,68,1,10,,,
-e58b53aa-0650-4966-bbd0-a29065f1790c,chanted.me,available,50,72,7,,,
-427fbf1c-40d7-435b-b068-933b9b460c8a,chanterelle.me,available,60,76,11,,,
-34a1a240-082b-4554-b01c-961fa1296c2d,chanting.me,available,62,80,8,,,
-5430fafe-0229-43de-b8b7-67f30ebc1651,chanukah.me,available,68,5,8,,,
-2c532a00-84c0-4615-8400-76e8b7125472,chanukkah.me,available,68,2,9,,,
-b48f2c67-4039-42db-8727-b649c9ca0f39,chaparralbird.me,available,58,72,14,,,
