@@ -14,6 +14,8 @@ Daily-updated public extract of available and resale .me one-word domains from U
 > **Important:** this repository is a **public 10,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **5,622,472 domains** on the canonical page below.
 
+**Public extract:** 10,000 rows · **Live catalog:** 5,622,472 domains
+
 **Last updated:** 2026-04-09  
 **Canonical page:** `https://unique.domains/domains/tld/me`  
 **Best for:** founders, investors, studios
@@ -21,14 +23,25 @@ Daily-updated public extract of available and resale .me one-word domains from U
 ---
 
 <p align="center">
-  <a href="https://unique.domains/domains/tld/me?utm_source=github&utm_medium=referral&utm_campaign=repo_me_oneword_domains&utm_content=top_open_search"><b>Open live .ME search</b></a> ·
-  <a href="https://unique.domains/domains/tld/me?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_me_oneword_domains&utm_content=top_create_radar"><b>Create .ME Radar</b></a> ·
-  <a href="https://unique.domains/domains/tld/me?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_me_oneword_domains&utm_content=top_start_project"><b>Start a naming Project</b></a> ·
-  <a href="./me.csv"><b>Download CSV</b></a> ·
-  <a href="./me.json"><b>Download JSON</b></a> ·
-  <a href="https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_me_oneword_domains&utm_content=top_methodology"><b>Methodology</b></a> ·
-  <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_me_oneword_domains&utm_content=top_api_docs"><b>API docs</b></a>
+  <a href="https://unique.domains/domains/tld/me?utm_source=github&utm_medium=referral&utm_campaign=repo_me_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
+  <a href="https://unique.domains/domains/tld/me?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_me_oneword_domains&utm_content=top_create_radar"><b>🔔 Create Radar</b></a> ·
+  <a href="https://unique.domains/domains/tld/me?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_me_oneword_domains&utm_content=top_start_project"><b>🚀 Start a Project</b></a> ·
+  <b>⬇️ Download sample</b>: <a href="./me.csv">CSV</a> / <a href="./me.json">JSON</a>
 </p>
+
+<p align="center">
+  <a href="https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_me_oneword_domains&utm_content=top_methodology">Methodology</a> ·
+  <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_me_oneword_domains&utm_content=top_api_docs">API docs</a>
+</p>
+
+---
+
+> This repo is the sample. The live product keeps the exact search context and adds saved workflows, deeper filters, and richer price, demand, and risk context.
+
+**Choose your next step**
+- **Investors:** [Create a Radar from this exact .ME search](https://unique.domains/domains/tld/me?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_me_oneword_domains&utm_content=top_create_radar)
+- **Founders:** [Start a Project from this exact .ME search](https://unique.domains/domains/tld/me?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_me_oneword_domains&utm_content=top_start_project)
+- **Researchers / builders:** [Download CSV](./me.csv) or [Download JSON](./me.json)
 
 ## 📦 What this repository contains
 
@@ -43,28 +56,18 @@ This repository is the public extract for Unique Domains' .ME one-word domain ca
 - `CHANGELOG.md` — latest snapshot metadata
 - `CITATION.cff` — machine-readable dataset citation metadata
 - `LICENSE` — terms for the public extract
-- `assets/chart-demand-buckets.png` — generated demand-buckets chart
 
-### Use this repo to
+## Why leave GitHub?
 
-- inspect a public sample
-- download CSV or JSON
-- cite the dataset
-- understand the fields and scoring inputs
+| GitHub extract           | Live product                                     |
+| ------------------------ | ------------------------------------------------ |
+| 10,000-row public sample | 5,622,472 live domains                           |
+| Static CSV / JSON        | live search and daily refresh                    |
+| Basic exported fields    | deeper price, demand, risk, and workflow context |
+| No persistence           | Radar, saved search, and alerts                  |
+| No founder workflow      | Project, shortlist, and next-step workflow       |
 
-### Use the live page to
-
-- keep the exact search context
-- search the full .ME catalog
-- filter by price, demand, status, spelling risk, and fit
-- save the exact search as a Radar
-- turn the search into a founder Project
-
-## 📊 Snapshot of the live .ME catalog
-
-![Demand buckets across the live search](./assets/chart-demand-buckets.png)
-
-**Why this chart:** it gives a fast overview of the live search composition using the same preview payload that supplies the README counts.
+If this sample already feels useful, the live product is where the exact search becomes a workflow.
 
 ## 🧭 Quick start
 
@@ -77,28 +80,36 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | purchase_price | renewal_price | attractiveness | demand | length | registrar                                           |
-| ----------------- | --------- | -------------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| burned.me         | available | $12.99         | $27.99        | 60             | 97     | 6      | name.com                                            |
-| accent.me         | resell    | $20,698.85     | $26.99        | 90             | 84     | 6      | Dynadot Inc                                         |
-| debit.me          | premium   | $6,250         | $26.99        | 96             | 88     | 5      | name.com                                            |
-| haveagoodti.me    | available | $11.99         | $26.99        | 72             | 80     | 16     | name.com                                            |
-| abacus.me         | resell    | $25,298.85     | $26.99        | 68             | 84     | 6      | Dynadot Inc                                         |
-| suite.me          | premium   | $25,298.85     | $27.99        | 70             | 84     | 5      | name.com                                            |
-| AbeLincoln.me     | available | $23.98         | —             | 68             | 80     | 11     | namecheap                                           |
-| magnetic.me       | resell    | $10,221.20     | $27.99        | 60             | 84     | 8      | GoDaddy.com, LLC                                    |
-| dance.me          | premium   | $7,500.01      | $27.99        | 68             | 80     | 5      | name.com                                            |
-| abbot.me          | available | $11.99         | $26.99        | 50             | 80     | 5      | name.com                                            |
-| stonework.me      | resell    | $1,667.50      | $27.99        | 56             | 80     | 9      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| Games.me          | premium   | $21,990.41     | $21.23        | 66             | 80     | 5      | namecheap                                           |
-| tillage.me        | available | $11.99         | $27.99        | 62             | 76     | 7      | name.com                                            |
-| underwriting.me   | resell    | $2,298.85      | $27.99        | 54             | 80     | 12     | Dynadot Inc                                         |
-| overalls.me       | premium   | $573.85        | $27.99        | —              | 76     | 8      | name.com                                            |
-| plastering.me     | available | $11.99         | $27.99        | 58             | 76     | 10     | name.com                                            |
-| ore.me            | resell    | $22,871.20     | $27.99        | 58             | 76     | 3      | Dynadot Inc                                         |
-| gold.me           | premium   | $18,125        | $27.99        | 72             | 49     | 4      | name.com                                            |
-| aargh.me          | available | $11.99         | $26.99        | 56             | 76     | 5      | name.com                                            |
-| massagetherapy.me | resell    | $1,667.50      | $27.99        | 80             | 72     | 15     | Chengdu West Dimension Digital Technology Co., Ltd. |
+| domain            | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                           |
+| ----------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| burned.me         | available | $12.99     | $27.99        | 60             | 97     | 6      | name.com                                            |
+| accent.me         | resell    | $20,698.85 | $26.99        | 90             | 84     | 6      | Dynadot Inc                                         |
+| debit.me          | premium   | $6,250     | $26.99        | 96             | 88     | 5      | name.com                                            |
+| haveagoodti.me    | available | $11.99     | $26.99        | 72             | 80     | 16     | name.com                                            |
+| abacus.me         | resell    | $25,298.85 | $26.99        | 68             | 84     | 6      | Dynadot Inc                                         |
+| suite.me          | premium   | $25,298.85 | $27.99        | 70             | 84     | 5      | name.com                                            |
+| AbeLincoln.me     | available | $23.98     | —             | 68             | 80     | 11     | namecheap                                           |
+| magnetic.me       | resell    | $10,221.20 | $27.99        | 60             | 84     | 8      | GoDaddy.com, LLC                                    |
+| dance.me          | premium   | $7,500.01  | $27.99        | 68             | 80     | 5      | name.com                                            |
+| abbot.me          | available | $11.99     | $26.99        | 50             | 80     | 5      | name.com                                            |
+| stonework.me      | resell    | $1,667.50  | $27.99        | 56             | 80     | 9      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| Games.me          | premium   | $21,990.41 | $21.23        | 66             | 80     | 5      | namecheap                                           |
+| tillage.me        | available | $11.99     | $27.99        | 62             | 76     | 7      | name.com                                            |
+| underwriting.me   | resell    | $2,298.85  | $27.99        | 54             | 80     | 12     | Dynadot Inc                                         |
+| overalls.me       | premium   | $573.85    | $27.99        | —              | 76     | 8      | name.com                                            |
+| plastering.me     | available | $11.99     | $27.99        | 58             | 76     | 10     | name.com                                            |
+| ore.me            | resell    | $22,871.20 | $27.99        | 58             | 76     | 3      | Dynadot Inc                                         |
+| gold.me           | premium   | $18,125    | $27.99        | 72             | 49     | 4      | name.com                                            |
+| aargh.me          | available | $11.99     | $26.99        | 56             | 76     | 5      | name.com                                            |
+| massagetherapy.me | resell    | $1,667.50  | $27.99        | 80             | 72     | 15     | Chengdu West Dimension Digital Technology Co., Ltd. |
+
+These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
+
+## 🚀 Next move
+
+You are seeing the public sample. The live product keeps the exact search context and adds saved workflows, deeper filters, and alerting.
+
+[Create Radar](https://unique.domains/domains/tld/me?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_me_oneword_domains&utm_content=top_create_radar) · [Start Project](https://unique.domains/domains/tld/me?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_me_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_me_oneword_domains&utm_content=related_pricing)
 
 ## 🧱 Field summary
 
@@ -150,6 +161,7 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 - [Live .ME page](https://unique.domains/domains/tld/me?utm_source=github&utm_medium=referral&utm_campaign=repo_me_oneword_domains&utm_content=top_open_search)
 - [Technology and scoring](https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_me_oneword_domains&utm_content=top_methodology)
 - [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_me_oneword_domains&utm_content=related_pricing)
+- [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_me_oneword_domains&utm_content=top_api_docs)
 - [Main catalog repo](https://github.com/UniqueDomains/oneword-domains)
 
 ## 📬 Contact
