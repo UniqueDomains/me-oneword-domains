@@ -1,6 +1,9 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at
-c83caacd-ad5b-4202-add0-1e776a9f6254,beads.me,resell,,,76,10,5,"GoDaddy.com, LLC",03/10/2011 02:41,03/10/2026 02:41
+34684246-15d1-4aa3-ad72-af7db51f8809,ice.me,premium,59225,,68,44,3,Tucows Domains Inc.,12/08/2008 03:05,12/08/2028 03:05
 41f445ce-78b2-4c4e-8b5e-5b1f38375e01,baguette.me,premium,2961.25,,76,13,8,Dynadot Inc,04/04/2017 02:09,04/04/2027 02:09
+b6e86a8c-e0c7-410c-9fde-75ffa37c6a7d,business.me,premium,,,90,53,8,,,
+c83caacd-ad5b-4202-add0-1e776a9f6254,beads.me,resell,,,76,10,5,"GoDaddy.com, LLC",03/10/2011 02:41,03/10/2026 02:41
+db4b8496-72ad-4971-9812-6171b8198b3f,butter.me,premium,5266.29,,78,27,6,name.com,,
 b1e8d73f-f908-4a2f-a867-c9931d6963f0,tramcar.me,premium,,,60,72,7,,,
 0769854e-712f-4e4b-96b8-9c73d10b2ac4,topically.me,premium,,,46,80,9,,,
 df491173-1168-4180-bde9-318b43de8586,blazonedtrail.me,premium,,,42,72,14,,,
@@ -57,7 +60,7 @@ f5ec6ef5-32af-42d4-8024-9a7f3d7fde88,herdsmen.me,premium,,,40,8,8,,,
 16625458-ba7e-49c1-b325-7f4574c0abb7,minorities.me,premium,,,40,24,10,,,
 30e4075f-8710-46a7-942e-cc1101426e6d,donuthole.me,premium,,,60,76,10,,,
 e75df61a-1b5b-4a8f-831b-29c61d912d52,circuitrider.me,premium,,,56,72,13,,,
-da80e358-ec3c-41e8-8990-28eb717e4074,employment.me,resell,,,74,17,10,Dynadot Inc,10/10/2018 01:09,10/10/2026 01:09
+da80e358-ec3c-41e8-8990-28eb717e4074,employment.me,resell,,,74,16,10,Dynadot Inc,10/10/2018 01:09,10/10/2026 01:09
 32348130-1d63-4630-afef-6cd4b4d229a2,woodcuts.me,premium,,,,16,8,,,
 eaa347ef-17f3-479a-a023-3a316923651a,mugup.me,premium,,,64,76,6,,,
 dd0d5dd7-cd37-4374-93ce-52982e83bc7a,recumbent.me,premium,,,70,2,9,,,
@@ -168,7 +171,7 @@ c92ebf71-fa56-4837-af33-72303af3bcd4,airrights.me,premium,,,58,76,10,,,
 beae5c3a-fd3a-4a54-936d-d32027679053,redmeats.me,premium,,,,8,9,,,
 4e6bc10c-662f-4e80-847d-528f4c8e4362,consolation.me,premium,,,58,84,11,,,
 f4d43398-e3f6-4d94-ad62-e937ee1a7191,Cartmanian.me,premium,,,50,72,10,,,
-0f1bd678-dea2-4d7a-8cb2-c81eb947701f,bryan.me,resell,,,60,25,5,Dynadot Inc,14/07/2024 17:00,14/07/2026 17:00
+0f1bd678-dea2-4d7a-8cb2-c81eb947701f,bryan.me,resell,,,60,24,5,Dynadot Inc,14/07/2024 17:00,14/07/2026 17:00
 fc85880d-66e3-492f-9587-db3d8f3acfdb,moldboard.me,premium,,,58,72,9,,,
 93c8e09c-a464-4ad5-8c19-20ccbe77b532,gardenpea.me,premium,,,56,72,10,,,
 fe693892-0afc-4d66-8464-a34e27210ada,crimefighter.me,premium,,,62,76,12,,,
@@ -202,13 +205,13 @@ e5ea3917-7d95-400f-931c-c3ff6ba67707,Indianskimmer.me,premium,,,56,72,14,,,
 6d3b5b18-0a04-4d86-a6de-d6030b289cfa,insuchaway.me,premium,,,48,4,13,,,
 19f2bd2a-0ac3-46d2-9797-4718bbf9e62b,wigout.me,premium,,,78,76,7,,,
 a6ba1ffb-53ac-42a9-868e-ba95a001ac15,fruitofthesea.me,premium,,,64,72,16,,,
-dd59da2c-4f0f-44a3-9e99-b832c322ad4b,atheist.me,resell,,,88,12,7,"GoDaddy.com, LLC",03/08/2017 01:07,03/08/2026 01:07
+dd59da2c-4f0f-44a3-9e99-b832c322ad4b,atheist.me,resell,,,88,11,7,"GoDaddy.com, LLC",03/08/2017 01:07,03/08/2026 01:07
 e8fedc48-a636-4c34-b383-3640adef3966,turbodiesel.me,premium,,,58,76,11,,,
 cc201855-9313-46b3-891b-84d8940addd7,historically.me,premium,,,52,72,12,,,
 67a1e677-a6ed-40e2-a6d2-1f4fa2bb5c4a,promenades.me,premium,,,,24,10,,,
 9eca8754-b493-4d8b-b8ad-802643b92f40,wetdown.me,premium,,,,72,8,,,
 19a69a85-9947-4958-b241-c271f8101cb5,chestwall.me,premium,,,50,72,10,,,
-3615864c-6b95-45e5-be96-aa36b2de1cfa,earn.me,resell,,,66,28,4,"GoDaddy.com, LLC",17/08/2008 08:28,17/08/2026 08:28
+3615864c-6b95-45e5-be96-aa36b2de1cfa,earn.me,resell,,,66,29,4,"GoDaddy.com, LLC",17/08/2008 08:28,17/08/2026 08:28
 8761b9fa-79bc-447f-9513-373524017525,postwar.me,premium,,,58,76,7,,,
 554ac4ac-41f9-4b90-8708-f21c00b3cea1,chewer.me,premium,,,60,72,6,,,
 01a6984f-709a-4c8e-adbc-62f873839377,surplice.me,premium,,,54,72,8,,,
@@ -268,7 +271,7 @@ abd91e46-4744-4918-aa77-f4a27b53c23d,allconquering.me,premium,,,56,72,14,,,
 718b3b7f-0ab5-405c-b26a-2bfc7688b4f9,Indianink.me,premium,,,52,72,10,,,
 3c4a00db-a30e-4eee-b319-05cc37410aaf,transits.me,premium,,,,28,8,,,
 c9ade1a2-d7b6-43be-92de-4a415a0c1d73,safetyorange.me,premium,,,,72,13,,,
-f1952bdb-bc95-4765-b52f-cf0844530096,treatment.me,resell,19548.85,27.99,78,18,9,Dynadot Inc,18/07/2008 05:45,18/07/2026 05:45
+f1952bdb-bc95-4765-b52f-cf0844530096,treatment.me,resell,19548.85,27.99,78,15,9,Dynadot Inc,18/07/2008 05:45,18/07/2026 05:45
 5694e27e-bce4-4565-b6a9-614a2eed33a9,ares.me,resell,,,50,84,4,Edomains LLC,22/06/2025 15:15,22/06/2026 15:15
 eeb09441-5ff3-436f-917c-be130271fa1d,newshekel.me,premium,,,,72,10,,,
 16f6c474-3a65-4f81-956b-4a798513107f,actofparliament.me,premium,,,64,72,17,,,
@@ -608,7 +611,6 @@ cdcdb662-a87e-49e2-88e8-e120b1a7aaa9,saintluke.me,premium,,,64,80,10,,,
 d5b4086d-827c-4fa7-b10a-5e142d06cedc,lope.me,premium,,,82,80,4,,,
 fbb2dbd7-0c64-4507-a30f-c4b25df414dd,readytohand.me,premium,,,,72,13,,,
 b5f29838-b170-43c5-9fb4-2e7071f0a16c,ginormousness.me,premium,,,50,4,13,,,
-b4ca5cee-c6a5-4584-837b-655658aa25a9,brand.me,resell,,,66,48,5,"Domain.com - Network Solutions, LLC",07/05/2009 09:51,07/05/2026 09:51
 0e4f1d89-c272-46ca-bf78-defd966c40e8,hardfern.me,premium,,,54,72,9,,,
 3b40197a-87ff-44f0-88ef-d154a443852f,centrifugalgovernor.me,premium,,,32,72,20,,,
 cf864746-9e8a-46a4-9596-35e5dbec7de8,noblemetals.me,premium,,,,16,12,,,
@@ -753,7 +755,7 @@ e2cd5611-79ae-4de4-8203-d099a1ff26c1,fullpowered.me,premium,,,56,72,12,,,
 74b6d7ee-e6b5-4a57-94ca-a235307f9230,shiptoair.me,premium,,,,72,11,,,
 2362f4cc-f706-4334-8117-f94dee84996b,variableantshrike.me,premium,,,60,72,18,,,
 35049913-49ce-4029-aa1b-7ea8fda1e3b2,midatrial.me,premium,,,48,4,9,,,
-5b335799-75f8-43aa-af8c-b3140a1a4f43,stove.me,resell,,,88,12,5,"Spaceship, Inc.",17/07/2008 15:33,17/07/2026 15:33
+5b335799-75f8-43aa-af8c-b3140a1a4f43,stove.me,resell,,,88,10,5,"Spaceship, Inc.",17/07/2008 15:33,17/07/2026 15:33
 f7a173b9-039c-4a86-a512-e89a492670ed,degreeFahrenheit.me,premium,,,54,72,17,,,
 686c6e39-8b11-45e1-a97c-318b1e64e1c7,badgeofhonour.me,premium,,,72,20,15,,,
 c97a11b5-4979-425d-9836-bc100410d177,drinkin.me,premium,,,62,68,8,,,
@@ -835,7 +837,7 @@ bf04277d-22c5-448b-a106-311fe48c3106,Dutchovens.me,premium,,,44,16,11,,,
 de24b539-8b41-4035-99e1-f77ba7989950,inanyway.me,premium,,,36,8,10,,,
 4facd5e9-882a-4796-b5ee-c3d91e3ef1bb,sustaining.me,premium,,,76,72,10,,,
 12a0e358-40be-414f-9403-6c16e70acb1b,CompostelaValley.me,premium,,,46,72,17,,,
-56f8ef33-66b9-4672-9ed8-9b435521ff2e,discspace.me,premium,,,70,4,10,,,
+56f8ef33-66b9-4672-9ed8-9b435521ff2e,discspace.me,premium,,,70,2,10,,,
 f8a0ee31-95e9-46c9-bd94-24d9f5615e70,votearama.me,premium,,,,72,11,,,
 39fca79b-3955-4e56-baef-c7b6664f4221,orbison.me,premium,,,52,72,7,,,
 be21cea3-ebcb-4105-b293-f651e8e92d14,trebled.me,premium,,,,16,7,,,
@@ -910,7 +912,7 @@ a9e111ac-023c-46c9-b4af-d1441c4a9377,dessertsoup.me,premium,,,56,8,12,,,
 c0e54717-6eec-47ff-824c-8dc231703a48,inbetween.me,premium,,,72,76,10,,,
 bad166d7-91ea-4988-aab3-26cda660fa50,freshbean.me,premium,,,46,72,10,,,
 4b11a4eb-fb1f-45e6-9859-623a7f236f7a,bedofnails.me,premium,,,60,76,12,,,
-c20d53e5-ad5c-4440-8d15-484d1b47a27f,whatsoever.me,premium,,,60,5,10,,,
+c20d53e5-ad5c-4440-8d15-484d1b47a27f,whatsoever.me,premium,,,60,4,10,,,
 f9e4cfed-4765-4abc-ab12-c011cc2c0ef2,forloveormoney.me,premium,,,50,76,17,,,
 60798ab8-813f-4e53-9c37-baa7fc6f1a63,overstep.me,premium,,,76,80,8,,,
 93fb82d5-26fd-45c4-8bb8-c3a3f1d9aa14,offcutter.me,premium,,,56,72,10,,,
@@ -1212,7 +1214,7 @@ ce0545f9-d7dc-4805-8e53-a65bc37a9ba0,safarisuit.me,premium,,,58,72,11,,,
 656e91bf-e2cc-4133-aed6-315b64fba49a,stablegirl.me,premium,,,52,72,10,,,
 bd14dd3d-81e6-42ae-9573-b3661fb5edcf,coupleup.me,premium,,,61,76,9,,,
 752fb043-79a1-41ce-a6ca-1e18fe6fa0dc,hardfeelings.me,premium,,,62,3,13,,,
-0578be61-9d86-4e6f-bf89-f8e07fdf84a5,capitol.me,resell,,,64,18,7,Dynadot Inc,15/07/2017 07:18,15/07/2026 07:18
+0578be61-9d86-4e6f-bf89-f8e07fdf84a5,capitol.me,resell,,,64,16,7,Dynadot Inc,15/07/2017 07:18,15/07/2026 07:18
 61da6333-cbb9-4911-b229-c5c510399bec,portmaster.me,premium,,,56,80,10,,,
 d8ab076d-d82a-4764-8524-7c246d231f2c,homologise.me,premium,,,62,72,10,,,
 61b12984-2dcd-4516-b042-08fd666c465b,switchhitter.me,premium,,,56,76,13,,,
@@ -1257,7 +1259,7 @@ a39b98d2-88da-4aad-926f-72d387899d25,greenfillet.me,premium,,,38,72,12,,,
 e9f07a4b-43cc-415a-aef7-0b4a7acb9547,when.me,resell,,,114,27,4,Dynadot Inc,30/12/2023 15:15,30/12/2026 15:15
 7404f6dd-26a8-4653-ada3-8489fdd77bf6,belled.me,premium,,,54,72,6,,,
 29ac8d9c-a51a-4306-8814-d85bdb3836df,BigSmoke.me,premium,,,50,88,9,,,
-0ac5ed9d-5245-476e-899e-7bca7a5a1a43,finding.me,resell,,,76,22,7,"GoDaddy.com, LLC",25/07/2008 06:20,25/07/2026 06:20
+0ac5ed9d-5245-476e-899e-7bca7a5a1a43,finding.me,resell,,,76,21,7,"GoDaddy.com, LLC",25/07/2008 06:20,25/07/2026 06:20
 afd2613e-42af-4581-a2a1-ddccc0017dc7,aboulic.me,premium,,,52,2,7,,,
 15c2b29e-1f6d-48c8-8049-e729a123dffe,scorelesstie.me,premium,,,,4,13,,,
 2a7ec414-3f11-40a1-9b80-3dc97846e85f,babylegs.me,premium,,,58,72,9,,,
@@ -1306,7 +1308,7 @@ fae5dd60-d07b-452b-af95-0871712b1820,instancedungeon.me,premium,,,56,72,16,,,
 d6420fe5-c31b-4d3a-a13b-041e1a2f4bf5,countrygravy.me,premium,,,60,72,13,,,
 f41511d3-e674-446d-8922-aeca745bd5c1,mommyhood.me,premium,,,64,12,9,,,
 d59cc876-d9a3-4cc8-842d-4c03b6863e3c,gonne.me,premium,,,60,72,5,,,
-fb9b570a-332b-411b-9d43-37891e1332d7,loft.me,resell,,,64,27,4,Dynadot Inc,25/09/2024 15:15,25/09/2027 15:15
+fb9b570a-332b-411b-9d43-37891e1332d7,loft.me,resell,,,64,28,4,Dynadot Inc,25/09/2024 15:15,25/09/2027 15:15
 b7f0c891-f1e6-4664-89d2-7867990b1088,campaigning.me,premium,,,68,5,11,,,
 c0e4184a-f325-4536-bb19-2fac3339988f,therapist.me,resell,,,68,84,9,Dynadot Inc,17/07/2008 15:28,17/07/2026 15:28
 8a191394-ec01-419c-94e3-09bc306211a7,marvelling.me,premium,,,62,72,10,,,
@@ -1318,7 +1320,7 @@ ebdedc72-081c-4a89-9a83-ca0265977803,closetherange.me,premium,,,64,72,15,,,
 1cc6361a-8b6b-47e2-9ed9-1d3480ad80fc,continuedly.me,premium,,,44,4,11,,,
 180a5fef-4fb4-4352-832b-bf8a96b3212b,taxrevenue.me,premium,,,,72,11,,,
 eba722ec-3cd6-44ed-a312-fe3c1008ca96,creased.me,premium,,,54,76,7,,,
-4e7472dc-0199-49a0-8b7c-e02d947b65a5,attimes.me,premium,,,60,1,8,,,
+4e7472dc-0199-49a0-8b7c-e02d947b65a5,attimes.me,premium,,,60,2,8,,,
 d4bad2ca-d555-4844-ae24-a64f52aa9541,droppedoff.me,premium,,,48,8,11,,,
 b4816610-d4e4-4f1c-b04d-081a953aa6a5,counciltax.me,premium,,,54,76,11,,,
 ae521384-b5ac-4d12-85e8-4cc6a229e216,butterflygrip.me,premium,,,42,72,14,,,
@@ -1329,7 +1331,7 @@ b35a7f19-e569-4592-b6c6-9040786f4bc6,staged.me,resell,,,58,80,6,"Chengdu West Di
 571e46c3-4799-4c24-a00f-9566ff17d0dd,BlueJava.me,premium,,,60,76,9,,,
 73503a43-fb74-4e35-826c-5f7f6f4ea327,hairmask.me,premium,,,60,72,9,,,
 b67f7979-3ea3-4ed7-9842-fc9d35fb5b0e,knighthooderrant.me,premium,,,36,4,17,,,
-0e153e9d-8a48-408d-86e9-94a2c819e80e,dye.me,resell,,,64,13,3,Dynadot Inc,20/09/2014 02:35,20/09/2026 02:35
+0e153e9d-8a48-408d-86e9-94a2c819e80e,dye.me,resell,,,64,11,3,Dynadot Inc,20/09/2014 02:35,20/09/2026 02:35
 c535a32d-864f-414f-af3b-55e67c6993b0,acidophobia.me,premium,,,36,4,11,,,
 413009a9-0052-4998-b799-474a33ef525a,brood.me,resell,,,98,80,5,"Chengdu West Dimension Digital Technology Co., Ltd.",13/11/2024 17:55,13/11/2025 17:55
 1c872ee8-ccd3-4797-9208-c4408ad0d601,factorizations.me,premium,,,34,4,14,,,
@@ -1450,7 +1452,7 @@ e00e3422-8812-4881-9745-c1318f8d234c,hornpiper.me,premium,,,56,72,9,,,
 19b6fb7d-306c-4b8a-85a7-ea39dca5e32d,elapsedflyingti.me,premium,,,60,4,19,,,
 651ed733-a7f4-412c-ab9b-111ca12a7878,laudable.me,premium,,,58,4,8,,,
 b8f4be72-59ea-45bc-b039-e7e31b43ad67,inlineskater.me,premium,,,60,72,14,,,
-1529ee83-504b-4901-8691-467865a9a97f,xxi.me,resell,,,66,12,3,"Name.com, Inc.",17/07/2015 04:35,17/07/2026 04:35
+1529ee83-504b-4901-8691-467865a9a97f,xxi.me,resell,,,66,11,3,"Name.com, Inc.",17/07/2015 04:35,17/07/2026 04:35
 675269e7-f3ff-40d7-8d24-6d795402e9d6,poppyhead.me,premium,,,,72,10,,,
 7d02e748-da96-4028-9b5e-e87ddb791179,limbed.me,premium,,,52,72,6,,,
 d95f0d2d-3db7-4a89-aa28-2a6781474e19,occasion.me,resell,,,90,9,8,"Spaceship, Inc.",17/07/2008 17:22,17/07/2026 17:22
@@ -1476,7 +1478,7 @@ c8983f44-671f-4a2d-8101-aaa6bf6b7464,axile.me,premium,,,56,3,5,,,
 79c390ac-4a68-4e21-a5fd-3d119df13043,onpar.me,premium,,,,36,6,,,
 b6b5436e-d5b1-405f-aea8-e3765bf518c9,toddy.me,resell,,,60,76,5,"Chengdu West Dimension Digital Technology Co., Ltd.",13/11/2024 18:09,13/11/2025 18:09
 972696c4-683a-4ad5-8cff-7fc6530594f4,outrageously.me,premium,,,46,72,12,,,
-59cd63f4-04aa-4a56-92f7-0378e82ab337,complement.me,resell,,,96,11,10,Dynadot Inc,19/12/2020 14:30,19/12/2026 14:30
+59cd63f4-04aa-4a56-92f7-0378e82ab337,complement.me,resell,,,96,9,10,Dynadot Inc,19/12/2020 14:30,19/12/2026 14:30
 de52546b-ff35-4832-b709-3d5cd43b7883,sakeset.me,premium,,,60,72,8,,,
 59c66863-c08c-4182-bd6d-6faefbbb5d2e,restauranteur.me,premium,,,62,76,13,,,
 ad533d2a-d7a4-4bc0-a5ec-41156cf509c9,waterbirthing.me,premium,,,,8,14,,,
@@ -1489,9 +1491,9 @@ e71700fb-6cd2-4235-91ef-5b0d4b7be6bc,fanned.me,premium,,,52,72,6,,,
 616a3c2d-1fc4-49c4-b4de-be12535d9a55,malamute.me,resell,,,58,80,8,Dynadot Inc,17/09/2021 14:49,17/09/2025 14:49
 68ab0441-f5ae-4563-ab2e-58e46e882a60,onthebasisof.me,premium,,,50,1,15,,,
 874f7197-4673-43f6-8bc6-a577c2211b70,freestanding.me,premium,,,56,68,13,,,
-bec834fa-dd2b-4a74-8433-35a6e0f28616,dishonesty.me,premium,,,62,5,10,,,
+bec834fa-dd2b-4a74-8433-35a6e0f28616,dishonesty.me,premium,,,62,3,10,,,
 27a64ca0-626d-488f-bd42-4ae4e2a35f86,dotherounds.me,premium,,,64,8,13,,,
-4b9763fd-5fba-4fdc-b353-c099b8e51e87,civiltime.me,premium,,,64,4,10,,,
+4b9763fd-5fba-4fdc-b353-c099b8e51e87,civiltime.me,premium,,,64,2,10,,,
 78896874-17cf-4b87-828d-16255bf8dec3,rugose.me,premium,,,53,72,6,,,
 28ab7904-b35b-4e39-8496-c7603046f76c,draftsman.me,premium,,,56,80,9,,,
 7e8112e9-7d7f-4a8a-9eb4-94e185d9a718,publisher.me,resell,,,68,88,9,"Spaceship, Inc.",17/07/2008 15:29,17/07/2026 15:29
@@ -1662,7 +1664,7 @@ e073b66f-7d45-494e-962b-cd14f6df0937,reddwarf.me,premium,,,56,76,9,,,
 d279e8a9-fe24-4e7c-ad05-e95ed2ea5531,sugarrefining.me,premium,,,,72,14,,,
 08d33496-526b-4369-ac39-25783bc63280,skyscooter.me,premium,,,54,76,11,,,
 d8ca11d9-fb6a-4883-90e5-faabe2e06a98,hectolitre.me,premium,,,56,72,10,,,
-0ac8c203-e3f1-4369-8d14-25d0f05b5346,horseback.me,available,12.99,27.99,80,4,9,name.com,,
+0ac8c203-e3f1-4369-8d14-25d0f05b5346,horseback.me,available,12.99,27.99,80,3,9,name.com,,
 920d518c-02ad-4c48-9b84-f7a0874742ef,landbeforetime.me,premium,,,62,72,16,,,
 e7273c1e-2274-4fa7-944e-83214763f771,foodcolor.me,premium,,,58,76,10,,,
 61ce5b33-0a19-4e12-b071-5dd626fb2a75,soddenly.me,premium,,,44,72,8,,,
@@ -1713,7 +1715,7 @@ d83553c7-2228-4706-9aa1-1b39948ce7f0,treelike.me,premium,,,58,1,8,,,
 e3a30210-2fd1-449a-b66f-53c835688b5a,lielow.me,premium,,,62,72,7,,,
 0f535daf-5397-413d-a911-e3a76740492c,solarminimum.me,premium,,,,12,13,,,
 5823bde5-0aa5-4b41-85ab-da18e6b4d924,praxinoscope.me,premium,,,56,72,12,,,
-ed2bc44a-f5df-40ea-a876-fa60730e695d,employer.me,resell,,,74,14,8,"Spaceship, Inc.",11/02/2024 15:15,11/02/2027 15:15
+ed2bc44a-f5df-40ea-a876-fa60730e695d,employer.me,resell,,,74,13,8,"Spaceship, Inc.",11/02/2024 15:15,11/02/2027 15:15
 89b831a4-4466-4100-b8da-6929cf5071e1,greengolden.me,premium,,,38,72,12,,,
 3ca72eb3-f846-499c-b8f3-512afc7797f5,airfryer.me,premium,,,58,80,9,,,
 3ca8474e-b72b-4e8d-9a83-5eff4834e4ed,basering.me,premium,,,38,72,9,,,
@@ -1725,7 +1727,7 @@ ada8aeb9-1c13-4218-b454-9289e7522919,wellplaced.me,premium,,,,72,11,,,
 fbfb5be3-c785-4279-95f0-ebd92c05c4c9,ifbywhiskey.me,premium,,,52,8,13,,,
 e4ced033-7a12-4539-91da-5d49d36bb454,obliged.me,premium,,,60,72,7,,,
 3b5a7713-b52e-400e-b73e-8230d5f93290,eachtohisown.me,premium,,,50,72,15,,,
-d41f2864-4b0c-4391-8250-3d598b785c3d,providence.me,resell,,,78,23,10,"Domain.com - Network Solutions, LLC",09/07/2008 17:07,09/07/2026 17:07
+d41f2864-4b0c-4391-8250-3d598b785c3d,providence.me,resell,,,78,22,10,"Domain.com - Network Solutions, LLC",09/07/2008 17:07,09/07/2026 17:07
 9b10fb4c-6998-40be-b83c-ee3620dd6269,billpayer.me,premium,,,58,72,9,,,
 aa3fd7eb-3ab9-4a50-ad78-2a68ce5d7dc2,sicpassim.me,premium,,,,72,10,,,
 04b774a2-130e-4568-ae01-c2ed12a07148,clips.me,resell,,,46,56,5,"GoDaddy.com, LLC",17/04/2011 09:31,17/04/2026 09:31
@@ -1775,7 +1777,7 @@ c294bebf-58d0-4b59-817a-e8126cd2695e,whoah.me,premium,,,62,72,5,,,
 9aae2bb5-986e-47e7-85ad-400115011468,AultHucknall.me,premium,,,50,72,13,,,
 adaa9538-e6fb-471c-a0c8-2d651b0a322b,newness.me,premium,,,68,72,7,,,
 d7155e5c-8d1b-416a-9d0c-e2114121cb47,requests.me,resell,,,,36,8,Dynadot Inc,25/04/2025 20:28,25/04/2026 20:28
-12b4e081-8743-4456-8364-54d54e5138cb,teacher.me,resell,6900,27.99,76,24,7,"GoDaddy.com, LLC",07/08/2008 22:19,07/08/2027 22:19
+12b4e081-8743-4456-8364-54d54e5138cb,teacher.me,resell,6900,27.99,76,25,7,"GoDaddy.com, LLC",07/08/2008 22:19,07/08/2027 22:19
 9a36f9fc-4057-4dd1-b1ca-60f2f4a29741,groundwood.me,premium,,,56,72,10,,,
 6b4eddd8-0dc8-4e78-b546-3d60d15a2cfd,aldente.me,resell,,,62,9,8,"Chengdu West Dimension Digital Technology Co., Ltd.",08/11/2024 11:40,08/11/2025 11:40
 36ffe8d9-b8b0-49be-8d09-b56103933227,ridgling.me,premium,,,56,72,8,,,
@@ -1818,7 +1820,7 @@ dc01e80e-cc77-42af-aa00-915572537737,happycorner.me,premium,,,82,84,12,,,
 387ad15b-bead-4828-a14e-b02c24bce27e,ChineseTatar.me,premium,,,38,72,13,,,
 87a58b91-f9a7-4bd8-9ed1-44521cb93ec7,reefing.me,premium,,,60,76,7,,,
 e53f53a5-f4c9-4db8-a4cc-a0fe876daf45,lovelyand.me,premium,,,66,8,10,,,
-a826fea5-e969-4c84-a095-b56ad138af28,important.me,resell,,,78,14,9,"GoDaddy.com, LLC",10/07/2008 03:30,10/07/2026 03:30
+a826fea5-e969-4c84-a095-b56ad138af28,important.me,resell,,,78,15,9,"GoDaddy.com, LLC",10/07/2008 03:30,10/07/2026 03:30
 e03f9735-7c5d-4497-8429-2db27321bdaf,capitalgains.me,premium,,,36,40,13,,,
 2c589546-d9f6-46d3-a9c9-957937c31d85,patentlaw.me,premium,,,56,76,10,,,
 a4a1f902-260f-4e31-839b-a59261405df1,secondjoint.me,premium,,,54,72,12,,,
@@ -1872,17 +1874,17 @@ eaa90359-f890-4018-93b5-2e080f6ad948,fourwheel.me,premium,,,56,72,10,,,
 dbb05782-8094-4e68-9fb0-479c7184ccd6,howthefuck.me,premium,,,42,2,12,,,
 a32c5a2a-d9cc-4d40-a5cc-fa7834a451e1,ecoprotection.me,premium,,,58,12,13,,,
 be2e73d7-b0cd-4968-885f-bb3be8a927ac,heatexchanger.me,premium,,,56,72,14,,,
-de2874e7-1225-4ca1-8bbf-138a4d3a56e8,discredit.me,premium,,,80,5,9,,,
+de2874e7-1225-4ca1-8bbf-138a4d3a56e8,discredit.me,premium,,,80,3,9,,,
 2654de52-ec12-4f9d-8843-7faf84bda120,idest.me,resell,,,48,76,6,"Chengdu West Dimension Digital Technology Co., Ltd.",14/11/2024 18:13,14/11/2025 18:13
 638d0b0c-a801-4b51-b700-99997bb3bba4,inherentpower.me,premium,,,62,72,14,,,
 6bd6e868-6977-4851-8b73-508a73f0b199,supercollider.me,premium,,,56,84,13,,,
-37c53a72-0847-442f-9590-6cf9aa040277,learning.me,premium,6250,26.99,76,41,8,name.com,,
+37c53a72-0847-442f-9590-6cf9aa040277,learning.me,premium,6250,26.99,76,39,8,name.com,,
 16ab6b0f-6845-44e3-9c1c-5e282f330619,dialaride.me,premium,,,64,72,11,,,
 55bde0d6-06ab-4a45-ba09-74cbf48fd13b,phonecard.me,premium,,,62,68,10,,,
 47992223-d568-4c7d-81b4-8d4c50d37283,prunewhip.me,premium,,,58,76,10,,,
 21764041-2da0-4143-82e7-f07ceeeed72e,Marcionite.me,premium,,,68,72,10,,,
 58cd6e0e-e93b-42f6-8243-264cef5336e7,landrover.me,resell,,,71,92,9,"Sav.com, LLC",09/10/2010 23:14,09/10/2025 23:14
-7301f9d1-636f-4b8c-93a1-a23a121f8de5,zest.me,resell,,,101,31,4,"NameSilo, LLC",19/04/2021 14:30,19/04/2028 14:30
+7301f9d1-636f-4b8c-93a1-a23a121f8de5,zest.me,resell,,,101,30,4,"NameSilo, LLC",19/04/2021 14:30,19/04/2028 14:30
 3fb196a7-bdb8-4408-b130-85bde030bd39,boxedset.me,premium,,,60,72,9,,,
 c0f1ef72-3fef-45f4-b495-56fa19df49b3,Scandinavians.me,premium,,,,16,13,,,
 b0fc128b-6b1b-496e-89ee-1f41f29fd156,frontcourt.me,premium,,,64,72,10,,,
@@ -1952,7 +1954,7 @@ d62d8f19-3e27-486b-8f38-26afbc236f9e,intensities.me,premium,,,38,12,11,,,
 3f891f0e-d040-430a-986b-8c69ad4d1318,cabinets.me,resell,,,,48,8,Dynadot Inc,03/10/2012 02:35,03/10/2025 02:35
 28332340-e4dd-40d0-a791-6a866d02f994,cutiepies.me,premium,,,44,24,10,,,
 f083a616-8bd9-419f-ac22-7f37c408d1e7,smartthinking.me,premium,,,,40,14,,,
-4ebe0083-f41a-4e6b-b7f7-a15475c94c03,season.me,resell,,,102,22,6,"GoDaddy.com, LLC",17/07/2008 17:28,17/07/2026 17:28
+4ebe0083-f41a-4e6b-b7f7-a15475c94c03,season.me,resell,,,102,19,6,"GoDaddy.com, LLC",17/07/2008 17:28,17/07/2026 17:28
 49757d54-ed0f-4fa5-aa71-4168d7094982,LillardMill.me,premium,,,36,72,12,,,
 bc31c61c-d254-4119-a83b-a77a2739a80a,usa.me,resell,,,88,44,3,1API GmbH,29/04/2008 18:03,29/04/2027 18:03
 c9d68744-7661-470e-850b-1ccad6767848,stdavid.me,premium,,,64,72,9,,,
@@ -2122,7 +2124,7 @@ a08bd4f7-0d78-4689-9e18-1cd0c6555597,proficiencies.me,premium,,,,16,13,,,
 a5fa2575-eeb6-4ebf-b39d-cb6efe9e0932,fortalices.me,premium,,,40,4,10,,,
 a90a4624-f302-4bc0-9b0c-ca8b9b43982f,speaking.me,resell,,,98,76,8,Dynadot Inc,03/10/2014 02:45,03/10/2025 02:45
 228d8753-748e-4132-9713-c1f4680520e9,railwaystation.me,premium,,,62,72,15,,,
-d44fefb3-cb45-418c-b9ff-3df873257cae,buffer.me,resell,,,98,18,6,Dynadot Inc,17/07/2008 21:31,17/07/2026 21:31
+d44fefb3-cb45-418c-b9ff-3df873257cae,buffer.me,resell,,,98,17,6,Dynadot Inc,17/07/2008 21:31,17/07/2026 21:31
 8f3ff954-513d-4ede-a9fa-c43e110f4160,nexus.me,resell,,,64,92,5,Dynadot Inc,17/07/2008 22:07,17/07/2026 22:07
 d62b5259-ee1e-4fed-a631-2c0737950514,inexorable.me,premium,,,46,5,10,,,
 565f3c3c-d92d-48f4-a4a6-c10f103af4f3,workinglife.me,premium,,,,84,12,,,
@@ -2358,10 +2360,10 @@ caee5077-38e4-4cf1-9d38-4e1e7ff3cc22,wholegrain.me,premium,,,,80,11,,,
 0b0c299d-f72c-4ffe-a645-acd45f1b372e,interfacing.me,premium,,,54,76,11,,,
 104633b4-b504-49da-aa67-14c0ac947127,whatawaytogo.me,premium,,,64,72,16,,,
 8f3d26cf-1555-4fd4-856f-baf126373e98,truckish.me,premium,,,52,72,8,,,
-3bfe45bd-24e5-4330-9687-ad7e46ea4b21,importance.me,resell,,,72,6,10,"Sav.com, LLC",19/11/2025 18:07,19/11/2026 18:07
+3bfe45bd-24e5-4330-9687-ad7e46ea4b21,importance.me,resell,,,72,5,10,"Sav.com, LLC",19/11/2025 18:07,19/11/2026 18:07
 aa849518-7291-44fb-85bd-5605d0cfefdc,MertonPark.me,premium,,,50,4,11,,,
 39e648ec-63b0-4688-a5a4-3180598e3cab,amniotic.me,premium,,,46,2,8,,,
-d0bd56cf-c61f-47d9-a17b-53ff8b4ad9dd,dinosaur.me,resell,,,75,25,8,"NameSilo, LLC",18/07/2008 04:12,18/07/2026 04:12
+d0bd56cf-c61f-47d9-a17b-53ff8b4ad9dd,dinosaur.me,resell,,,75,23,8,"NameSilo, LLC",18/07/2008 04:12,18/07/2026 04:12
 659f548a-d357-429f-bb83-32ee0e64f765,federalsubject.me,premium,,,40,4,15,,,
 64d7b607-9ec6-4da1-91cf-e78454b25260,latchon.me,premium,,,62,72,8,,,
 1f33031e-d56b-4c77-8344-a61dea8cc752,sandwichboard.me,premium,,,56,72,14,,,
@@ -2432,7 +2434,7 @@ f82a9289-92c7-4394-959c-0f65fb6de403,brushdown.me,premium,,,64,72,10,,,
 b6107047-4b91-4e17-81dd-6076c6ce5951,chainofevents.me,premium,,,42,80,15,,,
 d19489c5-1066-4d04-86cd-d722ae370220,acceptancespeech.me,premium,,,36,72,17,,,
 cd466e45-c7cd-4229-92ad-ac47a19a6b6d,refurbishing.me,premium,,,63,72,12,,,
-dbe8147f-fbb4-49e4-b91c-2583d1c07753,browser.me,premium,,,74,31,7,,,
+dbe8147f-fbb4-49e4-b91c-2583d1c07753,browser.me,premium,,,74,30,7,,,
 c32b2d04-3f39-4a39-b37a-fecf85da2dfa,Michaelhouse.me,premium,,,48,72,12,,,
 425e4a4d-023c-43ca-86be-1a28498c1608,GrandMarnier.me,premium,,,,16,13,,,
 41195d74-d3a7-4d73-a991-8f486c6518ef,Indianpudding.me,premium,,,66,72,14,,,
@@ -2592,7 +2594,7 @@ e0a98275-1111-4fe0-be71-b4d96ce0574a,beachbook.me,premium,,,66,72,10,,,
 5c989b90-6ceb-45ee-8317-8de79c08c990,divinylether.me,premium,,,38,4,13,,,
 05c7f2f2-db89-4d4f-9f7c-00adb5e5f7a3,hotasHades.me,premium,,,34,72,12,,,
 5656ac8f-d91c-49bb-8da0-a8bef5d9764a,armchairs.me,premium,,,32,32,9,,,
-47cc19d1-a944-410f-bec3-befc6b4124dd,building.me,resell,28621.2,27.99,74,33,8,"Spaceship, Inc.",28/07/2008 16:43,28/07/2026 16:43
+47cc19d1-a944-410f-bec3-befc6b4124dd,building.me,resell,28621.2,27.99,74,31,8,"Spaceship, Inc.",28/07/2008 16:43,28/07/2026 16:43
 5daf85d9-ab71-48e9-a855-faae22fcecef,terrycloth.me,premium,,,,72,11,,,
 cf600418-b3eb-41e1-90a7-f95dcf084bde,armaments.me,premium,,,32,76,9,,,
 648533d8-49fc-4f61-88dd-9e41f446b5c8,shoulderknot.me,premium,,,,72,13,,,
@@ -2607,7 +2609,7 @@ eafc0cdd-7c11-425b-8481-e1f6eeaced0b,blowbyblow.me,premium,,,76,72,12,,,
 13ca09a8-d4a6-4895-8496-b322d18222c4,bullionless.me,premium,,,50,4,11,,,
 d4a8194c-805d-4859-89e1-65e9d08d2f91,lowlying.me,premium,,,56,1,9,,,
 fa881de9-aa7b-4d30-b245-a7c7477a5d18,vaccination.me,resell,9198.85,27.99,,8,11,Dynadot Inc,09/02/2018 07:05,09/02/2026 07:05
-1817f1f1-ae8b-4fd0-ba75-8a7656ce0e98,antiacid.me,premium,,,70,2,8,,,
+1817f1f1-ae8b-4fd0-ba75-8a7656ce0e98,antiacid.me,premium,,,70,1,8,,,
 e572ed0b-b1e6-4fae-b9d9-eafc7e7125ad,annuals.me,premium,,,42,8,7,,,
 df58483b-e99e-4537-af74-ae67ec28a76c,backdraft.me,premium,,,56,80,9,,,
 600bf17e-4256-4ec8-a297-01a73e8818db,paycash.me,resell,,,68,80,8,"Name.com, Inc.",06/09/2012 14:22,06/09/2025 14:22
@@ -2624,7 +2626,7 @@ de9ee66e-9a7f-4ee9-8cd2-eb20ace6f48c,conjugateacid.me,premium,,,52,72,14,,,
 0b72512e-3258-45ae-89f1-5e133160a8dd,Klanada.me,premium,,,52,72,7,,,
 f202fd53-e0b4-4db2-aa30-b26bf1d74c44,businessdevelopment.me,premium,,,70,76,20,,,
 0d8cfc74-ee55-4ff4-9465-11e8421bc420,inspectorgeneral.me,premium,,,54,76,17,,,
-b84d3578-9b62-4cbf-92b9-ff41e1724a96,donation.me,resell,,,76,18,8,Dynadot Inc,09/07/2008 17:03,09/07/2026 17:03
+b84d3578-9b62-4cbf-92b9-ff41e1724a96,donation.me,resell,,,76,17,8,Dynadot Inc,09/07/2008 17:03,09/07/2026 17:03
 5c962485-73d2-4ac6-a996-60229dd4dfbb,Glagoliticalphabet.me,premium,,,46,72,19,,,
 7c611142-f4c6-4242-8f62-5f92f3a80094,officiallanguage.me,premium,,,58,72,17,,,
 c85fcfb6-f127-4091-918e-f40465c7a3f2,NorthSeaoil.me,premium,,,,72,13,,,
@@ -2691,7 +2693,7 @@ ea60d4e2-17a8-4eec-871d-46377397d7ea,carbonferrous.me,premium,,,48,72,14,,,
 412d4608-8b39-4c2c-9896-9e9d6a4d1542,sexhygiene.me,premium,,,,72,11,,,
 eff53dc1-adf7-4c35-a63c-7647fefc8f1e,tiewrap.me,premium,,,62,72,8,,,
 53aef696-df43-48e9-9f9e-89d2883a02a1,amendment.me,premium,,,64,76,9,,,
-a9590cee-e4c3-4e1e-81c9-5c72a19a5899,hindsight.me,resell,,,68,17,9,Synergy Wholesale Accreditations Pty Ltd,17/09/2021 14:30,17/09/2026 14:30
+a9590cee-e4c3-4e1e-81c9-5c72a19a5899,hindsight.me,resell,,,68,16,9,Synergy Wholesale Accreditations Pty Ltd,17/09/2021 14:30,17/09/2026 14:30
 1aa99101-ada1-4dec-8105-ef75d39056cf,introspect.me,resell,,,68,76,10,Dynadot Inc,02/07/2016 01:21,02/07/2026 01:21
 905aca8f-5cfb-4eb2-9e3d-07bbacf42c0f,greeters.me,premium,,,44,36,8,,,
 87a3b209-7e4d-4aff-b11b-5aedf21e242c,AON.me,resell,,,56,84,3,Dynadot Inc,24/11/2015 02:35,24/11/2025 02:35
@@ -2858,7 +2860,7 @@ b413911b-f147-4093-9635-8aba9d94d91e,sheepshearing.me,premium,,,,72,13,,,
 ed097122-bafb-4bc3-bb99-947dc87b0cd5,coughlinctus.me,premium,,,38,72,13,,,
 0bd32d46-1375-423b-8e9a-5e4d988b4ce4,adultmale.me,premium,,,54,72,10,,,
 119965d2-e3ec-4fac-aa79-53e5902d678a,hashabgum.me,premium,,,52,4,10,,,
-d2d23d04-7dae-4542-89dc-d7d619d33471,supporter.me,resell,,,60,11,9,"Spaceship, Inc.",01/11/2024 17:00,01/11/2026 17:00
+d2d23d04-7dae-4542-89dc-d7d619d33471,supporter.me,resell,,,60,12,9,"Spaceship, Inc.",01/11/2024 17:00,01/11/2026 17:00
 26f58b24-f2f6-4b60-9092-fc94fba287f2,Lavaca.me,premium,,,50,76,6,,,
 cd7d44a4-49f1-4dfb-8362-e9a6a07e47f0,Australiancrow.me,premium,,,46,76,15,,,
 b7197c72-b71b-4366-8920-ed155f6e0d8d,trivet.me,premium,,,64,80,6,,,
@@ -2940,7 +2942,7 @@ f7d67040-a8b6-4e20-b8a0-df69ace5d212,daywatch.me,premium,,,58,76,9,,,
 d4139d5d-fcef-496c-98e0-bbece60ec91e,inreturn.me,premium,,,58,2,9,,,
 2504b10c-622f-425c-b4ed-f7caaf1816e5,mainbeam.me,premium,,,36,4,9,,,
 62b2cf6d-30c1-413c-995e-6737f42eabb1,noisette.me,premium,,,76,72,8,,,
-49105a48-2450-4b88-9f7f-cea47e3fc463,steal.me,premium,,,80,14,5,,,
+49105a48-2450-4b88-9f7f-cea47e3fc463,steal.me,premium,,,80,12,5,,,
 1ca23b00-5d3e-416f-acf3-9d1442ab5aba,nominative.me,premium,,,68,72,10,,,
 115cbfef-d28d-49b6-8f53-e68dbd8a2618,tantalizing.me,premium,,,84,72,11,,,
 9346dd61-e69b-4767-97b4-e5e2d596ba20,Kirkburton.me,premium,,,48,72,10,,,
@@ -2982,7 +2984,7 @@ bb6eb4f0-a820-49f6-9bcd-d340f8d3d1cf,acold.me,premium,,,51,2,5,,,
 90da7ef0-a0e1-435b-a25c-c42c7870d8f5,cornflour.me,premium,,,56,72,9,,,
 95aa86c0-e121-4d89-b123-8562edf3f2cf,wooleyback.me,premium,,,52,72,11,,,
 fa1dc04f-c476-4a72-9c9a-ba405d2656c6,ribosome.me,premium,,,56,84,8,,,
-18e7e0f1-3e8d-4703-a849-8a8d9f2c8ca9,butthen.me,premium,,,56,1,8,,,
+18e7e0f1-3e8d-4703-a849-8a8d9f2c8ca9,butthen.me,premium,,,56,2,8,,,
 f9f10a53-d919-4a52-98e2-71d38b7219f6,RedVienna.me,premium,,,,72,10,,,
 f6f9e840-8e94-4c20-b956-7619dbcb2c7f,grasp.me,resell,,,62,84,5,"Spaceship, Inc.",03/10/2011 02:36,03/10/2025 02:36
 31106ce2-f90b-44ac-b639-5c33979c7cde,berryless.me,premium,,,58,72,9,,,
@@ -3089,7 +3091,7 @@ e67fedbb-36f6-49bd-9d69-8202c6aa2efe,greencorridor.me,premium,,,64,72,14,,,
 09f4a265-1733-4c34-ad0a-0d0fa31ad972,databend.me,premium,,,60,76,8,,,
 40ef7c8f-c3b4-4003-bfe8-5af05d30e8f9,nonthreatening.me,premium,,,48,72,14,,,
 200330dd-4695-435e-beb7-e5933444df7a,lamplight.me,resell,,,52,72,9,"GoDaddy.com, LLC",24/10/2020 01:09,24/10/2025 01:09
-edcea540-43a3-4718-b075-f20fe27c68cb,suggest.me,premium,,,86,11,7,,,
+edcea540-43a3-4718-b075-f20fe27c68cb,suggest.me,premium,,,86,12,7,,,
 6fd70c84-d864-4d4d-8ca4-7d5938acccb1,dispensation.me,premium,,,54,12,12,,,
 dfdc8a0b-174b-4560-8c5c-c2702cf7b4df,daughtersinlaw.me,premium,,,36,4,16,,,
 79b31ddb-6bf3-4910-a7c8-fdd75faa9f3e,carotenal.me,premium,,,58,72,9,,,
@@ -3261,7 +3263,7 @@ d3574ba4-9b27-48cd-93fa-ba45ba262778,adaptitude.me,premium,,,58,76,10,,,
 1ec82ac3-c047-45b4-8b9b-e5060ca0b984,piledriver.me,premium,,,56,72,11,,,
 2ae38817-07e7-4a7e-8102-7147fb7485eb,eggshellblue.me,premium,,,72,72,13,,,
 5d4f1e06-4d64-42b9-a5f5-d2a13f869cf1,Pennsylvania.me,resell,,,50,84,12,Dynadot Inc,22/03/2017 01:06,22/03/2026 01:06
-8e813a91-4725-4bb4-9cc6-ddad0eaca8e0,confusion.me,premium,1667.5,27.99,64,10,9,name.com,,
+8e813a91-4725-4bb4-9cc6-ddad0eaca8e0,confusion.me,premium,1667.5,27.99,64,9,9,name.com,,
 b4e6b1c9-74c2-4736-bde4-e342ffcbdd81,undoubtable.me,premium,,,,8,11,,,
 6c5779fd-5bdb-476b-a962-e32808a20d95,contrasty.me,premium,,,52,72,9,,,
 7b336f92-ea13-43e9-87a7-5237e96604ec,Wholock.me,premium,,,54,72,7,,,
@@ -3555,7 +3557,7 @@ ef83b72a-86fb-40a0-a5b4-8d55cdcfcd3b,jippajappa.me,premium,,,52,4,11,,,
 0d02f4a2-1ffd-4cd7-bd3e-d49b3ab91e57,twentyfifth.me,premium,,,76,72,12,,,
 d4b17920-84c6-4e26-b3dd-bf0ed06052cd,hazardlight.me,premium,,,54,72,12,,,
 8b0638d4-315c-4aae-a0e4-f1bad7228f0e,adhoc.me,resell,,,58,24,6,Dynadot Inc,30/05/2017 01:08,30/05/2026 01:08
-af91b05f-094c-44d1-a4ea-d397c5f5f063,chi.me,resell,,,94,39,3,"GoDaddy.com, LLC",31/07/2008 04:30,31/07/2026 04:30
+af91b05f-094c-44d1-a4ea-d397c5f5f063,chi.me,resell,,,94,37,3,"GoDaddy.com, LLC",31/07/2008 04:30,31/07/2026 04:30
 926debc0-d471-478f-be89-cb2540e6bdbf,pyracanth.me,premium,,,54,72,9,,,
 0b5d74ae-765b-48d7-a745-421596d2b765,dressshorts.me,premium,,,54,72,12,,,
 6a21915b-3078-4453-b87b-ebe291d219ae,GreatHeck.me,premium,,,52,72,10,,,
@@ -3592,7 +3594,7 @@ e6e8965c-a38a-478e-b173-428c813e2916,KingsBay.me,premium,,,36,20,9,,,
 98aeb471-0e4b-4d91-a8ac-b521a764b93a,gearshifts.me,premium,,,40,16,10,,,
 5fe4c845-ca9d-4619-9901-2891fcd97ca5,riskiness.me,premium,,,52,68,9,,,
 70cec9bd-89b6-4d49-9f26-65e6dc48366a,Cubacheese.me,premium,,,40,72,11,,,
-0b13dbfa-7e03-495a-97de-ea75fb40163b,authorized.me,resell,,,70,10,10,"GoDaddy.com, LLC",21/07/2008 16:54,21/07/2026 16:54
+0b13dbfa-7e03-495a-97de-ea75fb40163b,authorized.me,resell,,,70,9,10,"GoDaddy.com, LLC",21/07/2008 16:54,21/07/2026 16:54
 9b697b30-261e-4d45-b4b9-b35bbd26b423,timeback.me,premium,,,,80,9,,,
 dbfdce5f-2302-4c80-ba74-8816d49b32e1,havehighhopes.me,premium,,,50,72,15,,,
 66f4e2d4-f958-4c8f-b57d-3d7482672ee2,BlueRussian.me,premium,,,46,8,12,,,
@@ -3770,7 +3772,7 @@ f887758f-04d3-4dd8-a078-9b82ee9266f9,pastrymaker.me,premium,,,62,72,11,,,
 9496b95d-41d5-46b6-a475-bcebd93fa049,puppyish.me,premium,,,58,72,8,,,
 a7f54430-ee85-4cc1-88ee-eab5974492d1,ciao.me,resell,,,96,84,4,Dynadot Inc,05/10/2010 02:37,05/10/2025 02:37
 12b7ddac-5e5c-460a-bf43-dce41c08c6c9,bullishness.me,premium,,,54,12,11,,,
-76269d68-3e29-411c-b4d4-52d87c9ab63d,discuss.me,premium,,,84,21,7,,,
+76269d68-3e29-411c-b4d4-52d87c9ab63d,discuss.me,premium,,,84,18,7,,,
 3e8f86df-cb12-41aa-80c5-346259b07b1e,madeguys.me,premium,,,42,8,9,,,
 43036e6a-4a6a-44f0-a41c-c9f8213e0bab,lolling.me,premium,,,62,68,7,,,
 1414ce51-1949-41a9-999d-9d5e9a0ac192,booklength.me,premium,,,60,72,11,,,
@@ -3786,7 +3788,7 @@ d617e185-1a25-4969-9f68-bd0a088ada13,audiologist.me,premium,,,58,72,11,,,
 7f25419f-85cb-4d29-bb5d-075d2ee87c05,anklebracelet.me,premium,,,58,72,14,,,
 dd64486a-3fb8-4521-ad4b-2f79e45f8e66,getthewindup.me,premium,,,63,72,15,,,
 29d507aa-e374-411c-817b-4aceb25167af,compoundsentence.me,premium,,,58,72,17,,,
-94b7550c-e309-4b2f-8534-ef06e48308d1,endearing.me,available,12.99,27.99,90,3,9,name.com,,
+94b7550c-e309-4b2f-8534-ef06e48308d1,endearing.me,available,12.99,27.99,90,2,9,name.com,,
 a97ad974-af7b-49fb-ae3e-da78c435af66,encyclopaedical.me,premium,,,56,72,15,,,
 794bfc21-fe4d-4c50-9eaf-9860a67ef8b3,dustpan.me,premium,,,62,80,7,,,
 11a3490c-4997-4651-a616-b1b96cac5a99,lighted.me,premium,,,66,72,7,,,
@@ -3842,7 +3844,7 @@ ad28328e-237d-4b84-bb97-1eb4b33559e9,bottomon.me,premium,,,52,4,9,,,
 11df3c56-7688-482b-853f-ef2a7b9af33c,admittible.me,premium,,,56,2,10,,,
 b46995e3-9c08-40f8-95c2-e8e2057ac966,playhostto.me,premium,,,,76,12,,,
 6e33c3e6-0cf9-40ac-8ddc-c3d81839be8c,FramptonMansell.me,premium,,,48,72,16,,,
-c3d6e485-cf6d-4d37-9056-635bfcbfe710,moviefilm.me,premium,,,70,5,10,,,
+c3d6e485-cf6d-4d37-9056-635bfcbfe710,moviefilm.me,premium,,,70,3,10,,,
 046304ea-04c7-4c76-9f64-4831635578a4,Americandunbar.me,premium,,,56,72,16,,,
 e0e40c7a-0eef-482c-82bf-be6607f45713,nailpolisher.me,premium,,,,8,13,,,
 0c75e12c-26aa-4886-bb84-21629ae61e5a,drummer.me,resell,,,48,80,7,Dynadot Inc,17/07/2008 15:22,17/07/2026 15:22
@@ -3853,7 +3855,7 @@ c6cfb47a-6515-44de-a4d1-f025b3506e12,gastronome.me,resell,,,66,76,10,"Spaceship,
 1f89534e-0c60-4c92-a12a-7aeeca8bfd6a,scissorswitch.me,premium,,,,4,14,,,
 289d2998-6bc9-471d-8edc-94943ceb189d,quaternary.me,premium,,,46,3,10,,,
 4838b9a9-47a5-4ea0-b9f9-7f60a673e7d8,golddigging.me,premium,,,56,72,12,,,
-a48601f6-6a14-47de-9dc3-efcc6eabba27,sterile.me,premium,,,68,8,7,,,
+a48601f6-6a14-47de-9dc3-efcc6eabba27,sterile.me,premium,,,68,7,7,,,
 040d2ee0-b588-4737-ba78-ecd665862f71,conifer.me,resell,,,60,80,7,"eNom, LLC",31/03/2025 06:27,31/03/2026 06:27
 7249f40b-5dd7-4e4c-9a1a-2f93a0978dff,Allenbolt.me,premium,,,58,68,10,,,
 eb133333-d4e1-472b-8768-109a26f083ae,retailed.me,premium,,,,20,8,,,
@@ -3949,18 +3951,18 @@ d63deba8-b9b6-4730-b5fc-f3ab1be55886,stockpots.me,premium,,,,8,9,,,
 e4f87a03-d3ce-4158-805c-0592c6a04f91,expedition.me,resell,,,90,25,10,Dynadot Inc,19/12/2014 05:41,19/12/2026 05:41
 165cf8d2-26f4-4b13-b061-006f6986ef3b,bloodpressuregauge.me,premium,,,52,8,20,,,
 4ca3bc58-0e4a-4b10-bf4a-a0113643322c,medicinecabinet.me,premium,,,58,80,16,,,
-382954a3-b01f-4beb-8d16-ea2880ec4db0,cane.me,premium,,,63,14,4,,,
+382954a3-b01f-4beb-8d16-ea2880ec4db0,cane.me,premium,,,63,12,4,,,
 8fa9211e-b9c4-467e-9744-15eac4df5ddf,valvetrain.me,premium,,,52,72,11,,,
 c1be68a4-25bb-4df8-8bbf-7bdb7fff890a,cropout.me,premium,,,52,72,8,,,
 4decc94a-049d-4e7d-8d45-23c9909626ac,storyboards.me,premium,,,,52,11,,,
 62d2fab4-7f1c-4a62-8852-154e89501928,sunshowers.me,premium,,,,20,11,,,
 b73091ca-ba6d-4bb9-954f-f93868728892,Sydneyan.me,premium,,,74,72,8,,,
 d8a8727d-e6b9-42ac-bd68-eeafa3a2f064,altarity.me,premium,,,54,8,8,,,
-35f9d3fd-c3f1-4a7f-b3ee-b968898ca016,augratin.me,premium,,,70,1,9,,,
+35f9d3fd-c3f1-4a7f-b3ee-b968898ca016,augratin.me,premium,,,70,2,9,,,
 d047e47c-7824-4ca4-9e6a-645f31999af5,windowbar.me,premium,,,,76,10,,,
 bc8c458f-8b5d-459a-8c88-d3822124bd24,clostridium.me,premium,,,52,12,11,,,
 3234a2a3-5467-4d53-9eaa-28a0ee6696d6,Waldorfdoll.me,premium,,,66,72,12,,,
-15402957-658f-4259-993c-e417706eb569,twentysix.me,premium,1667.5,27.99,78,10,10,name.com,,
+15402957-658f-4259-993c-e417706eb569,twentysix.me,premium,1667.5,27.99,78,8,10,name.com,,
 461e27c9-cfab-4cee-be55-cfadce51e3cf,Ornaments.me,premium,,,56,72,9,,,
 2cf9130d-e431-4d0c-a014-88c66b2198b1,cipro.me,premium,,,56,76,5,,,
 42815cab-fef0-4ddc-a873-82c7a67e5c94,monogenic.me,premium,,,70,72,9,,,
@@ -4130,7 +4132,7 @@ a5d716e7-a92b-45cd-bd63-6faf60f1f69d,adman.me,premium,,,64,84,5,,,
 8e09f060-3125-48f1-adf1-6a5fa4eebef3,forefront.me,resell,,,86,84,9,Dynadot Inc,05/07/2016 01:06,05/07/2026 01:06
 aa576a40-c3ee-40c4-b628-9ea1a4a54f62,dropcake.me,premium,,,56,76,9,,,
 1309d220-c34a-45e9-9ee1-acec35d4a28f,teamaker.me,premium,,,56,72,9,,,
-0a1a9e91-2e01-4162-add0-eb98cda955d4,vehicle.me,resell,7738.35,27.99,94,23,7,Edomains LLC,05/12/2024 15:15,05/12/2026 15:15
+0a1a9e91-2e01-4162-add0-eb98cda955d4,vehicle.me,resell,7738.35,27.99,94,21,7,Edomains LLC,05/12/2024 15:15,05/12/2026 15:15
 3f806b9d-9e66-4b41-a23d-e5a88b83998f,begrimed.me,premium,,,34,1,8,,,
 d755f3ce-6483-4e3c-b30e-27c0aaf2a886,votings.me,premium,,,,16,7,,,
 cc31b120-b805-4873-8c47-b2034020d0e6,halving.me,premium,,,62,76,7,,,
@@ -4188,7 +4190,7 @@ e6e505f5-6c42-48a4-923f-cb429e1b8d26,motorized.me,premium,,,60,80,9,,,
 a102247d-7e5e-4bfa-a696-d61a29e5a35a,Emeryville.me,premium,,,44,72,10,,,
 84715e48-bfe0-4630-917e-a3a6df8e6f65,primadonnas.me,premium,,,,8,11,,,
 5130741b-0656-4d90-a79c-523fa347987e,sinlessness.me,premium,,,,68,11,,,
-faf9d796-0f17-4a68-a4cf-e2cddb5fd451,phonecall.me,premium,,,72,9,10,,,
+faf9d796-0f17-4a68-a4cf-e2cddb5fd451,phonecall.me,premium,,,72,8,10,,,
 ac172a8b-a1c1-4ed8-9dd1-057b123f790b,groovelike.me,premium,,,56,76,10,,,
 8d1c9f49-2743-4e68-a0d4-3eeeaf7808c9,raindrops.me,resell,,,,52,9,"Chengdu West Dimension Digital Technology Co., Ltd.",14/11/2024 17:36,14/11/2025 17:36
 6cf84197-4255-4aaa-8bb9-753653c22728,outwards.me,premium,,,50,72,8,,,
@@ -4198,7 +4200,7 @@ d9df36bd-cc85-4b19-a81e-573c2654dd65,strategically.me,premium,,,48,80,13,,,
 7af978c6-c556-4941-9167-1baeed309e1b,cardinalvirtue.me,premium,,,64,72,15,,,
 25699f0b-5b81-46c7-933b-298f2294099d,shelter.me,resell,,,94,25,7,"GoDaddy.com, LLC",20/01/2010 19:08,20/01/2027 19:08
 1a9b5874-1292-403a-bf72-20a7dd76afbf,Jenning.me,premium,,,50,12,7,,,
-6edc4f9b-1427-4dad-8a1a-5c839ccef70c,bare.me,resell,,,66,21,4,"GoDaddy.com, LLC",02/08/2008 00:19,02/08/2026 00:19
+6edc4f9b-1427-4dad-8a1a-5c839ccef70c,bare.me,resell,,,66,20,4,"GoDaddy.com, LLC",02/08/2008 00:19,02/08/2026 00:19
 7a16800b-253c-4098-935f-6a6832900914,condyloma.me,premium,,,52,16,9,,,
 8d156284-cdd7-4cf1-acf0-ca9917302b6b,snooparound.me,premium,,,,4,12,,,
 562486c4-e11e-42dd-bcdc-915add0cb64a,demonstrates.me,premium,,,52,12,12,,,
@@ -4500,8 +4502,8 @@ c542bbfb-b7e4-4226-879e-74cded8c446e,airyfairy.me,premium,,,52,72,10,,,
 3aaddd9c-971f-4777-8518-6627d9703940,marketstall.me,premium,,,56,72,12,,,
 303af691-f2b8-4122-ac3e-85b2c63d96f6,Copernicansystem.me,premium,,,58,72,17,,,
 6688f3fe-3cb2-48f1-9b3f-c5fdbf56a8d9,goodlooking.me,premium,,,64,84,12,,,
-30616207-0321-49fb-b292-7618f71435cd,allegro.me,resell,,,100,24,7,Porkbun LLC,28/05/2016 03:25,28/05/2026 03:25
-7c1bd15c-56a6-4af4-9c8c-3e9d1fe72769,despite.me,premium,,,90,8,7,,,
+30616207-0321-49fb-b292-7618f71435cd,allegro.me,resell,,,100,23,7,Porkbun LLC,28/05/2016 03:25,28/05/2026 03:25
+7c1bd15c-56a6-4af4-9c8c-3e9d1fe72769,despite.me,premium,,,90,6,7,,,
 de32cc5b-569f-4d20-adfa-40b589f27e8c,backrest.me,premium,,,56,84,8,,,
 fe52e893-84c4-4756-a2eb-5823c1f3df26,shepherdmoon.me,premium,,,68,72,13,,,
 2f019e93-6064-4cc2-902e-76344facf51e,nicknamed.me,premium,,,,8,9,,,
@@ -4642,13 +4644,13 @@ cee4664b-834f-4ba3-9aa2-46394a32d5c0,payrespect.me,premium,,,,72,11,,,
 13f51ee3-ea98-4671-9761-4197395e7f43,Kitchewank.me,premium,,,48,72,10,,,
 c031a5cc-4824-44f7-8da9-81572402996e,tablebeet.me,premium,,,,4,10,,,
 7d7e4347-e846-4617-9677-daa26bcb7edf,goldballs.me,premium,,,40,72,10,,,
-0fdae740-3f2c-4688-8a46-b4b117a297f8,luncheon.me,premium,,,96,6,8,,,
+0fdae740-3f2c-4688-8a46-b4b117a297f8,luncheon.me,premium,,,96,3,8,,,
 80adb1a7-1ecf-4ba7-b646-57b89c0d4c0c,adjustmentdisorder.me,premium,,,52,72,19,,,
 a518a2ee-2a0f-4060-af28-39366038cb7b,pointsofsale.me,premium,,,,8,14,,,
 7ad42806-a2c5-4483-81eb-941d0ce58142,billiardball.me,premium,,,60,72,13,,,
 8b5b7006-beb5-4280-b1fc-d0e82afd9c3c,zygomatic.me,premium,,,72,76,9,,,
 b5f95abd-6b6d-49a4-bdae-1a575a0075e6,Kizilsu.me,premium,,,52,72,7,,,
-27bd983e-2c0c-4ca4-b234-cdddbf39fe73,discbrake.me,premium,,,66,4,10,,,
+27bd983e-2c0c-4ca4-b234-cdddbf39fe73,discbrake.me,premium,,,66,2,10,,,
 9e36e209-9af1-470e-9531-eb75ebfec509,popsout.me,premium,,,,8,8,,,
 d88e9067-c806-4fcc-a137-4849a0ff7753,grandaunt.me,premium,,,70,72,9,,,
 ff0e0913-6938-4f34-82cb-4e6e1e585fcf,maidenly.me,premium,,,54,72,8,,,
@@ -4814,7 +4816,7 @@ be8e7515-befa-4821-aff3-6d79a9fb0f52,tradesperson.me,premium,,,,80,12,,,
 4f8cdab2-5306-4ae4-bc77-10ec3d49056c,darer.me,premium,,,58,80,5,,,
 63781917-5b96-44d1-bb61-44770221c067,wholechebang.me,premium,,,,72,13,,,
 e3d13656-4b4d-4a22-9ce8-eea73d89bf29,turboyeast.me,premium,,,,72,11,,,
-841cb3d8-1654-4aa4-8283-dcbb709fd046,conquest.me,resell,,,58,20,8,Dynadot Inc,15/02/2016 02:38,15/02/2027 02:38
+841cb3d8-1654-4aa4-8283-dcbb709fd046,conquest.me,resell,,,58,19,8,Dynadot Inc,15/02/2016 02:38,15/02/2027 02:38
 bf491603-2b56-4300-8c69-c382521a0803,Scotchargus.me,premium,,,56,72,12,,,
 f983b517-cdec-4c96-8dcd-e02bf7e9266d,procrastinate.me,premium,,,66,4,13,,,
 f33d7f22-b871-4dee-9c7b-a5587760a3cd,coronarycirculation.me,premium,,,40,4,20,,,
@@ -4832,7 +4834,7 @@ f05d9665-ebd9-407e-9bfd-9036303776ea,ultrarace.me,premium,,,60,72,9,,,
 be524418-60c8-45e2-b5a1-1c1be6810083,toolcase.me,premium,,,54,80,9,,,
 b85990cb-ee6f-4959-8324-1980e8b8b148,grasping.me,premium,,,68,2,8,,,
 ede714ab-5278-4b18-a978-e9782928e124,Canberran.me,premium,,,74,72,9,,,
-f7dd828d-10ea-491d-b257-c6ed3d9b7092,terms.me,resell,,,78,19,5,Porkbun LLC,20/07/2021 14:30,20/07/2027 14:30
+f7dd828d-10ea-491d-b257-c6ed3d9b7092,terms.me,resell,,,78,20,5,Porkbun LLC,20/07/2021 14:30,20/07/2027 14:30
 a78ee25a-bdcb-4ca7-88a7-6d4d6881de21,regrouping.me,premium,,,60,72,10,,,
 34583552-4d27-454d-a36f-a83bde114bb8,averaging.me,premium,,,60,68,9,,,
 28afe3ec-6685-421d-aa3d-347d171bc1f0,commercialat.me,premium,,,56,72,13,,,
@@ -4863,7 +4865,7 @@ d4f896a7-27d5-4d25-b1c4-0c8d746f417e,rhythmic.me,resell,,,74,8,8,Alibaba Cloud C
 ae869f9d-786e-4217-85ae-12f88e2f7173,pleinair.me,premium,,,,84,9,,,
 86aad81e-ce0f-4c66-9b18-76d70c56b965,bychalks.me,premium,,,52,72,9,,,
 2f155d3b-7c13-4f00-9d29-da262bc4203d,alarmsystem.me,resell,,,66,80,12,"Chengdu West Dimension Digital Technology Co., Ltd.",14/11/2024 19:17,14/11/2025 19:17
-bd395a4d-4cdd-4890-8729-bcf9cb231db3,gulf.me,resell,,,64,27,4,"Spaceship, Inc.",25/09/2024 15:15,25/09/2026 15:15
+bd395a4d-4cdd-4890-8729-bcf9cb231db3,gulf.me,resell,,,64,24,4,"Spaceship, Inc.",25/09/2024 15:15,25/09/2026 15:15
 c078f417-c7a2-4384-99e0-c635d6bcaaac,fumarate.me,premium,,,52,72,8,,,
 cf40469d-5193-4a78-a55d-fe69904f0d88,vitriolic.me,premium,,,44,1,9,,,
 305d5ca1-688b-4eaa-a5bc-f53c60f41de5,graphist.me,premium,,,60,72,8,,,
@@ -4887,7 +4889,7 @@ c48d7d71-632d-4e83-94be-9749d06bae74,hillbillymusic.me,premium,,,56,72,15,,,
 6dc80369-9a09-4b30-a1da-9cf64a52619d,rolledout.me,premium,,,,76,10,,,
 43a8b070-3a6e-4a49-bcdf-f342f62e5372,seapancake.me,premium,,,64,72,11,,,
 b7ffd0ea-24a1-4397-bf8a-6b6c3f97f924,auditionees.me,premium,,,42,4,11,,,
-7e26933c-c6eb-4a83-b744-e2b9aec06cf4,grandchild.me,premium,,,,4,10,,,
+7e26933c-c6eb-4a83-b744-e2b9aec06cf4,grandchild.me,premium,,,,3,10,,,
 8adcb281-874d-4f0f-8458-11b4a43d55a8,solartelescope.me,premium,,,60,72,15,,,
 286f17d0-5cb4-4881-96b8-cf31011fa44a,tothelast.me,premium,,,62,72,11,,,
 ef6141a9-6124-44e0-aab1-3ba6f2b7a065,workpermit.me,resell,,,56,68,11,"Chengdu West Dimension Digital Technology Co., Ltd.",13/11/2024 17:49,13/11/2025 17:49
@@ -5135,7 +5137,7 @@ c7af8938-7049-45ae-92a3-a9c6c6787360,airlinestewardess.me,premium,,,58,72,18,,,
 42230b99-e732-4899-8a9d-8f5d00e76b90,NewTredegar.me,premium,,,,72,12,,,
 00dec15e-3512-4888-875a-dbb8d21d0635,firecock.me,premium,,,52,76,8,,,
 dd40cc3a-325d-46fa-912b-c8bdb65a7cd3,drinkworthy.me,premium,,,52,8,11,,,
-4029b9db-cd1a-4357-8a05-ff5272ea56c0,boxcoat.me,premium,,,64,3,8,,,
+4029b9db-cd1a-4357-8a05-ff5272ea56c0,boxcoat.me,premium,,,64,1,8,,,
 afa8e8ce-2b66-4dd1-a2c5-5e572d8eff47,sharkcatfish.me,premium,,,,72,13,,,
 3ee7c55c-1ab8-44f8-b491-70c4c3c1a4c1,industrialunion.me,premium,,,38,72,16,,,
 4188b054-3b46-48f1-b4ea-3272731ad1df,stooped.me,premium,,,54,72,7,,,
@@ -5194,7 +5196,7 @@ f5499cfd-0a04-4ed9-8b22-8e8abddf379b,spacegun.me,premium,,,60,80,9,,,
 d35bf703-2c65-434d-8aa3-5cefb8cdd498,dateline.me,premium,,,83,68,8,,,
 4af4a67a-b7dc-43fc-8e0b-86f6b4832e35,freewrite.me,premium,,,78,80,9,,,
 d5365ca9-2bd8-49c4-b4df-dd55cbfce954,copyrighter.me,premium,,,64,80,11,,,
-80e0aa0c-b475-463f-8ae7-5dc2b76d9801,remove.me,premium,230000,27.99,100,16,6,"GoDaddy.com, LLC",29/04/2008 18:02,29/04/2028 18:02
+80e0aa0c-b475-463f-8ae7-5dc2b76d9801,remove.me,premium,230000,27.99,100,15,6,"GoDaddy.com, LLC",29/04/2008 18:02,29/04/2028 18:02
 6e6996d1-68d9-4305-9caf-12473b104265,untwisted.me,premium,,,48,76,9,,,
 330edbeb-c83c-41b0-847e-65b53bb15f29,usethepotty.me,premium,,,,8,13,,,
 39a5ce80-a86b-49fb-a3a9-af6972c16ece,Spanishguitar.me,premium,,,70,72,14,,,
@@ -5260,7 +5262,7 @@ b05559ef-def8-4480-ab41-a8ae13294230,Chinesegall.me,premium,,,62,4,12,,,
 48e28bf7-40b5-438b-ba89-d855f214acd3,interosculation.me,premium,,,56,4,15,,,
 008e6cd8-242e-4aed-bd26-95ed24817666,twopart.me,premium,,,50,72,8,,,
 0fd925f8-aa12-4fb3-93cf-7e7739d0d8f1,nondualism.me,premium,,,,16,10,,,
-a4671778-287d-4546-bc81-d656362c949f,american.me,resell,25702.5,26.99,98,38,8,Dynadot Inc,29/04/2008 17:58,29/04/2034 17:58
+a4671778-287d-4546-bc81-d656362c949f,american.me,resell,25702.5,26.99,98,37,8,Dynadot Inc,29/04/2008 17:58,29/04/2034 17:58
 31b0fb8b-aa10-49d4-8cd6-7d32cd92dd3b,basswood.me,premium,,,52,76,8,,,
 5cb8b293-e6f2-40ee-ba5b-152bda0643a6,sweetlemon.me,premium,,,,76,11,,,
 79a07241-d8ad-4810-8e1b-11e6db8a7e3f,parliaments.me,premium,,,,24,11,,,
@@ -5283,7 +5285,7 @@ db701298-c865-44a5-9451-7f1e0d014d93,beautyheartradish.me,premium,,,66,72,19,,,
 a3c3ca88-de17-4197-b673-2f2030f0938f,milkos.me,premium,,,40,28,6,,,
 3d61ce0a-495f-4987-9001-00929cc59e3c,sternly.me,premium,,,50,72,7,,,
 fd2b1998-198d-47bc-bfe7-e6215ab88923,shimmering.me,premium,,,66,76,10,,,
-e247f808-eb09-4999-bad6-e5bae5031f45,blues.me,resell,,,62,18,5,"Spaceship, Inc.",28/09/2010 02:37,28/09/2026 02:37
+e247f808-eb09-4999-bad6-e5bae5031f45,blues.me,resell,,,62,16,5,"Spaceship, Inc.",28/09/2010 02:37,28/09/2026 02:37
 17e6cbea-265e-4ef5-aa84-3050c5179b3f,hourofcause.me,premium,,,58,72,13,,,
 9a743521-3de7-4bb2-aee5-61442aa2c9ad,woodlet.me,premium,,,60,76,7,,,
 559e65bf-7def-487d-b387-99a49b9f84c9,blurtout.me,premium,,,56,76,9,,,
@@ -5413,9 +5415,9 @@ d1d29929-bc4d-469b-b8e9-6848b0531837,actuals.me,premium,,,40,40,7,,,
 acfddaa2-b778-4f9c-b641-564a03ebe826,sandwichtime.me,premium,,,,72,13,,,
 baa06818-e0f1-4966-97fd-1db89a4eb24a,blinkofaneye.me,premium,,,54,76,15,,,
 e09e5942-1bf6-4d58-b14b-8a7e2f838cca,skullsession.me,premium,,,52,72,13,,,
-8c3ec85c-1c35-4706-9983-ed5d2b899ea7,multitude.me,premium,1667.5,27.99,70,12,9,name.com,,
+8c3ec85c-1c35-4706-9983-ed5d2b899ea7,multitude.me,premium,1667.5,27.99,70,10,9,name.com,,
 a1a407f5-e732-40c3-9b52-76783f74102e,technicalschool.me,premium,,,54,72,16,,,
-784bee1c-33b5-4e34-aec1-313f1df8c41f,lovely.me,resell,,,72,33,6,"GoDaddy.com, LLC",10/07/2008 03:30,10/07/2026 03:30
+784bee1c-33b5-4e34-aec1-313f1df8c41f,lovely.me,resell,,,72,32,6,"GoDaddy.com, LLC",10/07/2008 03:30,10/07/2026 03:30
 080142c4-4007-4e59-8a11-4395e3c8a379,streetnumber.me,premium,,,66,1,13,,,
 ddca2af8-01ee-48a4-9c58-bef964df20c9,creepingthy.me,premium,,,52,72,14,,,
 5bee1cd9-ccc9-4bad-9130-259e392ebc12,matureminor.me,premium,,,56,72,12,,,
@@ -5465,7 +5467,7 @@ fe74f057-b837-4289-a208-5317ba92050d,mouthwateringly.me,premium,,,54,72,15,,,
 35a7422c-16ed-4e23-af52-11e4ee62415c,bajillions.me,premium,,,46,20,10,,,
 308b8b3f-e889-4650-b351-b213f8aefffa,wordprocessor.me,premium,,,58,76,14,,,
 3a7aa240-2e4d-41e3-a9e5-5fd5ac3b95d8,dothemath.me,premium,,,68,24,11,,,
-2027a4a3-02e5-416d-a2eb-6005f323a328,find.me,premium,,,110,53,4,,,
+2027a4a3-02e5-416d-a2eb-6005f323a328,find.me,premium,,,110,50,4,,,
 c6c87cf6-6fe5-47e7-9f14-e865e439f79c,fusedquartz.me,premium,,,64,8,12,,,
 efa1f053-26ef-46e0-bc33-084957fe8ef9,balancebeam.me,premium,,,62,84,12,,,
 996d9cbf-dd32-498a-ba4a-1b94a52ada77,ricechaser.me,premium,,,52,72,11,,,
@@ -5475,7 +5477,7 @@ f05f4fda-fdbf-4d77-8124-32963d47d140,affixal.me,premium,,,54,1,7,,,
 d531d54c-d002-4e18-b800-5c59a9eaaaa7,malachias.me,premium,,,58,72,9,,,
 96975b80-7f7d-437c-954f-ba036da0521f,kaching.me,resell,,,60,76,8,"HOSTINGER operations, UAB",07/10/2023 08:00,07/10/2025 08:00
 88328c65-df2a-49c9-aa98-dcd46bb9379c,withaviewto.me,premium,,,38,72,14,,,
-29667a72-4c7d-401b-84b2-fe116828e279,display.me,resell,,,102,29,7,"GoDaddy.com, LLC",17/08/2008 08:29,17/08/2026 08:29
+29667a72-4c7d-401b-84b2-fe116828e279,display.me,resell,,,102,27,7,"GoDaddy.com, LLC",17/08/2008 08:29,17/08/2026 08:29
 b7f8a87d-91fa-4483-9cd5-a6a07479be7f,articleship.me,premium,,,58,72,11,,,
 9b80c78a-090f-4879-8212-89de272acc93,coquette.me,resell,,,94,76,8,"NameCheap, Inc.",07/06/2024 12:09,07/06/2026 12:09
 37b0817c-e9ef-419e-bd94-53f0d2ddc518,knitcap.me,premium,,,56,72,8,,,
@@ -5509,7 +5511,7 @@ abefd379-b86e-42ae-a2e4-36c1ecc77f6f,fullheartedness.me,premium,,,60,72,16,,,
 55d7f9f9-5b0f-43d0-b0f2-120d91f81c72,ambivalently.me,premium,,,48,72,12,,,
 ed3bc27f-6916-4ce5-95d1-6871278f89c6,oxeyedaisy.me,premium,,,62,72,11,,,
 f7fb8db1-90b5-4ff3-a16e-f2c2d54a149c,infrareddetector.me,premium,,,36,8,17,,,
-51466308-1d3f-4fca-bf97-88e50d062a63,marijuana.me,resell,,,67,31,9,"GoDaddy.com, LLC",17/07/2008 15:29,17/07/2026 15:29
+51466308-1d3f-4fca-bf97-88e50d062a63,marijuana.me,resell,,,67,30,9,"GoDaddy.com, LLC",17/07/2008 15:29,17/07/2026 15:29
 fda89fab-4964-4b09-8f95-243cf075c4a4,lazuline.me,premium,,,46,3,8,,,
 aa539319-6d45-4219-a60b-6def459f94da,lacrosseball.me,premium,,,36,8,13,,,
 b657a747-52c6-4a4b-9795-3b8c7618e8c5,dailydozen.me,premium,,,40,16,11,,,
@@ -5517,7 +5519,7 @@ b657a747-52c6-4a4b-9795-3b8c7618e8c5,dailydozen.me,premium,,,40,16,11,,,
 e156f5ff-26ac-446b-84e4-e8c733596081,toetheline.me,premium,,,,76,12,,,
 4964fb0a-6d11-4b94-8f4a-bfc1e4958a92,merciful.me,premium,,,68,72,8,,,
 a81ec102-30a4-478b-a16e-a4f49fbcd912,tentcamping.me,premium,,,,8,12,,,
-ee85602c-162c-47b6-b450-5ff23fd4b38d,issue.me,resell,,,80,17,5,"GoDaddy.com, LLC",24/08/2008 04:35,24/08/2027 04:35
+ee85602c-162c-47b6-b450-5ff23fd4b38d,issue.me,resell,,,80,15,5,"GoDaddy.com, LLC",24/08/2008 04:35,24/08/2027 04:35
 209f9a48-a517-4d9e-8f90-e86b58565877,counterattitudinal.me,premium,,,50,4,18,,,
 e2eb79af-4d37-441f-99ae-a0316f58d6ff,dracula.me,resell,,,84,19,7,"GoDaddy.com, LLC",17/07/2008 16:01,17/07/2026 16:01
 f1a68ad4-486c-426e-85d9-44a65bd2a675,eulogizers.me,premium,,,40,4,10,,,
@@ -5547,7 +5549,7 @@ dfc41c1f-0826-4779-a111-c53d66ca3c30,Gracelynn.me,premium,,,44,76,9,,,
 cbed33f7-22b2-4174-b591-73c5eb06a430,quickchangeartist.me,premium,,,60,72,19,,,
 6b453f8a-84e0-4cbe-adb2-ddba3cc5bf9d,gilled.me,premium,,,54,72,6,,,
 a1931cba-f79b-49d4-806e-eef5c61a3696,contemporaries.me,premium,,,58,20,14,,,
-ea45d74c-ba0a-4837-883c-6ba640715825,cheerfully.me,premium,,,72,2,10,,,
+ea45d74c-ba0a-4837-883c-6ba640715825,cheerfully.me,premium,,,72,3,10,,,
 6b234bc8-cf7b-4453-93da-90b77e9ca534,actuarialscience.me,premium,,,54,72,17,,,
 198fb124-f6bf-4c69-a16f-60205faccd08,renew.me,resell,,,98,76,5,"GoDaddy.com, LLC",13/08/2008 15:44,13/08/2025 15:44
 e4adaf9e-5b98-4be6-a564-bd668f9bc392,silverish.me,premium,,,46,1,9,,,
@@ -5896,7 +5898,7 @@ f9ff230f-bcd8-4e65-9e36-d8f52d3d406d,expounder.me,premium,,,56,72,9,,,
 18497376-148d-45d4-ab6d-b0845207e914,UNMIK.me,premium,,,58,72,5,,,
 9606a123-2f99-4339-8f5b-220078b37ab8,cornsyrup.me,premium,,,54,72,10,,,
 d88ef6e4-b343-47a8-872b-c8bdebf9e4dc,paramecium.me,premium,,,54,76,10,,,
-b6c92199-1ce8-44c9-ad07-13e679847e2d,jazz.me,resell,,,72,31,4,"GoDaddy.com, LLC",09/08/2008 16:03,09/08/2026 16:03
+b6c92199-1ce8-44c9-ad07-13e679847e2d,jazz.me,resell,,,72,28,4,"GoDaddy.com, LLC",09/08/2008 16:03,09/08/2026 16:03
 d09446e2-8277-4224-8b17-24bf7b5383ce,hotproperty.me,premium,,,68,72,12,,,
 f7c0b0e1-35dc-4524-98c1-39f0d9f17f03,eardrums.me,premium,,,42,12,8,,,
 157951c6-d23c-4e7e-906d-686f52051975,NewPassage.me,premium,,,,72,11,,,
@@ -6041,7 +6043,7 @@ e5936399-f05e-4e38-a1a3-c7033ea68a52,Harvardcomma.me,premium,,,58,72,13,,,
 a9f624e9-e7b3-4b78-8be5-e2f8f83e309b,alternativemetal.me,premium,,,54,72,17,,,
 76b6a594-dad0-4d66-a0c5-b74fa26aeaad,consolable.me,premium,,,59,72,10,,,
 0dda8a47-a70e-419b-af60-84a5ffbe8307,vuvuzela.me,premium,,,58,72,8,,,
-85e76ecf-f79c-4f49-8f76-0db0487a9fdf,colors.me,resell,,,82,28,6,"Spaceship, Inc.",01/09/2024 15:16,01/09/2026 15:16
+85e76ecf-f79c-4f49-8f76-0db0487a9fdf,colors.me,resell,,,82,26,6,"Spaceship, Inc.",01/09/2024 15:16,01/09/2026 15:16
 0e50bcf2-b5a6-4f51-b8c4-f21c70f3bd3e,champagnevinegar.me,premium,,,48,8,17,,,
 ee326675-2425-48c9-a0a1-2c4aeaaaf5c0,pairofspecs.me,premium,,,,72,13,,,
 81175b64-e1c7-4ef7-b520-57ae68ab3f29,acronymic.me,premium,,,46,1,9,,,
@@ -6217,7 +6219,7 @@ d1bcf199-a652-4904-ab05-df4438acf7e3,conform.me,resell,,,76,10,7,Dynadot Inc,10/
 ac6a0dd7-162f-45a6-a99e-6d2e03bdeeec,integrationist.me,premium,,,60,72,14,,,
 8406b0ca-76ff-4422-ad59-5149343335e4,filmmake.me,premium,,,68,72,9,,,
 870dce7f-a9bc-468d-a3c7-94713f0f8713,peachmelba.me,premium,,,,72,11,,,
-c8344239-1c5c-45ab-b421-cb895fd4fd5e,normally.me,premium,,,66,4,8,,,
+c8344239-1c5c-45ab-b421-cb895fd4fd5e,normally.me,premium,,,66,5,8,,,
 1a0487b1-fb2b-4b36-9ed9-e61b36930507,maojacket.me,premium,,,58,72,10,,,
 84a52577-dcb0-46e8-a3a4-6d6bb8d25b5e,gotacanal.me,premium,,,56,72,10,,,
 8395e62b-205f-4a0f-8af2-a6b80f7a1de0,Georgiaoverdrive.me,premium,,,54,8,17,,,
@@ -6265,7 +6267,7 @@ b12722ae-0261-470b-814e-b41f38e17941,alhaji.me,premium,,,60,72,6,,,
 30d4c024-4838-4a2d-b650-8f7f5a917831,BritishInvasion.me,premium,,,46,8,16,,,
 1afef149-a7ba-4bfc-9287-c7dc4e870557,mothersinlaw.me,premium,,,42,16,14,,,
 b4a9fdb8-9870-4526-8e0d-6f41ac5b4b8c,dimenovelist.me,premium,,,58,72,13,,,
-63c6ff20-006e-4a5a-9cc7-371d9500114d,sum.me,resell,,,66,27,3,"GoDaddy.com, LLC",17/07/2008 15:29,17/07/2027 15:29
+63c6ff20-006e-4a5a-9cc7-371d9500114d,sum.me,resell,,,66,26,3,"GoDaddy.com, LLC",17/07/2008 15:29,17/07/2027 15:29
 2a95b1dd-6595-4b93-a4ac-250b21a8e99c,pooperscooper.me,premium,,,58,76,14,,,
 486a145f-5fca-46f1-8603-f9503092ca04,pregnantwoman.me,premium,,,,72,14,,,
 22820fbe-e9bc-4727-bbf1-a1038f04df24,lettersofpeace.me,premium,,,71,72,16,,,
@@ -6297,7 +6299,7 @@ a1205dd9-96fc-4953-b778-6903bc5ee3b0,IsleofPurbeck.me,premium,,,56,8,15,,,
 efbca03b-7e5f-4937-b43f-11b600576509,baldcap.me,premium,,,56,80,8,,,
 a8dd76c5-f1b3-4727-b757-7902caaae47a,communality.me,premium,,,54,20,11,,,
 d2cc9e66-6797-43d5-a69a-617ed9c1ed6d,setinmotion.me,premium,,,,80,13,,,
-f7b67c53-3428-4f97-a6a1-91286a7c480a,bread.me,resell,34500,27.99,102,33,5,Dynadot Inc,02/10/2013 02:35,02/10/2026 02:35
+f7b67c53-3428-4f97-a6a1-91286a7c480a,bread.me,resell,34500,27.99,102,31,5,Dynadot Inc,02/10/2013 02:35,02/10/2026 02:35
 cd6bbeee-6e5b-4a47-9ee6-f8f75050449a,adsorbable.me,premium,,,56,1,10,,,
 850e5c25-ebde-4141-87d1-8ab5e590f1ca,NewVictoria.me,premium,,,,72,12,,,
 e9545c9c-086d-4b87-a9cf-2d9c771ef6b1,academics.me,resell,,,68,72,9,"Name.com, Inc.",06/04/2012 03:33,06/04/2026 03:33
@@ -6360,7 +6362,7 @@ e65ed83d-6535-4691-96c1-59ba213c40ad,mending.me,resell,,,64,68,7,"GoDaddy.com, L
 2ef18ebc-690d-4499-b70e-9ce20c3b0298,gumballmachine.me,premium,,,56,72,15,,,
 1cb4090f-7512-4617-86a2-3bfc6b8906cb,folkhero.me,premium,,,64,24,9,,,
 509a9fee-ea7c-4cef-a1b1-efa2c8ce0d2f,borderguard.me,premium,,,54,72,12,,,
-9da720b5-5648-46aa-a54d-53f1f7ac671d,disparity.me,premium,,,62,5,9,,,
+9da720b5-5648-46aa-a54d-53f1f7ac671d,disparity.me,premium,,,62,4,9,,,
 f4b2db9d-4a17-4a35-a5c9-498ed3427571,pumicestone.me,premium,,,,72,12,,,
 c04fc7bb-0a28-4496-a8d5-6bb0a6399039,wetseason.me,premium,,,58,72,10,,,
 b2c38c40-dab6-4d58-a554-b16be684a648,repolarization.me,premium,,,,4,14,,,
@@ -6385,7 +6387,6 @@ a240880f-72c0-410f-993c-d028c8ebb672,FerryhillStation.me,premium,,,48,4,17,,,
 d983e7f7-a0cf-4418-a826-db153a57db58,NativeAmerica.me,premium,,,,80,14,,,
 3876379d-14c5-47f1-8a95-8395c134c402,rudimentary.me,premium,,,78,3,11,,,
 9ab9037d-c418-4941-aca8-7ff9bb515c3e,televisionset.me,premium,,,62,72,14,,,
-7dbb741f-b981-4376-b15f-fe71e9d07587,info.me,premium,,,80,42,4,,,
 6e7467a8-f918-47ba-b464-400b93ae7237,hoopash.me,premium,,,52,72,8,,,
 5124b91e-29f1-4432-81d0-6f23dab7203c,irrevocably.me,premium,,,42,72,11,,,
 513f569f-3a03-4d28-8d9d-91d22be9f54d,curette.me,premium,,,76,68,7,,,
@@ -6543,7 +6544,7 @@ b8d70726-582e-4f88-9206-6aa56d2510c0,haveacare.me,premium,,,68,72,11,,,
 526af6d6-ba93-4591-81f1-bae74b364d11,moreismore.me,premium,,,,84,12,,,
 0dcd42a4-644e-4d92-b32c-2e7edef7bc7c,cuteness.me,premium,,,72,72,8,,,
 c67a9123-790f-4163-8a7f-52e003567916,tireyard.me,premium,,,,72,9,,,
-cd39d2a6-4b4a-4117-adde-505fd1848fef,dilemma.me,resell,,,69,13,7,"Name.com, Inc.",15/09/2016 05:35,15/09/2026 05:35
+cd39d2a6-4b4a-4117-adde-505fd1848fef,dilemma.me,resell,,,69,10,7,"Name.com, Inc.",15/09/2016 05:35,15/09/2026 05:35
 a1df35ab-bf9b-4329-976e-96e98b316fa9,sulphurcycle.me,premium,,,,72,13,,,
 c6bee2b4-fe2a-4603-b38d-888009b6a792,pocketwatches.me,premium,,,,20,13,,,
 fb4e8219-b100-42e9-8106-916c375e9d90,drawparallels.me,premium,,,34,72,14,,,
@@ -6559,7 +6560,7 @@ c8c71fcc-5057-4237-acb4-1cc1a0be602a,animaloid.me,premium,,,50,72,9,,,
 9a3b2733-bf2c-4b73-9e79-e783c96117ec,forthebest.me,premium,,,46,72,12,,,
 55cf5853-9a87-4f7f-871a-828be7b95474,cityadministrator.me,premium,,,60,72,18,,,
 f4f1ef70-fcc5-456a-b2ce-6e5c22334a37,tillage.me,available,11.99,27.99,62,76,7,name.com,,
-a967ed80-5c90-405e-994b-9402e0c6412a,crash.me,resell,,,98,33,5,Dynadot Inc,29/11/2021 14:30,29/11/2026 14:30
+a967ed80-5c90-405e-994b-9402e0c6412a,crash.me,resell,,,98,32,5,Dynadot Inc,29/11/2021 14:30,29/11/2026 14:30
 cafb71a3-673d-4e91-b269-1ea90ee70e0f,dressmaking.me,premium,,,60,32,11,,,
 8439bcde-7c40-4193-8199-abbf3c32f6f9,cablelike.me,premium,,,48,72,9,,,
 0c707a77-d4c6-4ffd-97b2-85678263bec4,fullstop.me,resell,,,60,80,9,"Chengdu West Dimension Digital Technology Co., Ltd.",08/11/2024 14:22,08/11/2025 14:22
@@ -6584,7 +6585,7 @@ aaee078e-6225-4a0c-a180-9f94e681e046,teacaddy.me,premium,,,60,72,9,,,
 f0a76c88-60e0-4e80-a285-5898b128e273,sentencecase.me,premium,,,,72,13,,,
 43663ac6-d345-4bf0-b010-36b4f17fd967,NewStrasburg.me,premium,,,,72,13,,,
 09aeeab6-11da-48f2-b48d-66d49d55bea5,loveaffair.me,premium,,,70,76,11,,,
-d39826c7-c8cb-46b7-bc7f-2692aaf3cccb,everyyear.me,premium,,,68,2,10,,,
+d39826c7-c8cb-46b7-bc7f-2692aaf3cccb,everyyear.me,premium,,,68,3,10,,,
 df8324d7-af19-447d-a87c-7ce368b418dd,papyrian.me,premium,,,50,72,8,,,
 9586b74d-aeaf-4f94-be74-41a444686ccf,mumblerap.me,premium,,,,12,10,,,
 998b75b5-283c-469b-8037-7bc14d63d4aa,gripped.me,premium,,,54,80,7,,,
@@ -6652,7 +6653,7 @@ fd11dde7-f98d-4e6e-aee2-aa462ac40c09,preposterously.me,premium,,,48,72,14,,,
 1789051c-9f97-45e2-a553-c42d2023ad5b,souple.me,premium,,,72,76,6,,,
 b80db7f3-7a48-4329-9786-c07a148790d1,checkoutdesk.me,premium,,,64,72,13,,,
 1414cf47-f5a5-4099-9d08-5093be08997b,combinationlock.me,premium,,,60,72,16,,,
-52bbc28e-f9a0-475f-93c5-02f09d15e2e6,gold.me,premium,18125,27.99,72,49,4,name.com,,
+52bbc28e-f9a0-475f-93c5-02f09d15e2e6,gold.me,premium,18125,27.99,72,48,4,name.com,,
 f7ddf3b0-364f-4165-bc2c-70bd9486f10c,underwriters.me,premium,,,,76,12,,,
 c333a05d-2c4e-4c4d-9529-7301f1a18421,weddinggown.me,premium,,,72,72,12,,,
 8f45bcca-b18f-4f40-acdd-ee353231d7b5,Canadiangoose.me,premium,,,64,72,14,,,
@@ -6695,7 +6696,7 @@ c8e7750f-0cd4-42ff-8214-6b6684af4d00,Chonju.me,premium,,,52,72,6,,,
 5d1c39c0-661d-4c52-8b88-6546f20b53fe,sceptic.me,premium,,,74,76,7,,,
 560af8dd-fa40-4559-8c5a-fd13031eafad,manofthematch.me,premium,,,52,72,16,,,
 a59cf30e-d506-49b2-b1c9-a1b9da630715,bulbousness.me,premium,,,52,8,11,,,
-b13f0731-114c-4166-b617-efa1fc1fde93,primer.me,resell,,,64,19,6,Dynadot Inc,27/04/2016 05:46,27/04/2026 05:46
+b13f0731-114c-4166-b617-efa1fc1fde93,primer.me,resell,,,64,17,6,Dynadot Inc,27/04/2016 05:46,27/04/2027 05:46
 21ed9f4b-d421-435d-9945-66ee20b0e27a,nonadjacent.me,premium,,,48,72,11,,,
 912534f1-4443-49e8-89eb-12ec5c763299,mulberry.me,resell,,,58,80,8,"GoDaddy.com, LLC",01/07/2016 14:59,01/07/2026 14:59
 1f4da32a-83b9-4fe2-a0d2-37b323e0688e,adviews.me,premium,,,36,16,7,,,
@@ -6789,7 +6790,7 @@ f8181eb9-c782-4ac5-ae6f-959445c74f96,closedcaptioning.me,premium,,,62,72,17,,,
 ae685d89-33a1-4031-b82f-74136387b409,anyone.me,premium,,,54,13,6,,,
 bc9ed549-2a6c-46aa-8479-3857c82930d9,anticancer.me,premium,,,70,5,10,,,
 dab0585e-6906-4bc4-809c-aacc62992afb,taluk.me,premium,,,60,76,5,,,
-ca2fb91b-a9bd-4e3b-8065-fcdf10469e3e,struggle.me,resell,,,82,11,8,"GoDaddy.com, LLC",17/07/2008 17:27,17/07/2026 17:27
+ca2fb91b-a9bd-4e3b-8065-fcdf10469e3e,struggle.me,resell,,,82,10,8,"GoDaddy.com, LLC",17/07/2008 17:27,17/07/2026 17:27
 6fe5bf55-eb36-4c75-a9fc-2f9c7f9c275b,CSPAN.me,premium,,,50,72,6,,,
 c85e3406-ac32-4fca-8a8b-da572ffdcbe0,mealtimes.me,premium,,,56,12,9,,,
 11a73908-7d9f-4ad0-9a3e-b1e9367d3cb7,teachingly.me,premium,,,48,72,10,,,
@@ -6807,7 +6808,7 @@ a6e47a46-dfe8-49a1-8a6d-b40c28df55d2,deskchair.me,premium,,,74,2,10,,,
 c74a670a-743b-4e1a-9573-b45747632b56,bamboocoral.me,premium,,,54,72,12,,,
 e8db2be3-15a0-4db8-9a63-f83ec2832ad1,reaccentuate.me,premium,,,60,72,12,,,
 c1e84c12-4a76-4bd6-b442-05c6d9e64d22,wisemen.me,resell,,,64,48,8,"Chengdu West Dimension Digital Technology Co., Ltd.",13/11/2024 17:54,13/11/2025 17:54
-1568bad4-8d7d-4df8-acf3-4252758d8eb8,tasting.me,resell,,,78,12,7,"GoDaddy.com, LLC",10/07/2008 03:31,10/07/2027 03:31
+1568bad4-8d7d-4df8-acf3-4252758d8eb8,tasting.me,resell,,,78,10,7,"GoDaddy.com, LLC",10/07/2008 03:31,10/07/2027 03:31
 ace9e98d-76d6-4052-a7a0-10cdb3f0b76a,fantasy.me,resell,,,98,34,7,"GoDaddy.com, LLC",28/07/2008 16:43,28/07/2027 16:43
 2a81fabe-9287-4640-9d52-215a2a698b2b,literarycriticism.me,premium,,,60,16,18,,,
 f5609bb8-4896-48fa-ad7a-73ba4325c032,lessors.me,premium,,,40,20,7,,,
@@ -6869,7 +6870,7 @@ efcd7121-2280-468d-a8ba-a8dbeed5139b,hassles.me,premium,,,38,12,7,,,
 a064169b-1348-4488-bb5c-5e88628aa8f4,richness.me,premium,,,64,72,8,,,
 c1c7f493-18d0-43e2-857f-db38769dff22,comeupon.me,premium,,,68,72,9,,,
 ea83590d-a65b-4afb-9a72-f84c725e928d,radio.me,resell,,,102,42,5,"GoDaddy.com, LLC",16/09/2008 07:09,16/09/2026 07:09
-89418b90-34b6-400f-957b-419bc9c2bb9b,diskdrive.me,premium,,,72,4,10,,,
+89418b90-34b6-400f-957b-419bc9c2bb9b,diskdrive.me,premium,,,72,3,10,,,
 b7cb813e-92f7-4d4a-9785-9e46e51122d8,happychappy.me,premium,,,48,76,12,,,
 18a724a0-7506-4404-b91f-2d1fe0e96301,bodywarmers.me,premium,,,36,0,11,,,
 66101419-86aa-4da2-b726-6c8546c1268d,Frenchpolishing.me,premium,,,58,72,16,,,
@@ -6986,7 +6987,7 @@ edbc78a7-46c1-4fef-a958-477dd5a8ab70,lookbeforeyouleap.me,premium,,,42,72,20,,,
 f5e0026a-f86f-4c0f-9b3e-ee86e871a19e,pumpkinish.me,premium,,,56,72,10,,,
 6f36fccb-ef69-4ee4-a703-21ed3f76c107,KermadecIslands.me,premium,,,48,72,16,,,
 0143ee43-238a-4001-b74d-09fdca407bba,toboggans.me,premium,,,,12,9,,,
-1b7e67ef-36f2-4f05-bb5e-be91a6c72252,door.me,resell,,,100,29,4,"Spaceship, Inc.",22/09/2024 15:15,22/09/2026 15:15
+1b7e67ef-36f2-4f05-bb5e-be91a6c72252,door.me,resell,,,100,26,4,"Spaceship, Inc.",22/09/2024 15:15,22/09/2026 15:15
 5e7b3e2e-e3df-4de0-b27d-21207121bef5,asitwere.me,premium,,,54,76,10,,,
 96d7c67e-020f-4a17-8cd2-8f4a0ea20a22,floodout.me,premium,,,64,72,9,,,
 d19d276d-e2ce-4b0d-a211-0276b08cf0ef,pritchel.me,premium,,,74,72,8,,,
@@ -7014,7 +7015,7 @@ f7236e60-5972-4dda-9e52-8a9f7938d472,biggy.me,premium,,,64,72,5,,,
 801c0100-038f-4238-8be2-2389c531f95a,contorting.me,premium,,,36,8,10,,,
 09fca993-2519-4818-a3e8-c3ef803832c3,dativecase.me,premium,,,58,72,11,,,
 c89f08a0-5a9b-4305-96a8-f5e21ad45f33,HollyHills.me,premium,,,52,24,11,,,
-4e890b1c-8322-4534-ad95-0d204f41c565,twentytwo.me,resell,1667.5,27.99,84,14,10,"eNom, LLC",09/02/2026 18:16,09/02/2027 18:16
+4e890b1c-8322-4534-ad95-0d204f41c565,twentytwo.me,resell,1667.5,27.99,84,12,10,"eNom, LLC",09/02/2026 18:16,09/02/2027 18:16
 c281ea03-39f2-4fcf-85d8-a0b37aa9569e,lucidity.me,resell,,,64,92,8,Dynadot Inc,06/12/2017 02:34,06/12/2025 02:34
 cd950c4d-7a64-4c0f-87af-6f38aa333fbe,amusingly.me,premium,,,56,72,9,,,
 750fefde-f699-4818-8125-7a88bc075e12,highspirited.me,premium,,,56,72,13,,,
@@ -7238,6 +7239,7 @@ f850866b-4ef2-4b6f-a210-fd73a90a15f1,goldbasket.me,premium,,,40,72,11,,,
 26661b45-be1a-421a-bc22-263911dbeeb6,pittsfield.me,premium,,,54,76,10,,,
 d542ee78-e7c2-42ee-8512-8c50b6fb01f5,ChineseRevolution.me,premium,,,48,72,18,,,
 2731f25b-b70b-4ad9-ac6a-482d85bb1ff0,vaccinepoint.me,premium,,,60,72,13,,,
+33c18c9f-85f4-4e4b-8b13-b71bf2e82404,course.me,resell,,,114,28,6,"GoDaddy.com, LLC",29/04/2008 17:59,29/04/2027 17:59
 45365d79-b8c7-4487-b60e-500b06d0e2da,repaying.me,premium,,,,12,8,,,
 91f52bf7-a226-47fe-9629-8d25fb14a68c,iridaceous.me,premium,,,52,72,10,,,
 c118e630-e48e-4ad3-a868-3707f0b16674,housemice.me,premium,,,40,8,10,,,
@@ -7300,7 +7302,7 @@ d4153ba1-0fa2-4a11-84c7-197e19cdcb85,bloodpudding.me,premium,,,56,72,13,,,
 e9a13dac-d04d-42e7-a760-981b5db3f1a4,transmittant.me,premium,,,50,72,12,,,
 fd5ccc69-c5e5-40cf-ab62-299f53dab29a,exercisebike.me,premium,,,70,2,13,,,
 d8d5f4dd-5b51-42aa-a35d-2abe8576ae4f,smokeyquartz.me,premium,,,,8,13,,,
-592d64db-b2b6-49ef-9713-c7fe91c8f864,happyhour.me,resell,,,72,22,10,Unstoppable Domains Inc,23/04/2025 15:15,23/04/2027 15:15
+592d64db-b2b6-49ef-9713-c7fe91c8f864,happyhour.me,resell,,,72,21,10,Unstoppable Domains Inc,23/04/2025 15:15,23/04/2027 15:15
 c541f1d9-2986-4d49-bf7b-6e1a0007d28b,copyleftsymbol.me,premium,,,62,72,15,,,
 e3e5480a-5a18-4a11-a64b-c4f239f2ad29,Lorentzcontraction.me,premium,,,56,72,19,,,
 8ba25379-9e58-443a-b2d5-10b667fa930e,webzines.me,premium,,,,12,8,,,
@@ -7395,7 +7397,7 @@ d26c4456-e5e0-4a22-b1b1-4ad69f8d4c71,actresses.me,premium,,,52,16,9,,,
 236eebcd-ad0c-4629-ad0e-6066c2dab003,prevailing.me,premium,,,64,76,10,,,
 58ccf35b-9ed9-467c-942e-889c9f2b34ce,talkingturkey.me,premium,,,,12,14,,,
 f47e5b02-0c29-4de6-8d01-b62a074837d6,byword.me,premium,,,56,80,6,,,
-4e533a16-d793-4844-b69c-c8dcfdf2025a,lace.me,resell,,,98,18,4,"GoDaddy.com, LLC",17/07/2008 15:17,17/07/2026 15:17
+4e533a16-d793-4844-b69c-c8dcfdf2025a,lace.me,resell,,,98,17,4,"GoDaddy.com, LLC",17/07/2008 15:17,17/07/2026 15:17
 0e3d3f08-d83a-49ad-b46e-cac901771d57,strongpersonality.me,premium,,,76,1,18,,,
 d1bf6746-b834-40a0-ba8b-666f00203c54,monstermovie.me,premium,,,62,72,13,,,
 6573e574-9891-4437-89c8-0160e9d321fa,mitigatory.me,premium,,,66,1,10,,,
@@ -7407,13 +7409,13 @@ f4364260-82e1-4075-9280-580ef167d915,prolix.me,premium,,,55,80,6,,,
 1da12cae-0f7c-429c-b1a6-97a5d2e44b7b,wintertire.me,premium,,,72,1,11,,,
 916128bb-d1c7-4d13-9a15-ffcb4cdf79cd,WestFalkland.me,premium,,,,72,13,,,
 0094bd0f-2cc1-4d4c-95f2-5e523a1260cc,insolvent.me,premium,,,60,2,9,,,
-1f420843-2b4a-4fb0-99a5-53c3962fdd65,candidacy.me,premium,,,73,5,9,,,
+1f420843-2b4a-4fb0-99a5-53c3962fdd65,candidacy.me,premium,,,73,3,9,,,
 9a73e5a5-c608-4185-9e5e-fddb7b7d5f63,makoshark.me,premium,,,60,76,10,,,
 dfecd1a6-f3f4-4306-8057-a923510c6b9f,bedandboard.me,premium,,,60,72,13,,,
 cce22a9b-26ca-4a68-9b30-a8a8c586d6f5,clausefunction.me,premium,,,38,72,15,,,
 2ff12d33-53fa-4d1b-b455-394c32d08c12,glaur.me,premium,,,58,8,5,,,
 1a210d5e-0a6d-44e6-b260-0c8d9247329a,catered.me,premium,,,56,36,7,,,
-d28f5b3c-9f47-4f5a-a6aa-e5663fd0b2d6,grass.me,resell,,,66,27,5,"NameSilo, LLC",17/07/2008 15:00,17/07/2027 15:00
+d28f5b3c-9f47-4f5a-a6aa-e5663fd0b2d6,grass.me,resell,,,66,23,5,"NameSilo, LLC",17/07/2008 15:00,17/07/2027 15:00
 70d6c36d-d4f0-4715-8ec3-22738eb92eac,bacchic.me,premium,,,68,1,7,,,
 a38ff8ea-6169-4c22-a270-b20a3e83050a,GeoCity.me,premium,,,60,76,7,,,
 55454823-d608-4125-a9a4-63ac831609d6,thematicmap.me,premium,,,58,72,12,,,
@@ -7429,7 +7431,7 @@ eb9bd8a0-81df-4bc0-bbc7-6d6120dd19e1,LeMans.me,resell,,,60,36,7,"Chengdu West Di
 8429866a-e945-4144-b7bc-41c621c1853a,intriguingly.me,premium,,,50,72,12,,,
 06a88208-f879-432e-98fb-7997085f8a6b,euro.me,premium,,,88,80,4,,,
 1b4113f6-3d2e-43f7-866d-727f8f4f454e,artfulness.me,premium,,,64,68,10,,,
-10b98759-c8d1-42bc-ab52-d9d8d575eece,devices.me,resell,,,80,14,7,"GoDaddy.com, LLC",11/11/2010 19:12,11/11/2026 19:12
+10b98759-c8d1-42bc-ab52-d9d8d575eece,devices.me,resell,,,80,13,7,"GoDaddy.com, LLC",11/11/2010 19:12,11/11/2026 19:12
 8a8d5761-6cfa-4d41-9d7d-6110c66575be,snapshotlike.me,premium,,,48,72,12,,,
 82f1b99c-16ee-4837-a726-ab1f685a28ab,secretagent.me,resell,,,60,84,12,"Chengdu West Dimension Digital Technology Co., Ltd.",13/11/2024 18:22,13/11/2025 18:22
 8c6d01e5-4016-4209-a984-a2b1eb4463a1,referredto.me,premium,,,,12,11,,,
@@ -7489,7 +7491,7 @@ b39972c9-cb51-43ba-bcd5-d1c0c8be846f,CoventGardennun.me,premium,,,58,72,17,,,
 afb0effd-61de-4777-a748-960d2699b3b9,centreing.me,premium,,,52,72,9,,,
 d781c7e4-fa83-423b-8c4e-dabb3de37ab5,boney.me,premium,,,56,80,5,,,
 55fe154b-f554-49af-8092-808cde0ddc06,Frenchterry.me,premium,,,58,8,12,,,
-800f6826-5576-4895-9827-392e8e531c34,briefcase.me,resell,,,70,12,9,"Sav.com, LLC - 18",10/09/2025 15:15,10/09/2026 15:15
+800f6826-5576-4895-9827-392e8e531c34,briefcase.me,resell,,,70,10,9,"Sav.com, LLC - 18",10/09/2025 15:15,10/09/2026 15:15
 00e824b5-f170-476e-9a4a-a90139ee8ebf,ranchstyle.me,premium,,,,12,11,,,
 afe9d6e3-2793-4103-9d24-69e3c632cd1c,doublespacing.me,premium,,,52,4,14,,,
 62caed05-78c5-47c8-a209-0aa9f1bf84ad,obeying.me,premium,,,,8,7,,,
@@ -7531,7 +7533,7 @@ a7d78e6c-5d49-4eeb-9d2a-f3de1394b57c,dollhouses.me,premium,,,40,20,10,,,
 d1a6127f-6b30-4958-bde4-bc036db67502,gripping.me,available,12.99,27.99,90,4,8,name.com,,
 caf9f366-6ee5-4d4e-93e7-1e99cfb755ca,sleb.me,premium,,,58,72,4,,,
 ab7e4295-7d25-41a9-99a4-af2b74e42c36,groundsubstance.me,premium,,,58,72,16,,,
-9f8421de-d061-438e-8174-4b2998c6a8fa,dick.me,resell,,,56,31,4,1API GmbH,20/08/2008 22:56,20/08/2026 22:56
+9f8421de-d061-438e-8174-4b2998c6a8fa,dick.me,resell,,,56,30,4,1API GmbH,20/08/2008 22:56,20/08/2026 22:56
 6e775700-a3a3-440d-a244-88dbc8b32117,Compstall.me,premium,,,46,72,9,,,
 6c702842-1e2f-49e7-89ea-67aef6cdf93f,welltravelled.me,premium,,,,76,14,,,
 33ae526e-668c-4e7c-bdee-2ffe00ce7de0,diminutive.me,premium,,,70,2,10,,,
@@ -7717,13 +7719,13 @@ e70f4e59-5c16-44e1-ad7c-7d656413c782,barbican.me,premium,,,48,84,8,,,
 345a99d7-3633-4907-9ae0-18442f4719c5,squirtgun.me,premium,,,58,72,10,,,
 a31abc25-a050-4a6f-9aad-7d323aea84ba,outbuild.me,premium,,,,72,8,,,
 371c4b3d-eb90-443c-a882-21b490908fb1,Eurogamer.me,resell,,,64,76,9,"Chengdu West Dimension Digital Technology Co., Ltd.",13/11/2024 18:27,13/11/2025 18:27
-427894da-0ace-4af3-adbe-28fd47d1a175,billboard.me,resell,,,60,21,9,"NameSilo, LLC",09/07/2008 17:02,09/07/2026 17:02
+427894da-0ace-4af3-adbe-28fd47d1a175,billboard.me,resell,,,60,20,9,"NameSilo, LLC",09/07/2008 17:02,09/07/2026 17:02
 c1b6c748-632c-4eaa-8bf7-09f48fd88f6d,steichen.me,premium,,,48,72,8,,,
 d9f0253a-5ed7-42eb-944f-9eb872c3c842,colorwork.me,premium,,,58,72,9,,,
 3077cf98-66e0-4315-ab6b-846fda6f326b,trusteeships.me,premium,,,,4,12,,,
 1e826217-8a89-4816-bba9-0f6a11ed0a84,lipstickeffect.me,premium,,,56,72,15,,,
 514f66b5-ae18-45b6-927d-ff1aa0269966,flatwater.me,premium,,,54,80,10,,,
-b02704fa-9130-4d59-9792-05adf77ed481,gratitude.me,resell,,,76,24,9,Dynadot Inc,07/08/2008 05:50,07/08/2026 05:50
+b02704fa-9130-4d59-9792-05adf77ed481,gratitude.me,resell,,,76,23,9,Dynadot Inc,07/08/2008 05:50,07/08/2026 05:50
 0b414139-6daa-4ca2-876f-b04bc3cc2107,fascinating.me,premium,,,76,6,11,,,
 34509218-8a72-42c1-82fd-bfcfefd20014,pleats.me,premium,,,,16,6,,,
 651c2bda-94c9-4aa4-8e80-3113a91c6424,tiered.me,premium,,,58,72,6,,,
@@ -7809,7 +7811,7 @@ e5775311-a485-4c29-a359-4cb5bf5d2084,commonwaxbill.me,premium,,,44,4,14,,,
 0f6dc64d-4fea-48a4-964d-5e4fa1133b2a,controlregister.me,premium,,,40,8,16,,,
 a1216070-e709-4d3e-9358-2c7dbe657251,intellectualize.me,premium,,,60,72,15,,,
 e629f09c-6b87-4ba6-81c7-99808a0d5b5e,makefaces.me,premium,,,64,72,10,,,
-95c4657b-76f1-457f-be3c-a755b9b743db,moderation.me,resell,,,70,13,10,Dynadot Inc,28/03/2017 07:24,28/03/2027 07:24
+95c4657b-76f1-457f-be3c-a755b9b743db,moderation.me,resell,,,70,11,10,Dynadot Inc,28/03/2017 07:24,28/03/2027 07:24
 0da3e26f-3b31-4915-8962-32ff9b9fb32a,flyawayglasses.me,premium,,,54,72,15,,,
 4efd3ce8-17e3-4c3e-ba77-ef91fbccab3d,TyrrhenianSea.me,premium,,,,72,14,,,
 c6d15414-b3f2-4d8b-86cf-86a620d8184e,polyresin.me,premium,,,52,72,9,,,
@@ -7903,7 +7905,7 @@ f7397f99-2192-4611-b07c-682b01ac322d,skateboardtruck.me,premium,,,56,72,16,,,
 ed6ca28c-62d5-49ec-a346-8df1592d4ccd,reflexcamera.me,premium,,,68,1,13,,,
 3b9e6b47-64b3-46bd-b130-eeff66b3fb2d,sweptback.me,premium,,,44,1,9,,,
 32e8d9d7-5685-45cc-8e84-fec7130f888d,mattresscover.me,premium,,,64,76,14,,,
-3e318966-e209-426a-ba31-9d6ac08a6e8f,marktwain.me,premium,,,82,8,10,,,
+3e318966-e209-426a-ba31-9d6ac08a6e8f,marktwain.me,premium,,,82,6,10,,,
 1b0d3f1f-8d1a-4df6-953e-7a95ac38e373,welldoing.me,premium,,,,76,10,,,
 e41d2314-8371-468f-ae8f-4fdb04ada9b8,selfinduce.me,premium,,,56,72,11,,,
 8341d811-a9e6-436f-b542-9bbcc0584883,decidedness.me,premium,,,70,4,11,,,
@@ -7912,7 +7914,7 @@ e41d2314-8371-468f-ae8f-4fdb04ada9b8,selfinduce.me,premium,,,56,72,11,,,
 52963949-9bb6-4aa1-a7df-ce9402ae29ad,ninjitsu.me,premium,,,60,72,8,,,
 5eb2776a-b698-4cc7-8130-1d1cada9cbc0,ironly.me,premium,,,40,72,6,,,
 682172f3-0a65-467d-b9ef-3e6702a7b4c6,shoegazy.me,premium,,,50,72,8,,,
-0a156e92-6f87-42d5-a614-536680b35094,guts.me,resell,,,97,16,4,Dynadot Inc,09/08/2025 17:00,09/08/2026 17:00
+0a156e92-6f87-42d5-a614-536680b35094,guts.me,resell,,,97,14,4,Dynadot Inc,09/08/2025 17:00,09/08/2026 17:00
 08ddbe21-95dd-43f9-8903-6f38e7389fcf,policyinterestrate.me,premium,,,58,72,20,,,
 586bbd92-7b8b-4b91-88aa-f02b56fc11fb,diffEQ.me,premium,,,62,20,7,,,
 942c137e-26bd-47d0-86e3-3569887e5695,bigthree.me,premium,,,68,76,9,,,
@@ -7933,7 +7935,7 @@ cd96840b-00b3-49cf-81e5-db747a436bab,packageholiday.me,premium,,,60,72,15,,,
 a7eb1842-aac6-449e-9e5f-5b0ed244f88e,justsostory.me,premium,,,,72,13,,,
 a704d9a4-6a10-4301-8688-08b3ee03049d,toproper.me,premium,,,60,72,9,,,
 f5a4ceb0-828e-4cd7-8ecc-4d6e02821ce4,audiophiles.me,premium,,,48,32,11,,,
-cac21bab-ec98-42ce-b917-96e02aaaabc1,pain.me,premium,,,72,29,4,,,
+cac21bab-ec98-42ce-b917-96e02aaaabc1,pain.me,premium,,,72,28,4,,,
 7f3e630d-c639-4725-b708-84dafbc3f924,midmay.me,premium,,,84,72,7,,,
 7c7fd75b-f7dd-4201-b81c-a5e545b2d0c6,mediaevent.me,premium,,,54,72,11,,,
 ca64c8d7-c011-48b7-86ad-cacf81bdd11a,taximan.me,premium,,,58,76,7,,,
@@ -7962,7 +7964,7 @@ f492fee3-2856-419f-a2a6-7f91f45a7ac1,breadandmilk.me,premium,,,70,72,14,,,
 499aac78-4a81-4dfb-91ab-dcc92d0de2de,yourselves.me,premium,,,,1,10,,,
 4ff110a6-6271-4768-933e-949489e02832,boxfeeding.me,premium,,,38,72,11,,,
 223efe4c-9a4f-4d6e-b921-baa0a4b9d45d,tigercub.me,premium,,,60,76,9,,,
-2533e279-ea1c-483f-822c-7a7c55e1e6b7,income.me,resell,,,80,24,6,"GoDaddy.com, LLC",04/08/2008 10:07,04/08/2026 10:07
+2533e279-ea1c-483f-822c-7a7c55e1e6b7,income.me,resell,,,80,25,6,"GoDaddy.com, LLC",04/08/2008 10:07,04/08/2026 10:07
 55b5add1-e797-4c3f-92d2-6d89eed33993,characterset.me,premium,,,56,72,13,,,
 4a631eda-4764-4334-9f53-2ebf6691f8b0,brownteal.me,premium,,,54,72,10,,,
 f4f50257-cc4e-42b7-9a7e-e1843525ca9d,FreeWillBaptist.me,premium,,,56,12,17,,,
@@ -8006,7 +8008,7 @@ ed9bd4f8-003a-449d-875b-cc252eea0565,forgetoneself.me,premium,,,56,72,14,,,
 586019f3-1988-47e3-a232-de05d53d3a51,appetiser.me,premium,,,70,76,9,,,
 893cfbe0-6ce2-4323-9d5f-aa7004675717,bcomplex.me,premium,,,68,72,9,,,
 61afc2b0-dd64-4a8e-9ee4-57c3345477c4,biglug.me,premium,,,64,72,7,,,
-e20db0fc-6d44-4433-8958-9eb6b891e71c,developer.me,premium,172500,27.99,72,38,9,1API GmbH,29/05/2009 15:47,29/05/2026 15:47
+e20db0fc-6d44-4433-8958-9eb6b891e71c,developer.me,premium,172500,27.99,72,36,9,1API GmbH,29/05/2009 15:47,29/05/2026 15:47
 cd8be345-2984-4ca7-a173-4acfaf967b3c,mommyjuice.me,premium,,,56,76,11,,,
 83972f98-2c53-492a-a7fc-41c468026353,altarwines.me,premium,,,36,8,11,,,
 00e6965a-07a7-4ee7-85ea-5f745e04180f,crumbs.me,resell,,,70,80,6,"eNom, LLC",13/04/2025 07:27,13/04/2026 07:27
@@ -8025,7 +8027,7 @@ f72844c4-fd3a-44ed-95cc-96387b5f11e0,freezechest.me,premium,,,56,72,12,,,
 93cfd2c8-65f9-4b3c-8b74-0d28ba308eee,detent.me,premium,,,76,72,6,,,
 ea6ccaa2-8b1e-4a14-aff3-e5a3b36bd435,ArtiumMagister.me,premium,,,34,4,15,,,
 6f137aad-4af8-410f-8c03-18a7c056927e,sportsdrink.me,premium,,,83,2,12,,,
-766620bf-16ba-4870-a66e-8da994f60091,export.me,premium,,,104,26,6,,,
+766620bf-16ba-4870-a66e-8da994f60091,export.me,premium,,,104,22,6,,,
 517d0653-12ab-40bf-95ae-81c330d18a50,USBmodem.me,premium,,,64,72,9,,,
 93626753-1b83-4ace-b548-c142687d73c6,fadeaway.me,premium,,,64,76,9,,,
 c85eedcb-ed85-4c8c-81d4-658484d3644f,atas.me,premium,,,56,80,4,"Sav.com, LLC - 15",29/05/2023 14:30,29/05/2026 14:30
@@ -8211,7 +8213,7 @@ f4abd8fb-713f-4a45-a785-3430fbacfd2f,lineargroup.me,premium,,,58,68,12,,,
 d4943323-1d60-40af-8801-e01cf09b42cf,conformable.me,premium,,,52,72,11,,,
 21fcccd4-660e-4778-9e37-931c1009baac,sugarwalls.me,premium,,,,72,11,,,
 907dab8e-44b9-4641-81a5-dfee3fd6fe0b,timetraveller.me,premium,,,62,72,14,,,
-cb00cb01-8e3e-4704-b7de-e7f53072c0ec,civilwar.me,premium,,,60,9,9,,,
+cb00cb01-8e3e-4704-b7de-e7f53072c0ec,civilwar.me,premium,,,60,7,9,,,
 2248024d-2179-4119-89f1-65249e0bdeb1,jewbaiter.me,premium,,,40,1,10,,,
 b8d33bf3-3223-4631-9f80-2a94ac30e1a7,designdepth.me,premium,,,58,76,12,,,
 35ea4c64-9ce2-48bb-876a-6284f08d1497,printpic.me,premium,,,56,72,9,,,
@@ -8283,7 +8285,7 @@ c597c9d2-4c8f-4ef0-a51b-c49192fa6613,Talmudic.me,premium,,,,72,8,,,
 1594380e-0289-42db-8142-b6fe0ba8b1a8,kleenex.me,premium,1667.5,27.99,89,6,7,name.com,,
 ef49707b-4be3-4144-8e46-704989302f1b,GreenHammerton.me,premium,,,48,72,15,,,
 38cb02e5-73a7-4fe8-b678-ba125f64de17,BritishSea.me,premium,,,36,8,11,,,
-eed23815-411a-4523-b22c-2e9510041b27,farm.me,resell,,,72,39,4,1API GmbH,29/04/2008 18:00,29/04/2027 18:00
+eed23815-411a-4523-b22c-2e9510041b27,farm.me,resell,,,72,37,4,1API GmbH,29/04/2008 18:00,29/04/2027 18:00
 f6460542-f139-4927-b61d-b0dcc2b20d28,visioned.me,premium,,,,36,8,,,
 1791e7b7-7c2d-4146-aa58-168329b29bda,playtime.me,resell,,,70,88,8,"Spaceship, Inc.",04/02/2017 01:06,04/02/2026 01:06
 d811c0bb-ea3e-4261-bd14-547f4378f391,WinterHaven.me,premium,,,,4,12,,,
@@ -8352,7 +8354,7 @@ c1f75c87-1eb2-45cd-8423-377f85375b7e,guidednotes.me,premium,,,58,8,12,,,
 c0ac2b41-6a54-458b-b844-12cea4fa795c,diamonds.me,resell,,,62,17,8,"NameCheap, Inc.",03/08/2008 06:09,03/08/2026 06:09
 f8a6dd31-5e5e-42bf-94b4-cdd874cd72c8,freudian.me,premium,,,50,72,8,,,
 d17d9fc0-d322-4387-9dfa-9737272adf92,broider.me,premium,,,62,80,7,,,
-1dfcf12c-7db3-42a1-b2fc-007c37d3cbdf,deflation.me,premium,,,60,7,9,,,
+1dfcf12c-7db3-42a1-b2fc-007c37d3cbdf,deflation.me,premium,,,60,5,9,,,
 678bd44a-29c3-401f-b728-0d65fcb77b30,satyagraha.me,premium,,,62,80,10,,,
 93c52b39-ebfe-45b0-841f-fb76f8443478,honoursystem.me,premium,,,68,72,13,,,
 2f243605-ef62-4a56-b684-8d62cbd66ded,talkingover.me,premium,,,,8,12,,,
@@ -8752,11 +8754,11 @@ f7c73776-4996-4fc0-9bb9-44e1618a90c1,sockeyesalmon.me,premium,,,,16,14,,,
 2ef46915-f3d1-4fb1-8094-d0bda33fb9c4,commonlawwife.me,premium,,,36,8,15,,,
 1965f361-c6c8-405e-84f1-be2ece90bcaa,boxslater.me,premium,,,38,72,10,,,
 05b83765-14df-4c38-ab0f-891b3b615bec,datadictionary.me,premium,,,56,80,15,,,
-5c4561af-7f90-447b-b61e-c5eab82d18ba,jabber.me,resell,,,88,14,6,Dynadot Inc,01/03/2025 17:00,01/03/2026 17:00
+5c4561af-7f90-447b-b61e-c5eab82d18ba,jabber.me,premium,,,88,15,6,Dynadot Inc,01/03/2025 17:00,01/03/2027 17:00
 687fc4bc-5387-4c51-86b3-d71c2f39dba4,letinon.me,premium,,,56,72,9,,,
 f1e081f5-b2c1-4342-ab16-4aa456ddf9d1,lightfootedness.me,premium,,,60,8,16,,,
 89222d93-1650-4a6b-8adf-8466c0ed35db,loom.me,resell,,,86,92,4,"GoDaddy.com, LLC",02/02/2017 11:57,02/02/2026 11:57
-3fc8cfc0-31f5-43cb-9728-31917f4e5968,revolution.me,premium,,,64,29,10,,,
+3fc8cfc0-31f5-43cb-9728-31917f4e5968,revolution.me,premium,,,64,28,10,,,
 f8b5c76f-af54-4abe-a0a3-57bd053c703b,preparade.me,premium,,,,16,9,,,
 f114e4d6-a325-45ed-aaf9-86ecb4a58655,bellgirl.me,premium,,,58,72,8,,,
 ecd7f967-f8b5-4004-bb57-64320c22ac5e,uttering.me,premium,,,56,72,8,,,
@@ -8841,7 +8843,7 @@ f153df3d-7ca3-455e-971f-554b1a525ad3,fundamentalforce.me,premium,,,56,72,17,,,
 7d3f54bb-33f7-40e1-a29d-2111c9d6b432,houseofprayer.me,premium,,,58,80,15,,,
 50a8dee2-4c27-4328-816c-cf584f337338,allpoints.me,premium,,,54,84,10,,,
 1f9df989-acee-4e0c-a53a-d3dfa279d543,beigeocracy.me,premium,,,36,4,11,,,
-bfa872e4-2625-4c25-8004-1e38a7e9bff7,conference.me,premium,,,74,27,10,,,
+bfa872e4-2625-4c25-8004-1e38a7e9bff7,conference.me,premium,,,74,25,10,,,
 90315f02-5ed0-4342-8059-bbcd7562a0fc,Italiangrip.me,premium,,,56,72,12,,,
 0d7cf9b1-332e-4161-9f30-565bb488be53,energiser.me,premium,,,62,72,9,,,
 168d70a6-ec3d-4fb8-a834-9b79b6033d50,ultraprofound.me,premium,,,52,72,13,,,
@@ -8880,7 +8882,7 @@ d4959f15-a2fe-447f-a050-bdcb6e4fee3e,anatropous.me,premium,,,46,1,10,,,
 0dcc5a6b-83d6-4d11-a123-f5a80e4595e0,goldhunger.me,premium,,,40,72,11,,,
 50c49cf7-88b2-43e1-a9ed-70f714f6f521,compatibly.me,premium,,,52,76,10,,,
 865dc6d4-5e86-4c05-9b2a-88cc47aab343,greenbackedtit.me,premium,,,60,72,16,,,
-ed2257d8-3024-412a-a4ff-a86d954f6880,gee.me,resell,,,66,21,3,"Spaceship, Inc.",28/02/2023 14:30,28/02/2027 14:30
+ed2257d8-3024-412a-a4ff-a86d954f6880,gee.me,resell,,,66,20,3,"Spaceship, Inc.",28/02/2023 14:30,28/02/2027 14:30
 2de885be-3854-406f-aa5e-19c99843bd79,backpedal.me,premium,,,58,76,9,,,
 83ec0952-f5a1-4fae-aaac-1e434e14e852,computerprocessor.me,premium,,,62,72,18,,,
 4ddd8588-b84a-48c2-95d9-1dd0bcb68e04,diagnoseable.me,premium,,,61,72,12,,,
@@ -8903,7 +8905,7 @@ e54e76fe-a037-417c-a9b6-8e0997f547cd,iconolatry.me,premium,,,58,72,10,,,
 ed8a2407-596d-4b6d-8716-c7c63ae844ad,casette.me,premium,,,62,72,7,,,
 774865e3-2004-4a85-8f4b-bb959c45800b,snores.me,premium,,,,16,6,,,
 573f94b7-1fc5-4d4f-b286-94d034f5fc2e,germline.me,premium,,,58,72,8,,,
-e4731dab-4060-4477-87a8-9ffd8ef4cf3f,dishonor.me,premium,,,82,5,8,,,
+e4731dab-4060-4477-87a8-9ffd8ef4cf3f,dishonor.me,premium,,,82,2,8,,,
 78fce7ed-bdbf-405e-976a-c1b0f898c035,likepigsinclover.me,premium,,,52,72,19,,,
 4d65c2c3-d1d9-45dc-9707-ad461b33cb8e,cafecurtains.me,premium,,,64,68,13,,,
 36665ed8-cea9-430f-a558-24f00a1bc748,chickenWellington.me,premium,,,68,72,18,,,
@@ -9039,7 +9041,7 @@ ac272967-7b53-4aa4-9cfc-5f19af4cdb64,airlifted.me,premium,,,50,72,9,,,
 48e70552-01b1-42f6-99d8-adac6ffba43c,confabulation.me,premium,,,52,20,13,,,
 5775f292-fc1c-4971-8c06-372c74b51dfd,sevener.me,premium,,,68,1,7,,,
 72a6fefd-34f4-4b27-ba7b-8a6244c332b3,Oxfam.me,resell,,,72,4,5,"Spaceship, Inc.",21/11/2025 20:14,21/11/2026 20:14
-b08a86c1-9dba-4577-999a-666393e3d811,boy.me,resell,,,68,24,3,"GoDaddy.com, LLC",05/08/2008 00:36,05/08/2027 00:36
+b08a86c1-9dba-4577-999a-666393e3d811,boy.me,resell,,,68,22,3,"GoDaddy.com, LLC",05/08/2008 00:36,05/08/2027 00:36
 410b957a-2953-4079-9e91-b389c545295e,Frenchknickers.me,premium,,,64,72,15,,,
 997d6b6f-fe19-45b7-93a2-1739184a87ba,mitigative.me,premium,,,66,1,10,,,
 e69cd827-bd8c-4246-b463-0149e1a07689,prose.me,resell,,,62,18,5,Dynadot Inc,04/02/2015 06:08,04/02/2027 06:08
@@ -9058,7 +9060,6 @@ e69cd827-bd8c-4246-b463-0149e1a07689,prose.me,resell,,,62,18,5,Dynadot Inc,04/02
 20610ba8-d8c6-43f8-a1b6-bae66e155f31,adulterine.me,premium,,,68,1,10,,,
 ef58d247-1805-45ef-a11a-bd04b2f89728,flatlands.me,premium,,,54,28,9,,,
 3061e95d-2a4c-4547-aed4-8131744f01b6,mouthwatering.me,premium,,,62,72,13,,,
-e79ed6fc-c468-4b07-b371-59b8e7bfa8b7,democracy.me,resell,,,70,31,9,"NameCheap, Inc.",29/04/2008 17:59,29/04/2026 17:59
 bb26629a-264a-40e4-914a-fe853d5b1991,promotional.me,premium,,,82,72,11,,,
 087822bf-c1dc-4e01-b129-1f3bfe180113,flatcars.me,premium,,,36,8,8,,,
 9c278082-4abf-40ae-9e65-30c2aa79ef57,bowlingcrease.me,premium,,,60,72,14,,,
@@ -9089,7 +9090,7 @@ dda693c5-301d-4da0-b6ca-90531d2b8bd6,ewriting.me,premium,,,66,72,9,,,
 3f27e4f5-d863-4ae3-a721-4d1ae00172da,entities.me,premium,,,46,80,8,,,
 9b517103-5110-492b-9bf5-7289d2f59ccd,alexhaley.me,premium,,,60,72,10,,,
 3f773282-96fe-4a60-ab62-f9b0e108c06c,forthrightness.me,premium,,,58,8,14,,,
-d10a9338-1335-497d-b2e1-431f5d1e8f7c,absolute.me,resell,4023.85,26.99,80,32,8,"GoDaddy.com, LLC",27/09/2010 02:41,27/09/2026 02:41
+d10a9338-1335-497d-b2e1-431f5d1e8f7c,absolute.me,resell,4023.85,26.99,80,31,8,"GoDaddy.com, LLC",27/09/2010 02:41,27/09/2026 02:41
 3038c71d-ecf2-49c7-aa47-d11f7d5b31e5,technogeek.me,premium,,,58,80,11,,,
 aeda8fde-382d-4d7a-b431-11d16e58b4bf,eatandrun.me,premium,,,36,76,11,,,
 ca0ca228-44d2-411f-9bdd-955c991e0148,roseknot.me,premium,,,62,72,9,,,
@@ -9153,7 +9154,7 @@ a2eb3042-e449-4da7-8719-ce482cd6925a,knock.me,premium,,,66,16,5,,,
 77bb3e66-a6f7-49d5-91ee-a0f41763a076,session.me,resell,,,72,25,7,"GoDaddy.com, LLC",17/07/2008 17:55,17/07/2026 17:55
 5e49ac65-a903-4896-a840-cf80476fbbe3,pooled.me,premium,,,,36,6,,,
 045db84b-2429-457e-81f0-908154a35c14,cocoapalm.me,premium,,,60,72,10,,,
-4aefa821-8f5f-425a-967e-029bbc18ed39,stunning.me,resell,,,94,14,8,"GoDaddy.com, LLC",17/07/2008 17:28,17/07/2026 17:28
+4aefa821-8f5f-425a-967e-029bbc18ed39,stunning.me,resell,,,94,13,8,"GoDaddy.com, LLC",17/07/2008 17:28,17/07/2026 17:28
 4c1ab120-8a97-45a0-a58a-6c5484997143,tossdown.me,premium,,,,76,9,,,
 76bea76a-3f9e-4822-a3be-8f87660f5446,maketrialof.me,premium,,,64,72,13,,,
 41dd4e26-3640-44b0-b13d-636a7a8ee22b,twosided.me,premium,,,52,80,9,,,
@@ -9214,7 +9215,7 @@ baf809a4-4090-4a28-847d-f178a73dddae,wavelets.me,premium,,,,32,8,,,
 af1bd867-c857-455a-96df-2e20319174ba,interlocking.me,premium,,,56,68,12,,,
 c89b8100-d785-4669-b338-50ba74523760,Jaylin.me,premium,,,58,76,6,,,
 a798ca53-3f31-4563-8152-82211964dfba,setonfire.me,premium,,,,72,11,,,
-ffc65921-d74d-43cd-af07-015fd6345284,bridget.me,resell,,,76,13,7,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),08/11/2025 17:00,08/11/2026 17:00
+ffc65921-d74d-43cd-af07-015fd6345284,bridget.me,resell,,,76,11,7,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),08/11/2025 17:00,08/11/2026 17:00
 709a0e6f-0344-4331-86c1-91183061a9e9,MickeyMouseglove.me,premium,,,68,4,18,,,
 3fb47cf7-89b4-4c8b-87c5-d884d43fd427,farmhorse.me,premium,,,56,72,10,,,
 42ff9750-c909-424d-88ab-628dc64c27ea,sickday.me,premium,,,56,80,8,,,
@@ -9304,7 +9305,7 @@ d0193f2d-a43e-4692-a452-a944a33eb9bf,policyinstitute.me,premium,,,54,72,16,,,
 11ed9258-fc47-4357-83f5-b7daade71b16,greenroad.me,premium,,,40,76,10,,,
 9923ebc3-79c5-4dc3-a134-77db55d17a4e,chicklingpea.me,premium,,,60,72,13,,,
 ca03dafd-7ffb-4275-b2c7-30d3ca4f9604,tundravole.me,premium,,,52,72,11,,,
-85f3a257-b358-4386-817f-e010a93b25b9,glass.me,resell,,,68,37,5,"NameSilo, LLC",22/10/2023 15:15,22/10/2026 15:15
+85f3a257-b358-4386-817f-e010a93b25b9,glass.me,resell,,,68,34,5,"NameSilo, LLC",22/10/2023 15:15,22/10/2026 15:15
 2f3d0293-e686-4b38-a43b-19341dc1b9ad,thehague.me,premium,,,56,68,9,,,
 ca38d980-f76f-4c52-ae87-fd7d4a114e1b,invisibleness.me,premium,,,52,72,13,,,
 7714d929-3ead-41c9-919c-924818e001cb,telesurgery.me,premium,,,,16,11,,,
@@ -9424,7 +9425,7 @@ aec4ec9a-a6df-45c7-8d05-0a18aa891bac,Whiteadder.me,premium,,,50,72,10,,,
 ea114189-89dd-4380-8aa4-36c3e4191275,watchdogs.me,resell,,,,40,9,"Spaceship, Inc.",01/12/2024 04:35,01/12/2025 04:35
 81de4788-f7ec-45aa-8363-e57e5d7b7727,MillardFillmore.me,premium,,,56,72,16,,,
 4986394a-a056-484a-9344-afaa80574a23,tireout.me,premium,,,,72,8,,,
-fb6268f5-1351-4e70-a1b1-b7aa055d3de1,panther.me,resell,,,62,23,7,Dynadot Inc,03/10/2014 02:35,03/10/2026 02:35
+fb6268f5-1351-4e70-a1b1-b7aa055d3de1,panther.me,resell,,,62,24,7,Dynadot Inc,03/10/2014 02:35,03/10/2026 02:35
 157d553a-0808-4c9a-bba7-4690e90eed9f,crystallography.me,premium,,,58,36,15,,,
 eb1327f1-99fc-424a-b181-3187a95a1ba1,NeuillysurSeine.me,premium,,,46,68,17,,,
 48b16fe0-2ba9-4b30-ace0-4492665524c5,gonative.me,resell,,,66,48,9,"Chengdu West Dimension Digital Technology Co., Ltd.",14/11/2024 18:06,14/11/2025 18:06
@@ -9477,14 +9478,14 @@ f547b77f-3ada-4a06-9390-336ca46f3451,conserves.me,premium,,,64,76,9,,,
 802f19fd-8b0c-478a-b2e3-35dd6dcace00,fightorflight.me,premium,,,60,80,15,,,
 8129adab-1115-4849-b758-8cfd1593e4d8,Bluegrassregion.me,premium,,,54,12,16,,,
 3e8429c0-c718-4523-a642-bd9245856324,firstgear.me,premium,,,64,72,10,,,
-11a0c322-e357-4d58-af7e-8cac3e1f456e,bull.me,resell,,,62,30,4,Porkbun LLC,17/07/2008 15:06,17/07/2026 15:06
+11a0c322-e357-4d58-af7e-8cac3e1f456e,bull.me,resell,,,62,28,4,Porkbun LLC,17/07/2008 15:06,17/07/2026 15:06
 0dfe39aa-c7dc-4e60-ad3b-ba28a018045c,AustrianNetherlands.me,premium,,,46,72,20,,,
 99f59478-0f29-4c29-9223-8312dfa28eed,mixednumber.me,premium,,,58,72,12,,,
 033e0bf9-d49e-4c20-8a45-771afdf750ee,Rhinos.me,resell,,,,76,6,"Chengdu West Dimension Digital Technology Co., Ltd.",08/11/2024 13:08,08/11/2025 13:08
 8f189d89-d439-49d7-bbfe-3e62eb918ddf,makegarden.me,premium,,,72,72,11,,,
 4790ad37-ab21-4f88-83bb-79116d4ee5d2,videomaking.me,premium,,,,24,11,,,
 6d2c4458-3159-4a3c-9e40-bf633e467f27,Wexford.me,premium,,,54,80,7,,,
-37136db5-21cb-4cfd-b101-4ca6789d6a99,authorised.me,premium,,,70,4,10,,,
+37136db5-21cb-4cfd-b101-4ca6789d6a99,authorised.me,premium,,,70,3,10,,,
 37279b47-4175-4ecc-ab36-d04e3a28f29e,teachablemoment.me,premium,,,62,76,16,,,
 94be72c8-810a-4610-8122-b88f4014a582,veday.me,premium,,,58,72,7,,,
 54cc6c1c-b7c1-4651-86bc-f82e6eba69eb,riddlemethis.me,premium,,,,84,14,,,
@@ -9577,7 +9578,7 @@ cb7fc0b9-52df-421b-91c0-3266e6198eb2,policyrate.me,premium,,,58,76,11,,,
 7a362d7f-d149-4ce5-bdb3-2172d268164c,pokefun.me,premium,,,56,72,8,,,
 370c67b1-e4fe-46a6-be3a-19dc77d21f0a,athletics.me,resell,3448.85,27.99,69,52,9,Dynadot Inc,09/07/2008 17:01,09/07/2026 17:01
 94e01395-5086-4bf5-b52d-e3548ee4b0c4,flagday.me,premium,,,58,76,8,,,
-4da9cd74-b94d-4c70-9fd1-b88a1344ec63,adaptable.me,resell,,,76,11,9,"GoDaddy.com, LLC",05/02/2009 02:38,05/02/2027 02:38
+4da9cd74-b94d-4c70-9fd1-b88a1344ec63,adaptable.me,resell,,,76,10,9,"GoDaddy.com, LLC",05/02/2009 02:38,05/02/2027 02:38
 ca30f024-8b52-4bcf-b05a-47f41611415a,alate.me,premium,,,82,2,5,,,
 776d0a46-85af-460b-87c4-7be3d6bd92fc,guarddog.me,premium,,,58,72,9,,,
 3ee9acd3-e5b7-4a70-8a8e-6f1814b10f8e,fivefingerdiscount.me,premium,,,58,72,20,,,
@@ -9785,7 +9786,7 @@ e771240d-0689-433e-9491-42d94c84d927,thestates.me,premium,,,66,80,10,,,
 982446fa-c3c0-4966-a74d-66213c9c4e6a,fromtimetotime.me,premium,,,56,72,17,,,
 8df228aa-91f9-42a5-93ba-6b155fa7ec40,doublehandling.me,premium,,,52,72,15,,,
 756e69a3-7b74-41cc-8830-4016c544b555,innocuously.me,premium,,,46,68,11,,,
-90e6b433-9e35-4965-8f59-390f79b722f9,chore.me,resell,,,70,13,5,Dynadot Inc,18/05/2016 04:14,18/05/2027 04:14
+90e6b433-9e35-4965-8f59-390f79b722f9,chore.me,resell,,,70,11,5,Dynadot Inc,18/05/2016 04:14,18/05/2027 04:14
 e4e48a8a-3e18-4481-88d6-3193076baf73,pervasiveness.me,premium,,,,4,13,,,
 9324572a-9cf3-417e-97cc-2778c2dc0856,onswole.me,premium,,,58,72,8,,,
 41fc7534-04b4-465f-8dac-c40c948148ab,Bobbikins.me,premium,,,48,72,9,,,
@@ -9794,7 +9795,7 @@ b7fd5506-323c-4e4c-96b2-f3864bc857a7,GioiaDelColle.me,premium,,,36,8,15,,,
 eb5887b9-1afd-404d-98f5-4095692e5366,plastering.me,available,11.99,27.99,58,76,10,name.com,,
 3364903e-78b4-4705-843e-35a8edfddb72,eatallyoucan.me,premium,,,58,72,15,,,
 ce7b3560-31e5-4c3c-a0c5-ccbbaf86c7a1,absolve.me,resell,,,60,76,7,Dynadot Inc,06/03/2016 03:27,06/03/2026 03:27
-f8371970-8c74-4204-9a9b-1fa965d9d60c,default.me,resell,,,94,25,7,"Spaceship, Inc.",03/10/2010 02:37,03/10/2026 02:37
+f8371970-8c74-4204-9a9b-1fa965d9d60c,default.me,resell,,,94,24,7,"Spaceship, Inc.",03/10/2010 02:37,03/10/2026 02:37
 a8a50d6d-acf4-47a9-9f0e-3162d505c223,diskos.me,premium,,,56,76,6,,,
 181f7b68-52a3-44e7-915f-98522be767b8,polysome.me,premium,,,54,72,8,,,
 0578ecf4-66f4-4e39-993a-3f99380279c8,findanothergear.me,premium,,,62,72,17,,,
@@ -9814,7 +9815,7 @@ b583d1bd-f592-4f21-ad20-9cd2ae4197c1,uninfected.me,premium,,,58,72,10,,,
 d85252bc-e129-45ab-a11d-58e488cb44ff,floweringdogwood.me,premium,,,62,72,17,,,
 ea441d03-2690-466f-93f4-c5f24c053fed,heptad.me,premium,,,58,2,6,,,
 0014f34d-5e2b-4452-abb6-02e407116516,doublestranded.me,premium,,,48,72,15,,,
-a2a19fac-1fc5-4cab-8623-f98dfd096e39,buyer.me,resell,,,74,21,5,"GoDaddy.com, LLC",17/07/2008 16:46,17/07/2026 16:46
+a2a19fac-1fc5-4cab-8623-f98dfd096e39,buyer.me,resell,,,74,19,5,"GoDaddy.com, LLC",17/07/2008 16:46,17/07/2026 16:46
 ade12fb9-86c9-4688-8dac-884b98d53fe0,ricemill.me,premium,,,,80,9,,,
 3077d8fe-928a-414e-bcab-f156ea8a7c4c,farmyard.me,premium,,,66,76,8,,,
 117de707-fcab-4818-a969-114a3c048b0c,ChelmsleyWood.me,premium,,,48,72,14,,,
@@ -9998,4 +9999,3 @@ a254d163-0926-4fae-bb40-d3269e026916,DogIsland.me,premium,,,46,76,10,,,
 fb3ff817-298a-41d1-8094-ab6e116410a0,supperhour.me,premium,,,66,72,11,,,
 df0b2b64-fffe-4fe6-b4d4-371001e3f86b,gingernuts.me,premium,,,48,16,10,,,
 da4f71dc-3ffd-4215-b507-7185ecee15c7,followups.me,premium,,,38,28,9,,,
-bbfb52e2-0d7b-4a54-8502-7db7e80b8ecb,jamout.me,premium,,,76,76,7,,,
