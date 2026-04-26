@@ -1,22 +1,22 @@
-# Available .ME One-Word Domains (59,767)
+# Available .ME One-Word Domains (60,190)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-10%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-59%2C767%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-60%2C190%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
 Daily-updated public extract of available and resale .me one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 10,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **59,767 domains** on the canonical page below.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **60,190 domains** on the canonical page below.
 
-**Public extract:** 10,000 rows · **Live catalog:** 59,767 domains
+**Public extract:** 1,000 rows · **Live catalog:** 60,190 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/me`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .ME one-word domain ca
 
 ### Files
 
-- `me.csv` — public CSV extract (10,000 rows)
-- `me.json` — public JSON extract (10,000 rows)
+- `me.csv` — public CSV extract (1,000 rows)
+- `me.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                           |
-| ----------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| burned.me         | available | $12.99     | $27.99        | 60             | 97     | 6      | name.com                                            |
-| accent.me         | resell    | $20,698.85 | $26.99        | 90             | 84     | 6      | Dynadot Inc                                         |
-| debit.me          | premium   | $6,250     | $26.99        | 96             | 88     | 5      | name.com                                            |
-| haveagoodti.me    | available | $11.99     | $26.99        | 72             | 80     | 16     | name.com                                            |
-| abacus.me         | resell    | $25,298.85 | $26.99        | 68             | 84     | 6      | Dynadot Inc                                         |
-| suite.me          | premium   | $25,298.85 | $27.99        | 70             | 84     | 5      | name.com                                            |
-| AbeLincoln.me     | available | $23.98     | —             | 68             | 80     | 11     | namecheap                                           |
-| magnetic.me       | resell    | $10,221.20 | $27.99        | 60             | 84     | 8      | GoDaddy.com, LLC                                    |
-| dance.me          | premium   | $7,500.01  | $27.99        | 68             | 80     | 5      | name.com                                            |
-| abbot.me          | available | $11.99     | $26.99        | 50             | 80     | 5      | name.com                                            |
-| stonework.me      | resell    | $1,667.50  | $27.99        | 56             | 80     | 9      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| Games.me          | premium   | $21,990.41 | $21.23        | 66             | 80     | 5      | namecheap                                           |
-| tillage.me        | available | $11.99     | $27.99        | 62             | 76     | 7      | name.com                                            |
-| underwriting.me   | resell    | $2,298.85  | $27.99        | 54             | 80     | 12     | Dynadot Inc                                         |
-| overalls.me       | premium   | $573.85    | $27.99        | —              | 76     | 8      | name.com                                            |
-| plastering.me     | available | $11.99     | $27.99        | 58             | 76     | 10     | name.com                                            |
-| ore.me            | resell    | $22,871.20 | $27.99        | 58             | 76     | 3      | Dynadot Inc                                         |
-| gold.me           | premium   | $18,125    | $27.99        | 72             | 48     | 4      | name.com                                            |
-| aargh.me          | available | $11.99     | $26.99        | 56             | 76     | 5      | name.com                                            |
-| massagetherapy.me | resell    | $1,667.50  | $27.99        | 80             | 72     | 15     | Chengdu West Dimension Digital Technology Co., Ltd. |
+| domain          | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar           |
+| --------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------- |
+| abbot.me        | available | $11.99     | $26.99        | 50             | 80     | 5      | name.com            |
+| advisory.me     | resell    | $6,541.20  | $26.99        | 80             | 17     | 8      | Dynadot Inc         |
+| debit.me        | premium   | $6,250     | $26.99        | 96             | 88     | 5      | name.com            |
+| Westwood.me     | available | $23.98     | —             | 66             | 20     | 8      | namecheap           |
+| treatment.me    | resell    | $19,548.85 | $27.99        | 78             | 15     | 9      | Dynadot Inc         |
+| ice.me          | premium   | $59,225    | —             | 68             | 45     | 3      | Tucows Domains Inc. |
+| goforgold.me    | available | $23.98     | —             | 74             | 15     | 11     | namecheap           |
+| skip.me         | resell    | —          | —             | 62             | 92     | 4      | Dynadot Inc         |
+| east.me         | premium   | $3,750     | $27.99        | 72             | 28     | 4      | name.com            |
+| WikiLeaks.me    | available | $23.98     | —             | 53             | 13     | 9      | namecheap           |
+| ribbit.me       | resell    | —          | —             | 104            | 88     | 6      | GoDaddy.com, LLC    |
+| butter.me       | premium   | $5,266.29  | —             | 78             | 27     | 6      | name.com            |
+| facilitation.me | available | $23.98     | —             | 74             | 12     | 12     | namecheap           |
+| license.me      | resell    | —          | —             | 84             | 88     | 7      | GoDaddy.com, LLC    |
+| childcare.me    | premium   | $7,105.82  | —             | 74             | 23     | 10     | name.com            |
+| businesses.me   | available | $23.98     | —             | 60             | 12     | 10     | namecheap           |
+| neon.me         | resell    | —          | —             | 78             | 88     | 4      | Dynadot Inc         |
+| sources.me      | premium   | $23,557.34 | —             | 48             | 14     | 7      | Sav.com, LLC - 15   |
+| seeyoulater.me  | available | $23.98     | —             | 54             | 12     | 13     | namecheap           |
+| ignition.me     | resell    | —          | —             | 70             | 88     | 8      | Dynadot Inc         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract           | Unique Domains                                   |
-| ------------------------ | ------------------------------------------------ |
-| 10,000-row public sample | 59,767 live domains                              |
-| Static CSV / JSON        | live search and daily refresh                    |
-| Basic exported fields    | deeper price, demand, risk, and workflow context |
-| No persistence           | Radar, saved search, and alerts                  |
-| No founder workflow      | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                                   |
+| ----------------------- | ------------------------------------------------ |
+| 1,000-row public sample | 60,190 live domains                              |
+| Static CSV / JSON       | live search and daily refresh                    |
+| Basic exported fields   | deeper price, demand, risk, and workflow context |
+| No persistence          | Radar, saved search, and alerts                  |
+| No founder workflow     | Project, shortlist, and next-step workflow       |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ME One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ME One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
