@@ -87,7 +87,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 33b06538-b708-488b-8493-1d45bb97f17f,bankers.me,resell,,,52,11,7,"eNom, LLC",02/10/2025 05:12,02/10/2026 05:12
 34126f3f-8713-4b1b-8246-a164075acb16,berries.me,resell,,,60,13,7,"Spaceship, Inc.",14/10/2024 17:00,14/10/2026 17:00
 341f4e9d-2487-4183-acf5-f7d2ee9ffad4,collapses.me,available,9.99,19.99,38,1,9,namesilo,,
-34684246-15d1-4aa3-ad72-af7db51f8809,ice.me,premium,59225,,68,45,3,Tucows Domains Inc.,12/08/2008 03:05,12/08/2028 03:05
+34684246-15d1-4aa3-ad72-af7db51f8809,ice.me,premium,59225,,68,44,3,Tucows Domains Inc.,12/08/2008 03:05,12/08/2028 03:05
 363fc1ab-d91a-47d5-8cec-800384539c2d,fullfrontalnudity.me,available,23.98,,48,1,19,namecheap,,
 38726bac-9fa0-43cb-ba77-ed105b07f3af,uptill.me,available,23.98,,50,1,7,namecheap,,
 38d99710-6294-496f-b6c4-4e4a384ba35f,divorcing.me,resell,,,46,6,9,Porkbun LLC,02/08/2025 13:16,02/08/2026 13:16
@@ -341,7 +341,7 @@ c41d102f-1b74-4400-8c4a-15a89c5184d5,Ihavecancer.me,available,23.98,,44,2,13,nam
 c5d57c27-b41e-4d46-a52f-2945c7df9f10,users.me,resell,,,54,18,5,Unstoppable Domains Inc,22/03/2024 15:15,22/03/2027 15:15
 c6ddab7e-a1e9-4351-b4ee-50370d55af15,calculation.me,available,23.98,,70,7,11,namecheap,,
 c78a3853-447a-4faa-a8b2-579ef09c1745,solarpower.me,resell,,,84,15,11,"GoDaddy.com, LLC",02/08/2008 13:20,02/08/2026 13:20
-c83caacd-ad5b-4202-add0-1e776a9f6254,beads.me,resell,,,76,11,5,"GoDaddy.com, LLC",03/10/2011 02:41,03/10/2026 02:41
+c83caacd-ad5b-4202-add0-1e776a9f6254,beads.me,resell,,,76,10,5,"GoDaddy.com, LLC",03/10/2011 02:41,03/10/2026 02:41
 c881492e-3a64-4a3c-a002-a7d9454a4836,goastray.me,available,23.98,,66,1,9,namecheap,,
 c8f3e552-d6d9-4193-88ae-2485166fe437,havetheblues.me,available,23.98,,58,1,14,namecheap,,
 c98caa9b-2f93-470b-a1d6-8d249cb437c5,affirmation.me,resell,,,82,10,11,"Sav.com, LLC",17/06/2025 14:20,17/06/2026 14:20
@@ -439,7 +439,7 @@ d2900332-8c29-4e04-a0b9-5c03cc35812c,almadinah.me,premium,,,62,76,10,,,
 c44bd85c-2a2e-43c0-808c-3047abd7c43d,ginosho.me,premium,,,50,4,8,,,
 2a7c914a-aa1d-4bb5-99d3-fbd9e31ee214,goldpan.me,premium,,,40,76,8,,,
 c52cfbbb-2d49-4131-8f64-6266e38e13a5,thriftily.me,premium,,,52,72,9,,,
-ccb47d7a-5081-4752-aa9b-2c3daaf7103c,hercules.me,resell,,,74,22,8,Dynadot Inc,21/12/2015 05:51,21/12/2026 05:51
+ccb47d7a-5081-4752-aa9b-2c3daaf7103c,hercules.me,resell,,,74,21,8,Dynadot Inc,21/12/2015 05:51,21/12/2026 05:51
 56e69d86-9040-4a3a-b1da-b2dc58ef1aee,prickling.me,premium,,,54,72,9,,,
 0eea3059-2118-4fbb-83f5-eeb86c7791b5,asprovidedfor.me,premium,,,44,0,15,,,
 4c67b799-7627-470b-a799-c52656d37c71,talon.me,resell,,,52,88,5,Dynadot Inc,04/07/2020 06:11,04/07/2026 06:11
@@ -599,7 +599,7 @@ c92ebf71-fa56-4837-af33-72303af3bcd4,airrights.me,premium,,,58,76,10,,,
 beae5c3a-fd3a-4a54-936d-d32027679053,redmeats.me,premium,,,,8,9,,,
 4e6bc10c-662f-4e80-847d-528f4c8e4362,consolation.me,premium,,,58,84,11,,,
 f4d43398-e3f6-4d94-ad62-e937ee1a7191,Cartmanian.me,premium,,,50,72,10,,,
-0f1bd678-dea2-4d7a-8cb2-c81eb947701f,bryan.me,resell,,,60,23,5,Dynadot Inc,14/07/2024 17:00,14/07/2026 17:00
+0f1bd678-dea2-4d7a-8cb2-c81eb947701f,bryan.me,resell,,,60,24,5,Dynadot Inc,14/07/2024 17:00,14/07/2026 17:00
 fc85880d-66e3-492f-9587-db3d8f3acfdb,moldboard.me,premium,,,58,72,9,,,
 93c8e09c-a464-4ad5-8c19-20ccbe77b532,gardenpea.me,premium,,,56,72,10,,,
 fe693892-0afc-4d66-8464-a34e27210ada,crimefighter.me,premium,,,62,76,12,,,
@@ -699,7 +699,7 @@ abd91e46-4744-4918-aa77-f4a27b53c23d,allconquering.me,premium,,,56,72,14,,,
 718b3b7f-0ab5-405c-b26a-2bfc7688b4f9,Indianink.me,premium,,,52,72,10,,,
 3c4a00db-a30e-4eee-b319-05cc37410aaf,transits.me,premium,,,,28,8,,,
 c9ade1a2-d7b6-43be-92de-4a415a0c1d73,safetyorange.me,premium,,,,72,13,,,
-f1952bdb-bc95-4765-b52f-cf0844530096,treatment.me,resell,19548.85,27.99,78,15,9,Dynadot Inc,18/07/2008 05:45,18/07/2026 05:45
+f1952bdb-bc95-4765-b52f-cf0844530096,treatment.me,resell,19548.85,27.99,78,15,9,Dynadot Inc,18/07/2008 05:45,18/07/2027 05:45
 5694e27e-bce4-4565-b6a9-614a2eed33a9,ares.me,resell,,,50,84,4,Edomains LLC,22/06/2025 15:15,22/06/2026 15:15
 eeb09441-5ff3-436f-917c-be130271fa1d,newshekel.me,premium,,,,72,10,,,
 16f6c474-3a65-4f81-956b-4a798513107f,actofparliament.me,premium,,,64,72,17,,,
