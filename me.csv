@@ -67,6 +67,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 27914cf3-9bd1-4d30-8533-a3c96a3047aa,distributed.me,resell,,,64,21,11,"NameCheap, Inc.",19/07/2008 03:30,19/07/2026 03:30
 280265c1-6685-4db3-bfd5-880dd321b719,oranything.me,available,23.98,,44,1,11,namecheap,,
 2869c812-45f5-48a7-a179-32460e7d1797,nine.me,resell,,,65,29,4,"NameCheap, Inc.",05/08/2022 18:46,05/08/2026 18:46
+2888f2cf-8c0d-442b-937b-ec7e708ddf91,noway.me,resell,,,58,12,6,"eNom, LLC",03/05/2026 07:47,03/05/2027 07:47
 29d61bd8-778d-4098-b1b8-c42eb1006905,arrows.me,resell,,,52,14,6,Unstoppable Domains Inc,04/03/2024 15:15,04/03/2027 15:15
 2a34340b-52d5-4950-be83-f61b942298df,volunteering.me,resell,,,74,7,12,Dynadot Inc,29/05/2017 01:07,29/05/2027 01:07
 2a469016-8994-41fd-b969-77a7c9bb2927,thedamn.me,available,23.98,,38,1,8,namecheap,,
@@ -174,6 +175,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 65e5eec6-e4e4-4d17-9219-27c857675d77,goingdown.me,available,9.99,19.99,50,2,10,namesilo,,
 65ebda2e-6214-4b45-bb8f-73eda344123e,engineers.me,resell,,,60,19,9,"NameCheap, Inc.",18/12/2019 12:49,18/12/2026 12:49
 66ad7328-2a64-42cd-ad8b-e822e911f710,deepdiving.me,available,23.98,,76,2,11,namecheap,,
+676c5f0f-9cc8-4c9c-99eb-dd46e7a2f853,disassemble.me,available,9.99,19.99,68,3,11,namesilo,,
 67822e68-3633-4ca0-8fe3-e3d8be4abab7,gonowherefast.me,available,23.98,,50,1,15,namecheap,,
 67a129a8-c3a4-4b7c-865c-4e01300c3c8d,spillover.me,available,23.98,,68,4,10,namecheap,,
 67e10648-5f91-4854-8a9e-81b06b501411,getwith.me,resell,,,74,4,8,Key-Systems GmbH,30/09/2010 13:10,30/09/2026 13:10
@@ -997,5 +999,3 @@ b121cb7f-cb6c-4d78-ae26-83f659e430b2,alternativism.me,premium,,,56,72,13,,,
 1b5a7454-2dbb-4bb1-86f5-10b3bed63f9f,cravat.me,premium,,,80,80,6,,,
 711c4c44-4862-4dd2-8d1b-5f076e5d1170,redspruce.me,premium,,,,76,10,,,
 fb944282-8d20-45a9-ac5c-2d510c101a66,openseason.me,premium,,,,76,11,,,
-23b9bae1-5600-496a-af31-0244949e25c4,counterbalanced.me,premium,,,50,20,15,,,
-e4825bb9-9adf-41bd-9682-1befdadd6faf,drytool.me,premium,,,60,72,8,,,
