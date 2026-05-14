@@ -58,7 +58,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 21bf9829-4ad2-48e9-9f92-c7a6ce6caff5,playaround.me,available,23.98,,72,5,11,namecheap,,
 21c9c0ff-ca10-4b17-9263-1bf2ed42f7a6,mouthed.me,available,23.98,,63,1,7,namecheap,,
 228a8965-190e-41e0-9a92-723259f1d519,gorogue.me,available,23.98,,64,4,8,namecheap,,
-23576241-0885-467c-beab-5fe9de5098df,getthepoint.me,available,23.98,,71,2,13,namecheap,,
+23576241-0885-467c-beab-5fe9de5098df,getthepoint.me,available,23.98,,71,3,13,namecheap,,
 237c8f08-e5c1-46ba-9f6f-072b8ec77717,privateeye.me,available,23.98,,53,4,11,namecheap,,
 2408f33a-c447-4283-aa49-c4d923762e62,cheesedown.me,available,23.98,,62,0,11,namecheap,,
 251c68bc-f8b3-495d-a257-be89d5d33f7e,childmurderer.me,available,23.98,,30,1,14,namecheap,,
@@ -180,6 +180,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 67822e68-3633-4ca0-8fe3-e3d8be4abab7,gonowherefast.me,available,23.98,,50,1,15,namecheap,,
 67a129a8-c3a4-4b7c-865c-4e01300c3c8d,spillover.me,available,23.98,,68,4,10,namecheap,,
 67e10648-5f91-4854-8a9e-81b06b501411,getwith.me,resell,,,74,4,8,Key-Systems GmbH,30/09/2010 13:10,30/09/2026 13:10
+682c8ba5-ffa7-469c-9232-042a59d47522,taxes.me,resell,,,46,19,5,Porkbun LLC,24/08/2008 15:09,24/08/2026 15:09
 686d01eb-0787-4ad8-9ece-f129484ae288,notsomuch.me,available,23.98,,46,1,11,namecheap,,
 68e56ebd-b3aa-41ad-914e-fac7760427fd,accountants.me,resell,,,50,16,11,"Spaceship, Inc.",05/03/2023 14:32,05/03/2027 14:32
 693f69e6-de63-4733-8cf4-1e8d8baee858,somewhereelse.me,available,23.98,,60,3,14,namecheap,,
@@ -214,7 +215,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 79ef95e1-8c81-4cc3-bf03-f5256d41e218,letterofdismissal.me,available,23.98,,44,1,19,namecheap,,
 7a17aa08-52f6-46dd-bd93-399618ef5b9c,Westwood.me,available,23.98,,66,20,8,namecheap,,
 7a3abbc0-4c6e-41ba-a8a0-ff70f18333e4,sources.me,premium,23557.34,,48,14,7,"Sav.com, LLC - 15",19/03/2025 15:15,19/03/2027 15:15
-7ac4565b-e846-4ef5-abe9-713a1c9350c1,Godonlyknows.me,available,23.98,,50,9,14,namecheap,,
+7ac4565b-e846-4ef5-abe9-713a1c9350c1,Godonlyknows.me,available,23.98,,50,1,14,namecheap,,
 7b64821c-5053-4fb5-8331-0b6428c98c7c,filetypes.me,available,9.99,19.99,46,3,9,namesilo,,
 7b973a52-9656-4ae1-ac53-a6058986f222,proxymurder.me,available,23.98,,36,1,12,namecheap,,
 7d754312-de48-4ef8-bef1-91a73b63e7af,sitaround.me,available,23.98,,66,1,10,namecheap,,
@@ -374,7 +375,7 @@ d8f0e477-20ca-4ac9-9736-823a6cb0467d,backgrounds.me,available,9.99,19.99,50,5,11
 d936e64a-9f7a-44ae-a8dd-087b25077e5e,filetype.me,available,23.98,,64,3,9,namecheap,,
 d97d7ddc-e624-42c8-afcd-17979139cfbb,bedamned.me,available,23.98,,38,1,9,namecheap,,
 da0acd2c-7157-4135-b70c-cc29d2ebe93e,alternatives.me,resell,,,58,13,12,Dynadot Inc,13/02/2013 16:23,13/02/2027 16:23
-da107b75-83c0-4d28-be79-bebce098b4f3,biggame.me,resell,,,78,9,8,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),01/11/2025 17:43,01/11/2026 17:43
+da107b75-83c0-4d28-be79-bebce098b4f3,biggame.me,resell,,,78,11,8,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),01/11/2025 17:43,01/11/2026 17:43
 da8c2d34-9898-423e-a260-8c432779511f,uncared.me,available,23.98,,57,1,7,namecheap,,
 dab87a6b-3e59-4682-a553-4c2c23e5a7f7,mortars.me,available,9.99,19.99,40,2,7,namesilo,,
 dac02f68-c602-4e5f-9239-ce7d3be85965,packingtape.me,available,23.98,,70,2,12,namecheap,,
@@ -403,7 +404,7 @@ e9126767-e4e0-44a3-9f9b-46073285575c,snowed.me,available,23.98,,52,3,6,namecheap
 e9556280-9f39-4ac6-a7d4-a4777e518bcf,notifies.me,premium,553.16,,50,3,8,"NameCheap, Inc.",03/01/2017 22:29,03/01/2027 22:29
 e9b79408-d4b1-4f83-9b80-b370f35ac09a,OxyContin.me,available,9.99,19.99,64,6,9,namesilo,,
 ea52232b-0414-48d8-8fa2-bd3d1728f8e1,underestimated.me,available,23.98,,42,6,14,namecheap,,
-ea78feee-ef54-457c-aac1-3f9f4b23248a,moneytalks.me,resell,,,60,11,11,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),12/11/2025 17:04,12/11/2026 17:04
+ea78feee-ef54-457c-aac1-3f9f4b23248a,moneytalks.me,resell,,,60,12,11,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),12/11/2025 17:04,12/11/2026 17:04
 ea9128e7-0c26-42cd-bab6-b1c81b955c77,WikiLeaks.me,available,23.98,,53,13,9,namecheap,,
 ea9602c3-5539-44b7-aa73-5dec030ae795,couldnotcareless.me,available,23.98,,38,0,19,namecheap,,
 eac088ed-08a7-4b28-a425-eb03ab0c5bfb,floodwaters.me,available,9.99,19.99,56,2,11,namesilo,,
@@ -998,4 +999,3 @@ da268033-a839-4b5e-876a-a60245051122,turkeytail.me,premium,,,58,72,11,,,
 7a5cb55f-aa35-45c4-baa0-62552debea71,yellowish.me,premium,,,60,76,9,,,
 b121cb7f-cb6c-4d78-ae26-83f659e430b2,alternativism.me,premium,,,56,72,13,,,
 4c4d9f7c-b1b3-460b-8e0b-e99adb6d74b1,shrimps.me,resell,,,,36,7,"Chengdu West Dimension Digital Technology Co., Ltd.",13/11/2024 18:04,13/11/2025 18:04
-1b5a7454-2dbb-4bb1-86f5-10b3bed63f9f,cravat.me,premium,,,80,80,6,,,
