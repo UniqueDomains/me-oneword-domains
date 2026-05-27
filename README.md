@@ -82,7 +82,7 @@ print(df.head())
 | tomorrows.me    | available | $9.99      | $19.99        | 60             | 11     | 9      | namesilo            |
 | ignition.me     | resell    | —          | —             | 70             | 88     | 8      | Dynadot Inc         |
 | fog.me          | premium   | $11,843.82 | —             | 68             | 19     | 3      | name.com            |
-| ttyl.me         | available | $23.98     | —             | 54             | 11     | 4      | namecheap           |
+| breastcancer.me | available | $23.98     | —             | 58             | 11     | 13     | namecheap           |
 | Aga.me          | resell    | —          | —             | 60             | 88     | 6      | Dynadot Inc         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
