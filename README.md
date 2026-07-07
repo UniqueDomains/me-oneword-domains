@@ -1,10 +1,10 @@
-# Available .ME One-Word Domains (60,328)
+# Available .ME One-Word Domains (60,329)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-60%2C328%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-60%2C329%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .me one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **60,328 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **60,329 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 60,328 domains · **Median ask:** $15,287.09 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 60,329 domains · **Median ask:** $4,364.45 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/me`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/me`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .ME one-word domain ca
 
 ### Files
 
-- `me.csv` — public CSV extract (1,000 rows)
-- `me.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `me.csv`, public CSV extract (1,000 rows)
+- `me.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar           |
-| --------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------- |
-| abbot.me        | available | $11.99     | $26.99        | 50             | 80     | 5      | name.com            |
-| advisory.me     | resell    | $6,541.20  | $26.99        | 80             | 17     | 8      | Dynadot Inc         |
-| debit.me        | premium   | $6,250     | $26.99        | 96             | 88     | 5      | name.com            |
-| Westwood.me     | available | $23.98     | —             | 66             | 15     | 8      | namecheap           |
-| treatment.me    | resell    | $19,548.85 | $27.99        | 78             | 15     | 9      | Dynadot Inc         |
-| ice.me          | premium   | $59,225    | —             | 68             | 44     | 3      | Tucows Domains Inc. |
-| facilitation.me | available | $23.98     | —             | 74             | 12     | 12     | namecheap           |
-| ribbit.me       | resell    | —          | —             | 104            | 88     | 6      | GoDaddy.com, LLC    |
-| east.me         | premium   | $3,750     | $27.99        | 72             | 28     | 4      | name.com            |
-| Amazons.me      | available | $9.99      | $19.99        | 60             | 12     | 7      | namesilo            |
-| license.me      | resell    | —          | —             | 84             | 88     | 7      | GoDaddy.com, LLC    |
-| butter.me       | premium   | $5,266.29  | —             | 78             | 27     | 6      | name.com            |
-| businesses.me   | available | $23.98     | —             | 60             | 12     | 10     | namecheap           |
-| neon.me         | resell    | —          | —             | 78             | 88     | 4      | Dynadot Inc         |
-| childcare.me    | premium   | $7,105.82  | —             | 74             | 23     | 10     | name.com            |
-| tomorrows.me    | available | $9.99      | $19.99        | 60             | 11     | 9      | namesilo            |
-| ignition.me     | resell    | —          | —             | 70             | 88     | 8      | Dynadot Inc         |
-| fog.me          | premium   | $11,843.82 | —             | 68             | 19     | 3      | name.com            |
-| breastcancer.me | available | $23.98     | —             | 58             | 11     | 13     | namecheap           |
-| Aga.me          | resell    | —          | —             | 60             | 88     | 6      | Dynadot Inc         |
+| domain        | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar       |
+| ------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------- |
+| count.me      | premium   | $7,500     | —             | high           | low    | 5      | name.com        |
+| abbot.me      | available | $11.99     | $26.99        | medium         | high   | 5      | name.com        |
+| rogue.me      | resell    | $5,789.84  | —             | medium         | low    | 5      | NameSilo, LLC   |
+| east.me       | premium   | $3,750     | $27.99        | high           | low    | 4      | name.com        |
+| Rhoda.me      | available | $9.99      | $19.99        | medium         | low    | 5      | namesilo        |
+| advisory.me   | resell    | $6,541.20  | $26.99        | high           | low    | 8      | Dynadot Inc     |
+| high.me       | premium   | $35,533.82 | —             | medium         | low    | 4      | Dynadot Inc     |
+| burned.me     | available | $12.99     | $27.99        | medium         | high   | 6      | name.com        |
+| treatment.me  | resell    | $19,548.85 | $27.99        | high           | low    | 9      | Dynadot Inc     |
+| into.me       | premium   | $7,499.99  | —             | medium         | low    | 4      | name.com        |
+| sheeit.me     | available | $9.99      | $19.99        | medium         | low    | 6      | namesilo        |
+| employment.me | resell    | $4,560.32  | —             | high           | low    | 10     | Dynadot Inc     |
+| sort.me       | premium   | $7,500     | —             | high           | low    | 4      | name.com        |
+| abroach.me    | available | $11.99     | $26.99        | high           | low    | 7      | name.com        |
+| BOJ.me        | resell    | —          | —             | medium         | high   | 3      | Spaceship, Inc. |
+| widowed.me    | available | $9.99      | $19.99        | medium         | low    | 7      | namesilo        |
+| NPR.me        | resell    | —          | —             | medium         | high   | 3      | Dynadot Inc     |
+| debit.me      | premium   | $6,250     | $26.99        | high           | high   | 5      | name.com        |
+| swishing.me   | available | $23.98     | —             | medium         | low    | 8      | namecheap       |
+| ares.me       | resell    | —          | —             | medium         | high   | 4      | Edomains LLC    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 60,328 live domains                        |
+| 1,000-row public sample | 60,329 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are all .me names, a TLD often used for personal branding, direct calls to action, and memorable keyword phrases. In this selection, the range runs from concise terms like true.me and guts.me to descriptive names like happybirthday.me and sportsbar.me. That makes evaluation less about one single style and more about fit. When comparing these domains, focus on whether the phrase sounds natural with .me, whether the ask justifies the strength of the word, and whether the name carries trademark exposure. Names tied to famous brands or public figures need extra caution.
+One-word .me domains pair short, memorable names with a globally recognized personal-branding extension. This set includes names like shakehands.me, getmarried.me, and out.me — spanning lifestyle, emotion, and action-based one-word terms. With a median ask near $4,364 across 60,329 listings, pricing varies widely based on word commonality, syllable count, and category relevance. Whether the goal is resale potential or a future brand, renewal cost and search-friendly spelling remain the key differentiators among these domains.
 
-- Check whether the word reads naturally with .me
-- Use the $10,168 median ask as a pricing reference
-- Favor clear, memorable words over long literal phrases
-- Avoid names with obvious brand or name-rights risk
+- 60,329 one-word .me domains with median ask near $4,364
+- Short, personal-branding names across lifestyle and action themes
+- Compare pricing, renewal cost, and brandability before buying
+- Updated daily to reflect current one-word .me availability
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ME One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ME One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
