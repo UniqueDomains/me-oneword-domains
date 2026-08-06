@@ -1,10 +1,10 @@
-# Available .ME One-Word Domains (60,329)
+# Available .ME One-Word Domains (60,372)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-60%2C329%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-60%2C372%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .me one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **60,329 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **60,372 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 60,329 domains · **Median ask:** $4,364.45 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 60,372 domains · **Median ask:** $3,670.37 · **High-demand under $2,500:** 177
 
-**Last updated:** 2026-07-07
+**Last updated:** 2026-08-06
 **Canonical page:** `https://unique.domains/domains/tld/me`
 **Best for:** founders, investors, studios
 
@@ -65,24 +65,24 @@ print(df.head())
 | domain        | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar       |
 | ------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------- |
 | count.me      | premium   | $7,500     | —             | high           | low    | 5      | name.com        |
-| abbot.me      | available | $11.99     | $26.99        | medium         | high   | 5      | name.com        |
+| clxv.me       | available | $9.99      | $19.99        | low            | low    | 4      | namesilo        |
 | rogue.me      | resell    | $5,789.84  | —             | medium         | low    | 5      | NameSilo, LLC   |
 | east.me       | premium   | $3,750     | $27.99        | high           | low    | 4      | name.com        |
-| Rhoda.me      | available | $9.99      | $19.99        | medium         | low    | 5      | namesilo        |
-| advisory.me   | resell    | $6,541.20  | $26.99        | high           | low    | 8      | Dynadot Inc     |
+| lvii.me       | available | $9.99      | $19.99        | low            | low    | 4      | namesilo        |
+| advisory.me   | resell    | $6,541.20  | $26.99        | medium         | low    | 8      | Dynadot Inc     |
 | high.me       | premium   | $35,533.82 | —             | medium         | low    | 4      | Dynadot Inc     |
-| burned.me     | available | $12.99     | $27.99        | medium         | high   | 6      | name.com        |
+| abbot.me      | available | $11.99     | $26.99        | medium         | high   | 5      | name.com        |
 | treatment.me  | resell    | $19,548.85 | $27.99        | high           | low    | 9      | Dynadot Inc     |
 | into.me       | premium   | $7,499.99  | —             | medium         | low    | 4      | name.com        |
-| sheeit.me     | available | $9.99      | $19.99        | medium         | low    | 6      | namesilo        |
+| anile.me      | available | $9.99      | $19.99        | low            | low    | 5      | namesilo        |
 | employment.me | resell    | $4,560.32  | —             | high           | low    | 10     | Dynadot Inc     |
 | sort.me       | premium   | $7,500     | —             | high           | low    | 4      | name.com        |
-| abroach.me    | available | $11.99     | $26.99        | high           | low    | 7      | name.com        |
+| Rhoda.me      | available | $9.99      | $19.99        | medium         | low    | 5      | namesilo        |
 | BOJ.me        | resell    | —          | —             | medium         | high   | 3      | Spaceship, Inc. |
-| widowed.me    | available | $9.99      | $19.99        | medium         | low    | 7      | namesilo        |
+| burned.me     | available | $12.99     | $27.99        | medium         | high   | 6      | name.com        |
 | NPR.me        | resell    | —          | —             | medium         | high   | 3      | Dynadot Inc     |
 | debit.me      | premium   | $6,250     | $26.99        | high           | high   | 5      | name.com        |
-| swishing.me   | available | $23.98     | —             | medium         | low    | 8      | namecheap       |
+| ringed.me     | available | $9.99      | $19.99        | medium         | low    | 6      | namesilo        |
 | ares.me       | resell    | —          | —             | medium         | high   | 4      | Edomains LLC    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 60,329 live domains                        |
+| 1,000-row public sample | 60,372 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 177 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ME One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ME One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
