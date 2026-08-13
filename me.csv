@@ -24,7 +24,7 @@ b6b8b6b7-1f36-49d3-b993-f4efd4c74bc3,dressingbox.me,available,,,low,high,12,,,
 9a9c6dac-2d5c-457e-8d2d-d145d2e53d3f,spermwhale.me,available,,,medium,high,11,,,
 c280e11d-986d-4c45-83b9-1e73be3edc0d,high.me,premium,35533.82,,medium,low,4,Dynadot Inc,09/07/2008 17:04,09/07/2027 17:04
 da04052b-a515-415e-a418-e65ee0a407e7,restaging.me,available,,,medium,high,9,,,
-2ed32437-362a-4285-a2cb-572d3512c64f,chorale.me,available,,,medium,high,7,,,
+2ed32437-362a-4285-a2cb-572d3512c64f,chorale.me,available,9.99,19.99,medium,low,7,namesilo,,
 cf9c8743-377c-43b2-9b37-3b9b6cac5f13,workedup.me,available,,,medium,high,9,,,
 3cf9a9cb-d61e-4ab4-8bc1-fe92c0e6b375,revivals.me,available,,,low,low,8,,,
 2c887633-c4ca-4d90-850d-b4773d510e64,seventhgrader.me,available,,,medium,high,14,,,
@@ -221,7 +221,7 @@ cccba18f-10b1-4950-a02a-b9147772fe50,agonized.me,available,10.98,23.98,low,low,8
 24f7a25c-ef06-43c9-9c43-e905f9c75113,flatheeled.me,available,,,medium,low,11,,,
 3df5000a-6015-4ad1-a952-fe3ca5629312,soursalt.me,available,,,medium,high,9,,,
 cc07edc7-b6e4-4c84-bdf5-82f851e1909d,recognisably.me,available,,,medium,high,12,,,
-159d43ee-7501-42f0-b2eb-82a3e53b709a,coastal.me,resell,,,medium,high,7,"Spaceship, Inc.",15/12/2011 02:35,15/12/2025 02:35
+159d43ee-7501-42f0-b2eb-82a3e53b709a,coastal.me,resell,,,medium,low,7,"Spaceship, Inc.",15/12/2011 02:35,15/12/2026 02:35
 790c3a67-91c8-4e05-a9f9-8faca1f26c3e,middlemarket.me,available,,,medium,high,13,,,
 b903fa5e-7599-4e51-9b50-8d912eaff8cb,continuousfunctions.me,available,,,low,low,20,,,
 4ab1f6c1-1d5b-4281-89cb-4a3707b50132,princesscut.me,available,,,medium,high,12,,,
@@ -329,7 +329,7 @@ d4098316-7284-4e77-8539-5bb4494f74b6,fixedfield.me,available,,,medium,high,11,,,
 7c089c24-f78f-47c1-8c3b-200804c59eb8,littledogsyndrome.me,available,,,medium,high,19,,,
 570a2932-c67e-4bda-ba0f-52f2e396d79a,superfreak.me,available,,,medium,high,10,,,
 026b56ae-32ac-4b65-8be1-732c245fa9fa,fiveandten.me,available,,,medium,high,12,,,
-f8b38a1e-f7e0-4c3b-bf94-0c14cd5d0202,childless.me,available,,,medium,high,9,,,
+f8b38a1e-f7e0-4c3b-bf94-0c14cd5d0202,childless.me,available,9.99,19.99,low,low,9,namesilo,,
 52799ebf-8ccd-4dfc-a3fb-cbd9231ab49c,GermanReich.me,available,9.99,19.99,medium,low,12,namesilo,,
 3dc4d3d3-5c77-456f-98bf-234f9ec28efb,Esteculture.me,available,,,low,low,12,,,
 55407a61-a370-4092-ba6d-c3fa30390e5a,omen.me,resell,,,high,low,4,"Sav.com, LLC - 1",01/11/2025 15:15,01/11/2026 15:15
