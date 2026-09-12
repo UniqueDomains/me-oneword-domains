@@ -9,7 +9,7 @@ c44bd85c-2a2e-43c0-808c-3047abd7c43d,ginosho.me,available,,,medium,low,8,,,
 2a7c914a-aa1d-4bb5-99d3-fbd9e31ee214,goldpan.me,available,,,medium,high,8,,,
 c52cfbbb-2d49-4131-8f64-6266e38e13a5,thriftily.me,available,,,medium,high,9,,,
 ccb47d7a-5081-4752-aa9b-2c3daaf7103c,hercules.me,resell,,,high,low,8,Dynadot Inc,21/12/2015 05:51,21/12/2026 05:51
-56e69d86-9040-4a3a-b1da-b2dc58ef1aee,prickling.me,available,,,medium,high,9,,,
+56e69d86-9040-4a3a-b1da-b2dc58ef1aee,prickling.me,available,1.98,23.98,low,low,9,namecheap,,
 0eea3059-2118-4fbb-83f5-eeb86c7791b5,asprovidedfor.me,available,23.98,,medium,low,15,namecheap,,
 4c67b799-7627-470b-a799-c52656d37c71,talon.me,resell,,,medium,high,5,Dynadot Inc,04/07/2020 06:11,04/07/2026 06:11
 888bd3df-69d1-476e-ad08-2a87ea02077a,strokeoar.me,available,,,medium,high,10,,,
@@ -690,7 +690,7 @@ b5dd36db-9be7-4656-83ae-5e694ec5b050,paidup.me,available,1.98,23.98,low,low,7,na
 48b35a45-b68d-4654-a57b-116da219f674,subsignal.me,available,,,medium,high,9,,,
 299b1625-9c00-443d-a5dc-2be45850c973,accumulator.me,resell,,,medium,high,11,"Chengdu West Dimension Digital Technology Co., Ltd.",09/11/2024 04:36,09/11/2025 04:36
 b84b53d0-ea22-451f-99f6-2c120d0f6afa,earthnut.me,available,,,medium,high,8,,,
-d689d35c-a3af-405b-a95b-c646a288b81a,towering.me,available,,,high,medium,8,,,
+d689d35c-a3af-405b-a95b-c646a288b81a,towering.me,available,1.98,23.98,medium,low,8,namecheap,,
 1173efea-bb28-4087-9c4c-b1e1b50c89e9,rids.me,available,,,medium,medium,4,,,
 887444e5-c0a9-43c9-8b4d-3732ad0753d2,fortunate.me,resell,,,medium,low,9,"GoDaddy.com, LLC",17/07/2008 17:27,17/07/2027 17:27
 530de5db-c13b-4f99-b57e-7884982d4fa9,paved.me,available,1.98,23.98,low,low,5,namecheap,,
@@ -759,6 +759,7 @@ e2cd5611-79ae-4de4-8203-d099a1ff26c1,fullpowered.me,available,,,medium,high,12,,
 2362f4cc-f706-4334-8117-f94dee84996b,variableantshrike.me,available,,,medium,high,18,,,
 35049913-49ce-4029-aa1b-7ea8fda1e3b2,midatrial.me,available,,,medium,low,9,,,
 5b335799-75f8-43aa-af8c-b3140a1a4f43,stove.me,resell,,,medium,low,5,"Spaceship, Inc.",17/07/2008 15:33,17/07/2027 15:33
+c01426f2-146c-4f6a-b027-776308d21b6a,tangerine.me,resell,,,medium,low,9,"Spaceship, Inc.",28/07/2025 15:15,28/07/2027 15:15
 f7a173b9-039c-4a86-a512-e89a492670ed,degreeFahrenheit.me,available,,,medium,high,17,,,
 686c6e39-8b11-45e1-a97c-318b1e64e1c7,badgeofhonour.me,available,,,high,low,15,,,
 c97a11b5-4979-425d-9836-bc100410d177,drinkin.me,available,,,medium,medium,8,,,
@@ -917,7 +918,7 @@ bad166d7-91ea-4988-aab3-26cda660fa50,freshbean.me,available,,,medium,high,10,,,
 4b11a4eb-fb1f-45e6-9859-623a7f236f7a,bedofnails.me,available,,,medium,high,12,,,
 c20d53e5-ad5c-4440-8d15-484d1b47a27f,whatsoever.me,available,23.98,,medium,low,10,namecheap,,
 f9e4cfed-4765-4abc-ab12-c011cc2c0ef2,forloveormoney.me,available,,,medium,high,17,,,
-60798ab8-813f-4e53-9c37-baa7fc6f1a63,overstep.me,available,,,high,high,8,,,
+60798ab8-813f-4e53-9c37-baa7fc6f1a63,overstep.me,available,1.98,23.98,medium,low,8,namecheap,,
 93fb82d5-26fd-45c4-8bb8-c3a3f1d9aa14,offcutter.me,available,,,medium,high,10,,,
 5e488d19-b5d1-4d20-b131-c43c0be2578b,allGreektome.me,available,,,medium,high,15,,,
 8723a605-7632-4ca9-b2f1-1a26ffcc0877,onthebutton.me,available,,,medium,high,13,,,
@@ -998,4 +999,3 @@ e1a215af-2f71-4012-9730-66e0409ce666,feedon.me,resell,,,medium,high,7,"NameCheap
 3f048842-236c-4154-b4f1-cba76bff5554,drivable.me,available,,,medium,high,8,,,
 14842888-24f1-48a2-a195-418e9ce13ab0,soapdish.me,available,,,medium,high,9,,,
 b4146e5a-60f9-4dfa-bf77-1cdad0918dbe,executiveprivilege.me,available,23.98,,medium,low,19,namecheap,,
-6b5de5be-8f1b-41ea-a3f0-41785261dac1,alltogether.me,resell,,,high,high,12,"Chengdu West Dimension Digital Technology Co., Ltd.",08/11/2024 12:40,08/11/2025 12:40
