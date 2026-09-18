@@ -2,8 +2,8 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 b1e8d73f-f908-4a2f-a867-c9931d6963f0,tramcar.me,available,,,medium,high,7,,,,
 0769854e-712f-4e4b-96b8-9c73d10b2ac4,topically.me,available,10.98,23.98,low,low,9,namecheap,,,16/09/2026 09:16
 df491173-1168-4180-bde9-318b43de8586,blazonedtrail.me,available,,,medium,high,14,,,,
-d2900332-8c29-4e04-a0b9-5c03cc35812c,almadinah.me,available,,,medium,high,10,,,,
-2e32f46d-bcf3-49a8-9b3d-67c5d6afd2f0,parcel.me,resell,,,high,high,6,"Name.com, Inc.",30/09/2011 02:35,30/09/2025 02:35,
+d2900332-8c29-4e04-a0b9-5c03cc35812c,almadinah.me,available,10.98,23.98,medium,low,10,namecheap,,,18/09/2026 01:29
+2e32f46d-bcf3-49a8-9b3d-67c5d6afd2f0,parcel.me,resell,,,high,high,6,"Name.com, Inc.",30/09/2011 02:35,30/09/2027 02:35,17/09/2026 10:22
 230fda45-374d-4a8d-ba14-e7824182f443,heedfully.me,available,1.98,23.98,low,low,9,namecheap,,,13/09/2026 17:31
 c44bd85c-2a2e-43c0-808c-3047abd7c43d,ginosho.me,available,,,medium,low,8,,,,
 2a7c914a-aa1d-4bb5-99d3-fbd9e31ee214,goldpan.me,available,,,medium,high,8,,,,
@@ -11,7 +11,7 @@ c52cfbbb-2d49-4131-8f64-6266e38e13a5,thriftily.me,available,9.99,19.99,low,low,9
 ccb47d7a-5081-4752-aa9b-2c3daaf7103c,hercules.me,resell,,,high,low,8,Dynadot Inc,21/12/2015 05:51,21/12/2026 05:51,
 56e69d86-9040-4a3a-b1da-b2dc58ef1aee,prickling.me,available,1.98,23.98,low,low,9,namecheap,,,11/09/2026 16:09
 0eea3059-2118-4fbb-83f5-eeb86c7791b5,asprovidedfor.me,available,23.98,,medium,low,15,namecheap,,,
-4c67b799-7627-470b-a799-c52656d37c71,talon.me,resell,,,medium,high,5,Dynadot Inc,04/07/2020 06:11,04/07/2026 06:11,
+4c67b799-7627-470b-a799-c52656d37c71,talon.me,resell,,,medium,high,5,Dynadot Inc,04/07/2020 06:11,04/07/2027 06:11,17/09/2026 14:28
 888bd3df-69d1-476e-ad08-2a87ea02077a,strokeoar.me,available,,,medium,high,10,,,,
 246d461a-c256-4d06-8aa7-353570b4bddf,Canadianbacon.me,available,,,high,low,14,,,,
 0efd8d44-2868-4dc4-8d67-a97d0eee6a2b,BulgarianHound.me,available,,,medium,high,15,,,,
@@ -31,7 +31,7 @@ cf9c8743-377c-43b2-9b37-3b9b6cac5f13,workedup.me,available,9.99,19.99,low,low,9,
 1fb31a73-da60-45a0-99c9-5cd5238fa017,playstructure.me,available,,,medium,high,14,,,,
 154a50e5-ef57-4828-9695-fbd44d3fad7d,handsels.me,available,,,low,low,8,,,,
 adc2bece-4e74-4e87-bc7d-521ea7df667d,rattleoff.me,available,,,medium,high,10,,,,
-285364be-1404-4144-9403-698c79f85504,rewards.me,resell,,,medium,low,7,Dynadot Inc,10/07/2008 03:30,10/07/2026 03:30,
+285364be-1404-4144-9403-698c79f85504,rewards.me,resell,,,medium,low,7,Dynadot Inc,10/07/2008 03:30,10/07/2027 03:30,18/09/2026 01:13
 a729e809-b5fb-4e08-bb16-5c3dcabb8afc,enginegenerator.me,available,,,medium,high,16,,,,
 ac958ed6-877c-4228-8faa-0d5e2c40f139,piezosensitive.me,available,,,low,low,14,,,,
 0d37417f-7cdb-492d-b04f-feec14ed6ecc,caramelapples.me,available,,,medium,low,14,,,,
@@ -275,7 +275,7 @@ f1952bdb-bc95-4765-b52f-cf0844530096,treatment.me,resell,19548.85,27.99,high,low
 eeb09441-5ff3-436f-917c-be130271fa1d,newshekel.me,available,,,medium,high,10,,,,
 16f6c474-3a65-4f81-956b-4a798513107f,actofparliament.me,available,,,medium,high,17,,,,
 26fe54fb-aa83-4d98-9f5a-a354d25172e4,roundtable.me,resell,,,medium,high,10,"Name.com, Inc.",22/02/2015 06:06,22/02/2026 06:06,
-00e88afa-af50-4058-8002-08733b644813,decree.me,resell,,,high,high,6,Dynadot Inc,03/07/2015 02:43,03/07/2026 02:43,
+00e88afa-af50-4058-8002-08733b644813,decree.me,resell,,,high,high,6,Dynadot Inc,03/07/2015 02:43,03/07/2027 02:43,17/09/2026 12:11
 45a0d798-8999-4d47-a1c7-fa414a7b6f66,Elliana.me,available,,,medium,high,7,,,,
 365e64cc-236f-4236-8e5a-11261112ab6e,spiffiest.me,available,,,low,low,9,,,,
 f008ef74-5b71-4df4-8e4a-456106654cba,shake.me,available,,,medium,high,5,,,,
@@ -496,7 +496,7 @@ f75c4b9b-111a-4e7f-952e-7c092e945788,streettheater.me,available,,,medium,high,14
 c1164fb0-5e0b-4c85-b12c-5592e5655258,icefoot.me,available,,,medium,high,8,,,,
 b358c60f-3c12-49aa-ae60-ffe4be256844,FirthofTay.me,available,,,medium,low,12,,,,
 4c6a4c4c-812e-4c12-beba-95afb594233a,invincibility.me,available,,,medium,low,13,,,,
-812af4a1-d659-4656-b349-f155651cee9e,adams.me,resell,,,medium,high,5,"GoDaddy.com, LLC",29/04/2008 17:58,29/04/2026 17:58,
+812af4a1-d659-4656-b349-f155651cee9e,adams.me,resell,,,low,low,5,"GoDaddy.com, LLC",29/04/2008 17:58,29/04/2027 17:58,17/09/2026 06:17
 7c33aca7-3fbf-47dc-81d2-b917c1384074,legcutter.me,available,,,medium,high,10,,,,
 327f0c8f-7792-4137-a19f-fbc6a0468a57,bigdrum.me,available,,,medium,high,8,,,,
 6d9259a7-ea97-4ba4-8844-c9a9cbeb4121,beadmaze.me,available,,,medium,high,9,,,,
@@ -591,7 +591,7 @@ d792a081-f96f-4e7b-a537-6f9eddeced26,ZenBuddhism.me,available,,,medium,high,12,,
 4684298a-5634-40bb-8131-c09c6eee21c2,cybercapitalism.me,available,,,medium,high,15,,,,
 f14594c9-8448-41c8-8fb9-5a217f8e387d,doubleti.me,available,,,medium,high,11,,,,
 1f67bd53-9d86-44e3-b0df-3a82ada76e41,unwinded.me,available,,,medium,high,8,,,,
-79c72850-91b3-458a-9ccd-8503b262bd5a,skip.me,resell,,,medium,high,4,Dynadot Inc,10/07/2008 03:31,10/07/2026 03:31,
+79c72850-91b3-458a-9ccd-8503b262bd5a,skip.me,resell,,,medium,high,4,Dynadot Inc,10/07/2008 03:31,10/07/2027 03:31,18/09/2026 01:14
 504432e7-baa9-4ad5-b6e8-5076529e31d0,ambernectar.me,available,,,medium,high,12,,,,
 f9036299-813b-4f49-ab43-93f0347e3c19,puttobed.me,available,9.99,19.99,medium,low,10,namesilo,,,
 e60ac4b7-464f-48f7-8431-9e084e9cdfa5,auditionee.me,available,,,medium,high,10,,,,
@@ -637,7 +637,7 @@ f9fa15bb-6908-40f8-8122-0112c87ce003,autoharp.me,available,,,medium,high,8,,,,
 9e58f26d-2490-4254-962a-171330190fc7,park.me,resell,,,high,low,4,"GoDaddy.com, LLC",17/08/2008 08:29,17/08/2026 08:29,
 e49ee78a-d169-48e5-a28e-b02a6c12dd1b,backwashable.me,available,,,medium,low,13,,,,
 4bd2046d-2f5b-420d-9a02-09888c3b53d2,freshmanfifteen.me,available,,,medium,high,16,,,,
-94285bb8-179e-4453-8219-eac4cce28bcf,swishing.me,available,23.98,,medium,low,8,namecheap,,,
+94285bb8-179e-4453-8219-eac4cce28bcf,swishing.me,available,10.98,23.98,medium,low,8,namecheap,,,18/09/2026 03:16
 444e295a-4bc1-47ee-a009-ca7a2b6acfe3,ensuant.me,available,9.99,19.99,low,low,7,namesilo,,,
 28b230cb-d19d-44d7-9cf8-ad59a151554b,doublehearted.me,available,,,medium,high,14,,,,
 c9fc8ce0-000a-47de-9877-151c7258574c,finalrespects.me,available,9.99,19.99,medium,low,14,namesilo,,,
@@ -701,7 +701,6 @@ d689d35c-a3af-405b-a95b-c646a288b81a,towering.me,available,1.98,23.98,medium,low
 4ae72c79-4be8-4c3b-b590-8e7d5d94b052,householdinco.me,available,,,medium,high,16,,,,
 d6bb26a2-ec9f-40e5-a57e-ba0288c219b3,autotypic.me,available,10.98,23.98,low,low,9,namecheap,,,07/08/2026 21:18
 b81535c4-61e7-40f7-b016-b2df2692bb24,nurseshark.me,available,,,medium,high,11,,,,
-02613736-e629-4a59-8e6b-8955aa8bbe2f,roofing.me,resell,,,medium,high,7,Porkbun LLC,09/07/2008 17:08,09/07/2026 17:08,
 783d49c1-2553-4e5a-8ebb-c52ba895f2c4,VultureCity.me,available,,,medium,high,12,,,,
 bb010de6-22ce-47bc-ab95-7475217bee52,tenderizers.me,available,,,low,low,11,,,,
 57c41799-d431-47c0-ac81-3cc93b30a980,frybread.me,available,,,medium,high,9,,,,
@@ -926,7 +925,7 @@ b35b26bc-a977-4c2e-b907-2ba94a77d8e6,overrule.me,available,,,medium,high,8,,,,
 0eb9bb12-1058-48b8-9fc4-90305c2c99c2,arbitrate.me,resell,,,low,low,9,Dynadot Inc,11/05/2015 19:18,11/05/2027 19:18,22/08/2026 08:17
 8278524d-38ba-4ee8-8e66-3c00041f2758,whitesnow.me,available,9.99,19.99,medium,low,10,namesilo,,,
 fa150c8b-ff6b-43c9-895e-2259afc1b7af,shrimped.me,available,,,low,low,8,,,,
-e5e97f26-3d3a-4c8d-b618-125c321f6ace,voting.me,resell,,,high,low,6,Dynadot Inc,10/07/2008 03:31,10/07/2026 03:31,
+e5e97f26-3d3a-4c8d-b618-125c321f6ace,voting.me,resell,,,high,low,6,Dynadot Inc,10/07/2008 03:31,10/07/2027 03:31,18/09/2026 01:15
 dab7fbb0-dbae-4f51-b414-24a3d8917fe3,corporatebond.me,available,,,low,low,14,,,,
 9dc64250-32d5-4d31-902f-42b433636c84,tenaciously.me,available,,,medium,high,11,,,,
 421642c7-f14f-491a-98f3-af04455a239a,namtap.me,available,,,medium,high,6,,,,
@@ -999,3 +998,4 @@ e1a215af-2f71-4012-9730-66e0409ce666,feedon.me,resell,,,medium,high,7,"NameCheap
 b4146e5a-60f9-4dfa-bf77-1cdad0918dbe,executiveprivilege.me,available,23.98,,medium,low,19,namecheap,,,
 6b5de5be-8f1b-41ea-a3f0-41785261dac1,alltogether.me,resell,,,high,high,12,"Chengdu West Dimension Digital Technology Co., Ltd.",08/11/2024 12:40,08/11/2025 12:40,
 031e0d87-cbaf-4dd6-bc20-5be26cdb3b28,workhusband.me,available,,,medium,high,12,,,,
+0bfd99c6-90f7-4689-a8ed-d6a114ccceab,Iamadoctor.me,available,9.99,19.99,medium,low,13,namesilo,,,
