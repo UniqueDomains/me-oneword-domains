@@ -1,10 +1,10 @@
-# Available .ME One-Word Domains (70,119)
+# Available .ME One-Word Domains (70,509)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-70%2C119%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-70%2C509%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .me one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **70,119 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **70,509 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 70,119 domains · **Median ask:** $1,132.69 · **High-demand under $2,500:** 159
+**Public extract:** 1,000 rows · **Live catalog:** 70,509 domains · **Median ask:** $1,108.89 · **High-demand under $2,500:** 158
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/me`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar       |
-| ------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------- |
-| count.me      | premium   | $7,500     | —             | high           | low    | 5      | name.com        |
-| clxv.me       | available | $9.99      | $19.99        | low            | low    | 4      | namesilo        |
-| abbot.me      | resell    | $11.99     | $26.99        | low            | low    | 5      | name.com        |
-| east.me       | premium   | $3,750     | $27.99        | high           | low    | 4      | name.com        |
-| lvii.me       | available | $9.99      | $19.99        | low            | low    | 4      | namesilo        |
-| rogue.me      | resell    | $5,789.84  | —             | medium         | low    | 5      | NameSilo, LLC   |
-| high.me       | premium   | $35,533.82 | —             | medium         | low    | 4      | Dynadot Inc     |
-| anile.me      | available | $9.99      | $19.99        | low            | low    | 5      | namesilo        |
-| advisory.me   | resell    | $6,541.20  | $26.99        | medium         | low    | 8      | Dynadot Inc     |
-| into.me       | premium   | $7,499.99  | —             | medium         | low    | 4      | name.com        |
-| paved.me      | available | $1.98      | $23.98        | low            | low    | 5      | namecheap       |
-| treatment.me  | resell    | $19,548.85 | $27.99        | medium         | low    | 9      | Dynadot Inc     |
-| sort.me       | premium   | $7,500     | —             | high           | low    | 4      | name.com        |
-| rhoda.me      | available | $9.99      | $19.99        | medium         | low    | 5      | namesilo        |
-| employment.me | resell    | $4,560.32  | —             | high           | low    | 10     | Dynadot Inc     |
-| soppy.me      | available | $9.99      | $19.99        | low            | low    | 5      | namesilo        |
-| boj.me        | resell    | —          | —             | medium         | high   | 3      | Spaceship, Inc. |
-| debit.me      | premium   | $6,250     | $26.99        | high           | high   | 5      | name.com        |
-| bardic.me     | available | $10.98     | $23.98        | low            | low    | 6      | namecheap       |
-| nee.me        | resell    | —          | —             | low            | low    | 3      | Dynadot Inc     |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar            |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------- |
+| speaking.me   | resell    | —         | —             | high           | medium | 8      | Dynadot Inc          |
+| romanian.me   | resell    | —         | —             | high           | medium | 8      | GoDaddy.com, LLC     |
+| clxv.me       | available | $9.99     | $19.99        | high           | low    | 4      | namesilo             |
+| rogue.me      | resell    | $5,789.84 | —             | high           | low    | 5      | NameSilo, LLC        |
+| into.me       | premium   | $7,499.99 | —             | high           | low    | 4      | name.com             |
+| anile.me      | available | $9.99     | $19.99        | high           | low    | 5      | namesilo             |
+| teacher.me    | resell    | $6,900    | $27.99        | high           | low    | 7      | GoDaddy.com, LLC     |
+| sort.me       | premium   | $7,500    | —             | high           | low    | 4      | name.com             |
+| axile.me      | available | $9.99     | $19.99        | high           | low    | 5      | namesilo             |
+| adhesive.me   | resell    | $573.85   | $27.99        | high           | low    | 8      | Spaceship, Inc.      |
+| count.me      | premium   | $7,500    | —             | high           | low    | 5      | name.com             |
+| paved.me      | available | $1.98     | $23.98        | high           | low    | 5      | namecheap            |
+| advisory.me   | resell    | $6,541.20 | $26.99        | high           | low    | 8      | Dynadot Inc          |
+| debit.me      | premium   | $6,250    | $26.99        | high           | high   | 5      | name.com             |
+| rhoda.me      | available | $9.99     | $19.99        | high           | low    | 5      | namesilo             |
+| actuarial.me  | resell    | $11.99    | $26.99        | high           | low    | 9      | Atom.com Domains LLC |
+| during.me     | premium   | $3,749.99 | —             | high           | low    | 6      | name.com             |
+| soppy.me      | available | $9.99     | $19.99        | medium         | low    | 5      | namesilo             |
+| employment.me | resell    | $4,560.32 | —             | high           | low    | 10     | Dynadot Inc          |
+| overalls.me   | premium   | $573.85   | $27.99        | high           | high   | 8      | name.com             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 70,119 live domains                        |
+| 1,000-row public sample | 70,509 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 159 high-demand names under $2,500         |
+| Basic exported fields   | 158 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ME One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ME One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
