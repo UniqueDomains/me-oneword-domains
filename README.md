@@ -1,10 +1,10 @@
-# Available .ME One-Word Domains (70,509)
+# Available .ME One-Word Domains (33,794)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-70%2C509%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C794%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .me one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **70,509 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **33,794 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 70,509 domains · **Median ask:** $1,108.89 · **High-demand under $2,500:** 158
+**Public extract:** 1,000 rows · **Live catalog:** 33,794 domains · **Median ask:** $1,074.07 · **High-demand under $2,500:** 334
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/me`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar            |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------- |
-| speaking.me   | resell    | —         | —             | high           | medium | 8      | Dynadot Inc          |
-| romanian.me   | resell    | —         | —             | high           | medium | 8      | GoDaddy.com, LLC     |
-| clxv.me       | available | $9.99     | $19.99        | high           | low    | 4      | namesilo             |
-| rogue.me      | resell    | $5,789.84 | —             | high           | low    | 5      | NameSilo, LLC        |
-| into.me       | premium   | $7,499.99 | —             | high           | low    | 4      | name.com             |
-| anile.me      | available | $9.99     | $19.99        | high           | low    | 5      | namesilo             |
-| teacher.me    | resell    | $6,900    | $27.99        | high           | low    | 7      | GoDaddy.com, LLC     |
-| sort.me       | premium   | $7,500    | —             | high           | low    | 4      | name.com             |
-| axile.me      | available | $9.99     | $19.99        | high           | low    | 5      | namesilo             |
-| adhesive.me   | resell    | $573.85   | $27.99        | high           | low    | 8      | Spaceship, Inc.      |
-| count.me      | premium   | $7,500    | —             | high           | low    | 5      | name.com             |
-| paved.me      | available | $1.98     | $23.98        | high           | low    | 5      | namecheap            |
-| advisory.me   | resell    | $6,541.20 | $26.99        | high           | low    | 8      | Dynadot Inc          |
-| debit.me      | premium   | $6,250    | $26.99        | high           | high   | 5      | name.com             |
-| rhoda.me      | available | $9.99     | $19.99        | high           | low    | 5      | namesilo             |
-| actuarial.me  | resell    | $11.99    | $26.99        | high           | low    | 9      | Atom.com Domains LLC |
-| during.me     | premium   | $3,749.99 | —             | high           | low    | 6      | name.com             |
-| soppy.me      | available | $9.99     | $19.99        | medium         | low    | 5      | namesilo             |
-| employment.me | resell    | $4,560.32 | —             | high           | low    | 10     | Dynadot Inc          |
-| overalls.me   | premium   | $573.85   | $27.99        | high           | high   | 8      | name.com             |
+| domain          | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                               |
+| --------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| bilk.me         | available | $1.98      | $23.98        | medium         | low    | 4      | namecheap                                               |
+| room.me         | resell    | $25,286.20 | $27.99        | high           | low    | 4      | Dynadot Inc                                             |
+| upon.me         | premium   | $18,125    | —             | high           | low    | 4      | name.com                                                |
+| dour.me         | available | $9.99      | $19.99        | medium         | low    | 4      | namesilo                                                |
+| bosses.me       | resell    | $23.98     | —             | high           | low    | 6      | Dominet (HK) Limited                                    |
+| below.me        | premium   | $8,280     | $16.52        | high           | low    | 5      | namesilo                                                |
+| sewn.me         | available | $1.98      | $23.98        | high           | low    | 4      | namecheap                                               |
+| sirens.me       | resell    | $9.99      | $19.99        | medium         | low    | 6      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| women.me        | premium   | $7,500.01  | —             | high           | low    | 5      | name.com                                                |
+| ascus.me        | available | $9.99      | $19.99        | high           | low    | 5      | namesilo                                                |
+| factories.me    | resell    | $9.99      | $19.99        | high           | low    | 9      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| member.me       | premium   | $3,750     | —             | high           | low    | 6      | name.com                                                |
+| aunts.me        | available | $9.99      | $19.99        | medium         | low    | 5      | namesilo                                                |
+| solutions.me    | resell    | $17,248.85 | $27.99        | high           | low    | 9      | Dynadot Inc                                             |
+| despite.me      | premium   | $3,749.99  | —             | high           | low    | 7      | name.com                                                |
+| frore.me        | available | $9.99      | $19.99        | medium         | low    | 5      | namesilo                                                |
+| underwriting.me | resell    | $2,298.85  | $27.99        | high           | high   | 12     | Dynadot Inc                                             |
+| confusion.me    | premium   | $1,667.50  | $27.99        | high           | low    | 9      | name.com                                                |
+| roily.me        | available | $1.98      | $23.98        | medium         | low    | 5      | namecheap                                               |
+| azo.me          | resell    | —          | —             | high           | low    | 3      | Spaceship, Inc.                                         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 70,509 live domains                        |
+| 1,000-row public sample | 33,794 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 158 high-demand names under $2,500         |
+| Basic exported fields   | 334 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ME One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ME One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
