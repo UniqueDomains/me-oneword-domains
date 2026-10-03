@@ -1,10 +1,10 @@
-# Available .ME One-Word Domains (35,912)
+# Available .ME One-Word Domains (36,532)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-35%2C912%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-36%2C532%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .me one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **35,912 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **36,532 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 35,912 domains · **Median ask:** $792.74 · **High-demand under $2,500:** 445
+**Public extract:** 1,000 rows · **Live catalog:** 36,532 domains · **Median ask:** $753.81 · **High-demand under $2,500:** 436
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/me`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                               |
-| --------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| bilk.me         | available | $1.98      | $23.98        | medium         | low    | 4      | namecheap                                               |
-| room.me         | resell    | $25,286.20 | $27.99        | high           | low    | 4      | Dynadot Inc                                             |
-| upon.me         | premium   | $20,010    | $16.52        | high           | low    | 4      | namesilo                                                |
-| dour.me         | available | $9.99      | $19.99        | medium         | low    | 4      | namesilo                                                |
-| bosses.me       | resell    | $23.98     | —             | high           | low    | 6      | Dominet (HK) Limited                                    |
-| below.me        | premium   | $8,280     | $16.52        | high           | low    | 5      | namesilo                                                |
-| sewn.me         | available | $1.98      | $23.98        | high           | low    | 4      | namecheap                                               |
-| sirens.me       | resell    | $9.99      | $19.99        | medium         | low    | 6      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| women.me        | premium   | $7,500.01  | —             | high           | low    | 5      | name.com                                                |
-| undp.me         | available | $8.70      | $15.53        | high           | high   | 4      | spaceship                                               |
-| confusion.me    | resell    | $1,667.50  | $27.99        | high           | low    | 9      | name.com                                                |
-| member.me       | premium   | $3,853.21  | $18.29        | high           | low    | 6      | porkbun                                                 |
-| ascus.me        | available | $9.99      | $19.99        | high           | low    | 5      | namesilo                                                |
-| factories.me    | resell    | $9.99      | $19.99        | medium         | low    | 9      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| despite.me      | premium   | $4,140     | $16.52        | high           | low    | 7      | namesilo                                                |
-| aunts.me        | available | $9.99      | $19.99        | medium         | low    | 5      | namesilo                                                |
-| solutions.me    | resell    | $17,248.85 | $27.99        | high           | low    | 9      | Dynadot Inc                                             |
-| intensify.me    | premium   | $177,675   | $27.99        | high           | low    | 9      | Name.com, Inc.                                          |
-| farce.me        | available | $9.99      | $19.99        | high           | low    | 5      | namesilo                                                |
-| underwriting.me | resell    | $2,298.85  | $27.99        | high           | high   | 12     | Dynadot Inc                                             |
+| domain       | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                               |
+| ------------ | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| bilk.me      | available | $1.98      | $23.98        | medium         | low    | 4      | namecheap                                               |
+| room.me      | resell    | $25,286.20 | $27.99        | high           | low    | 4      | Dynadot Inc                                             |
+| upon.me      | premium   | $20,010    | $16.52        | high           | low    | 4      | namesilo                                                |
+| dour.me      | available | $9.99      | $19.99        | medium         | low    | 4      | namesilo                                                |
+| ropes.me     | resell    | $9.99      | $19.99        | high           | low    | 5      | namesilo                                                |
+| below.me     | premium   | $8,280     | $16.52        | high           | low    | 5      | namesilo                                                |
+| sewn.me      | available | $1.98      | $23.98        | high           | low    | 4      | namecheap                                               |
+| bosses.me    | resell    | $23.98     | —             | high           | low    | 6      | Dominet (HK) Limited                                    |
+| women.me     | premium   | $7,706.13  | $18.29        | high           | low    | 5      | porkbun                                                 |
+| undp.me      | available | $8.70      | $15.53        | high           | high   | 4      | spaceship                                               |
+| sirens.me    | resell    | $9.99      | $19.99        | medium         | low    | 6      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| member.me    | premium   | $3,853.21  | $18.29        | high           | low    | 6      | porkbun                                                 |
+| ascus.me     | available | $9.99      | $19.99        | high           | low    | 5      | namesilo                                                |
+| confusion.me | resell    | $1,667.50  | $27.99        | high           | low    | 9      | name.com                                                |
+| despite.me   | premium   | $4,140     | $16.52        | high           | low    | 7      | namesilo                                                |
+| aunts.me     | available | $9.99      | $19.99        | medium         | low    | 5      | namesilo                                                |
+| factories.me | resell    | $9.99      | $19.99        | medium         | low    | 9      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| intensify.me | premium   | $177,675   | $27.99        | high           | low    | 9      | Name.com, Inc.                                          |
+| bogue.me     | available | $8.70      | $15.53        | high           | low    | 5      | spaceship                                               |
+| solutions.me | resell    | $17,248.85 | $27.99        | high           | low    | 9      | Dynadot Inc                                             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 35,912 live domains                        |
+| 1,000-row public sample | 36,532 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 445 high-demand names under $2,500         |
+| Basic exported fields   | 436 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ME One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ME One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
