@@ -4,9 +4,9 @@
 
 1,000 real .me one-word domain names, refreshed every night, with their status and, when known, the price to register or buy them and what they renew at. One line of pandas, no scraping, no key.
 
-Each word exists once on each ending. Unique.domains tracks [92,151 names on .me](https://unique.domains/tld/me); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
+Each word exists once on each ending. Unique.domains tracks [92,194 names on .me](https://unique.domains/tld/me); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
 
-45,913 one-word .me names are free to register today. Cheapest first year $8.70 at Spaceship, renewal $15.53 there. 88 .me sales in the last 12 months, median $560.
+45,982 one-word .me names are free to register today, from $2.05 the first year at Name.com. Renewal there $28.83, 14 times the first year. 89 .me sales in the last 12 months, median $595.
 
 Live page: [unique.domains/tld/me](https://unique.domains/tld/me?utm_source=github&utm_medium=referral&utm_campaign=repo_me_oneword_domains&utm_content=top_tld_page)
 
@@ -70,7 +70,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 26,541 names in the live list today.
+- The files hold 1,000 rows of the 26,664 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 
