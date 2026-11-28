@@ -4,7 +4,7 @@
 
 This repository is the public extract of the page at `https://unique.domains/tld/me`.
 
-- The files hold 1,000 rows of the 26,664 names in the live list today.
+- The files hold 1,000 rows of the 26,706 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 
